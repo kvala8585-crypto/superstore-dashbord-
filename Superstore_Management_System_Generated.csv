@@ -1,0 +1,1001 @@
+Order ID,Order Date,Ship Date,Customer ID,Customer Name,Customer Segment,Product ID,Product Name,Category,Region,State,City,Quantity Sold,Cost Price,Sales,Profit,Payment Mode,Delivery Status,Shipment Mode,Discount,Return Status,Auto Reorder,Reorder Quantity
+ORD1000,26-04-2025,06-09-2025,CUST242,David Brown,Home Office,PROD9684,Chair,Office Supplies,East,Maharashtra,Mumbai,47,13627.91,15271.05,1643.14,Cash,Pending,Same Day,21,Returned,Yes,25
+ORD1001,24-02-2024,31-01-2025,CUST583,Sophia Johnson,Corporate,PROD1243,Printer,Furniture,East,Tamil Nadu,Chennai,17,4382.1,5335.59,953.49,Credit Card,Pending,Same Day,9,Returned,No,8
+ORD1002,25-11-2024,13-06-2025,CUST928,John Lee,Consumer,PROD3560,Calculator,Technology,North,UP,Delhi,23,10645.05,15408.48,4763.43,Credit Card,Cancelled,First Class,28,Returned,No,40
+ORD1003,09-10-2024,29-04-2024,CUST847,Sophia Green,Corporate,PROD4800,Desk,Office Supplies,West,Delhi,Lucknow,34,14975.95,19522.96,4547.01,Debit Card,Cancelled,Same Day,20,Returned,Yes,20
+ORD1004,08-07-2025,16-10-2024,CUST976,Amy Smith,Home Office,PROD7369,Bookshelf,Furniture,East,Karnataka,Chennai,28,11033.34,18515.57,7482.23,Debit Card,Delivered,Same Day,15,Returned,Yes,32
+ORD1005,26-05-2024,21-08-2025,CUST932,Stephen Dunn,Corporate,PROD7544,Printer,Furniture,East,Punjab,Amritsar,38,4153.97,5506.67,1352.7,Net Banking,Pending,Second Class,11,Returned,Yes,44
+ORD1006,06-05-2024,09-03-2024,CUST334,Stephen Johnson,Home Office,PROD5957,Laptop,Office Supplies,West,Maharashtra,Mumbai,42,7259.34,12705.23,5445.89,Net Banking,Pending,Second Class,26,Returned,Yes,8
+ORD1007,29-05-2024,18-03-2025,CUST185,Chris Brown,Home Office,PROD6597,Pen Set,Technology,South,Punjab,Bangalore,10,18248.87,30879.17,12630.3,Cash,Pending,Second Class,7,No Return,Yes,14
+ORD1008,29-07-2024,03-07-2024,CUST390,Sophia Lee,Corporate,PROD4044,Laptop,Furniture,South,Punjab,Delhi,11,10210.5,12013.63,1803.13,Debit Card,Cancelled,Standard Class,8,Returned,No,34
+ORD1009,05-07-2024,20-03-2024,CUST767,Emma Lee,Consumer,PROD2370,Laptop,Furniture,North,Delhi,Amritsar,43,12856.29,18699.06,5842.77,Credit Card,Cancelled,Second Class,0,Returned,Yes,34
+ORD1010,07-07-2024,17-02-2025,CUST801,Sophia Dunn,Home Office,PROD9268,Laptop,Technology,West,Punjab,Lucknow,16,11314.86,15222.35,3907.49,Cash,Cancelled,Standard Class,18,No Return,No,14
+ORD1011,02-08-2024,12-11-2025,CUST256,Amy Lee,Corporate,PROD7548,Laptop,Office Supplies,West,UP,Bangalore,45,8997.75,15469.59,6471.84,UPI,Cancelled,Standard Class,15,Returned,Yes,14
+ORD1012,05-09-2024,17-04-2024,CUST416,David Lee,Consumer,PROD2297,Calculator,Office Supplies,South,Maharashtra,Bangalore,31,7428.72,9498.63,2069.91,Debit Card,Pending,First Class,26,Returned,No,6
+ORD1013,13-07-2025,18-02-2025,CUST561,David Smith,Consumer,PROD8898,Calculator,Furniture,West,Karnataka,Bangalore,37,14534.27,18512.69,3978.42,Debit Card,Pending,Standard Class,1,Returned,No,3
+ORD1014,06-02-2024,17-10-2024,CUST842,John Lee,Corporate,PROD6009,Printer,Technology,East,Maharashtra,Mumbai,44,11020.44,12529.39,1508.95,Net Banking,Delivered,Same Day,28,Returned,Yes,1
+ORD1015,29-10-2024,14-05-2024,CUST912,Sophia Green,Home Office,PROD4581,Calculator,Technology,South,UP,Mumbai,43,4616.52,6769.23,2152.71,Debit Card,Pending,First Class,20,No Return,Yes,44
+ORD1016,30-05-2025,21-12-2024,CUST898,Monica Smith,Consumer,PROD7358,Printer,Office Supplies,East,Tamil Nadu,Mumbai,11,18710.09,29482.65,10772.56,Debit Card,Delivered,Standard Class,2,No Return,No,2
+ORD1017,20-06-2024,19-04-2024,CUST234,Amy Johnson,Home Office,PROD6048,Calculator,Furniture,East,Delhi,Mumbai,41,8739.92,13555.09,4815.17,Cash,Cancelled,Second Class,26,Returned,No,21
+ORD1018,19-06-2024,21-02-2024,CUST861,Emma Brown,Corporate,PROD7201,Laptop,Technology,East,UP,Mumbai,8,2425.18,2669.84,244.66,Debit Card,Pending,Same Day,8,No Return,Yes,38
+ORD1019,10-01-2025,07-07-2025,CUST383,Amy Brown,Consumer,PROD6535,Bookshelf,Technology,South,UP,Mumbai,33,992.27,1772.46,780.19,Cash,Delivered,Second Class,1,No Return,No,37
+ORD1020,31-01-2024,29-07-2025,CUST651,Monica Lee,Corporate,PROD9413,Laptop,Technology,North,Tamil Nadu,Chennai,19,2261.3,3853.5,1592.2,UPI,Cancelled,First Class,4,Returned,No,30
+ORD1021,25-02-2025,31-05-2025,CUST436,Chris Johnson,Corporate,PROD6098,Desk,Office Supplies,West,UP,Chennai,46,4941.87,7619.22,2677.35,Debit Card,Cancelled,Standard Class,9,Returned,No,27
+ORD1022,07-03-2025,18-08-2025,CUST533,Stephen Smith,Home Office,PROD1522,Bookshelf,Office Supplies,East,UP,Lucknow,47,4473.38,7766.78,3293.4,Cash,Pending,Standard Class,5,Returned,No,49
+ORD1023,02-12-2024,09-08-2024,CUST691,John Brown,Home Office,PROD4644,Laptop,Technology,South,Maharashtra,Delhi,28,18317.27,21954.97,3637.7,Credit Card,Pending,Standard Class,19,No Return,No,5
+ORD1024,08-07-2024,15-10-2024,CUST636,Amy Brown,Home Office,PROD1249,Chair,Technology,South,Punjab,Amritsar,40,5700.94,6879.93,1178.99,Credit Card,Delivered,Second Class,9,Returned,No,0
+ORD1025,22-05-2025,30-06-2025,CUST682,Monica Johnson,Corporate,PROD1663,Chair,Technology,West,Karnataka,Delhi,14,7577.96,11645.28,4067.32,UPI,Pending,Second Class,5,Returned,Yes,3
+ORD1026,27-10-2025,17-01-2025,CUST440,Sophia Lee,Consumer,PROD2369,Pen Set,Office Supplies,East,UP,Lucknow,40,10116.08,17602.27,7486.19,Credit Card,Delivered,Second Class,7,No Return,No,47
+ORD1027,20-02-2024,10-06-2024,CUST715,Sophia Brown,Corporate,PROD1771,Pen Set,Office Supplies,South,UP,Delhi,36,14616.43,24062.64,9446.21,Net Banking,Delivered,Standard Class,14,Returned,Yes,24
+ORD1028,24-05-2025,25-02-2024,CUST952,John Lee,Consumer,PROD3829,Laptop,Office Supplies,North,Punjab,Mumbai,27,11449.79,17315.93,5866.14,Debit Card,Pending,Second Class,13,No Return,Yes,5
+ORD1029,28-02-2025,10-06-2025,CUST620,Amy Smith,Consumer,PROD9595,Bookshelf,Office Supplies,North,Maharashtra,Bangalore,20,5364.54,8562.12,3197.58,Credit Card,Pending,Standard Class,27,No Return,No,38
+ORD1030,04-11-2024,02-06-2025,CUST454,Stephen Green,Corporate,PROD4093,Laptop,Office Supplies,North,Delhi,Lucknow,21,215.28,287.05,71.77,Cash,Delivered,Second Class,3,No Return,Yes,31
+ORD1031,28-04-2025,08-10-2025,CUST985,David Smith,Corporate,PROD7509,Calculator,Furniture,South,Punjab,Lucknow,40,4954.52,5961.18,1006.66,UPI,Delivered,Second Class,12,No Return,No,35
+ORD1032,04-04-2025,15-06-2024,CUST938,Amy Smith,Home Office,PROD1957,Bookshelf,Technology,North,Tamil Nadu,Delhi,23,7313.22,8091.54,778.32,Net Banking,Cancelled,Same Day,2,No Return,Yes,13
+ORD1033,20-07-2024,04-07-2024,CUST755,Amy Dunn,Corporate,PROD1957,Bookshelf,Furniture,West,Maharashtra,Bangalore,31,1280.67,1829.98,549.31,Debit Card,Cancelled,Second Class,18,Returned,No,2
+ORD1034,26-12-2024,06-08-2025,CUST428,Monica Lee,Corporate,PROD7723,Bookshelf,Furniture,South,Maharashtra,Bangalore,43,3088.9,3489.17,400.27,Credit Card,Cancelled,Second Class,27,No Return,No,39
+ORD1035,13-07-2025,04-04-2025,CUST563,David Dunn,Home Office,PROD2344,Pen Set,Office Supplies,West,Karnataka,Amritsar,41,15046.56,19034.1,3987.54,Net Banking,Pending,First Class,7,No Return,No,35
+ORD1036,18-07-2025,11-01-2024,CUST328,Monica Dunn,Home Office,PROD7560,Chair,Furniture,East,Maharashtra,Lucknow,47,13236.15,18234.97,4998.82,UPI,Delivered,Standard Class,15,No Return,No,42
+ORD1037,05-05-2025,16-02-2024,CUST954,Chris Johnson,Consumer,PROD3896,Calculator,Furniture,East,Karnataka,Bangalore,22,5687.85,8903.14,3215.29,Net Banking,Delivered,Same Day,23,No Return,No,16
+ORD1038,10-10-2025,24-01-2025,CUST758,Stephen Smith,Corporate,PROD6020,Bookshelf,Technology,East,Karnataka,Amritsar,12,16210.02,26143.02,9933.0,Net Banking,Cancelled,Same Day,27,Returned,No,24
+ORD1039,22-12-2024,04-09-2024,CUST365,Chris Dunn,Consumer,PROD3322,Calculator,Furniture,West,UP,Amritsar,44,10622.27,13593.69,2971.42,Cash,Cancelled,Standard Class,2,Returned,No,31
+ORD1040,23-03-2024,14-08-2024,CUST595,Monica Brown,Home Office,PROD3413,Bookshelf,Office Supplies,South,UP,Chennai,42,2671.75,4568.5,1896.75,Net Banking,Delivered,Second Class,4,No Return,No,48
+ORD1041,27-05-2024,05-11-2025,CUST660,Amy Johnson,Consumer,PROD2781,Bookshelf,Technology,North,UP,Mumbai,46,4519.42,7890.69,3371.27,Net Banking,Delivered,First Class,3,No Return,Yes,13
+ORD1042,07-03-2025,20-07-2025,CUST510,Chris Johnson,Consumer,PROD9897,Calculator,Technology,West,Karnataka,Mumbai,5,9330.92,11908.21,2577.29,Cash,Cancelled,First Class,19,Returned,Yes,29
+ORD1043,05-01-2025,21-01-2025,CUST584,Emma Green,Home Office,PROD2175,Calculator,Office Supplies,North,Punjab,Bangalore,34,17473.11,24301.96,6828.85,Credit Card,Delivered,Same Day,9,No Return,Yes,29
+ORD1044,10-11-2024,10-04-2025,CUST298,Monica Lee,Home Office,PROD1562,Pen Set,Technology,East,Delhi,Delhi,6,17118.14,26881.46,9763.32,UPI,Cancelled,Standard Class,26,Returned,No,0
+ORD1045,25-08-2024,15-12-2025,CUST451,Amy Lee,Corporate,PROD4939,Calculator,Furniture,East,Delhi,Bangalore,35,14622.92,24680.49,10057.57,UPI,Cancelled,Standard Class,17,No Return,No,25
+ORD1046,22-10-2024,07-11-2025,CUST992,Amy Dunn,Corporate,PROD4999,Calculator,Office Supplies,West,Delhi,Amritsar,20,15497.32,26943.32,11446.0,Credit Card,Pending,Same Day,24,Returned,No,4
+ORD1047,23-08-2025,23-12-2024,CUST664,David Green,Corporate,PROD3707,Laptop,Office Supplies,West,Tamil Nadu,Lucknow,22,2069.95,3358.03,1288.08,Cash,Cancelled,First Class,10,Returned,No,32
+ORD1048,14-07-2024,02-01-2025,CUST980,Amy Lee,Consumer,PROD1637,Pen Set,Office Supplies,North,Tamil Nadu,Delhi,22,1446.74,1760.4,313.66,Credit Card,Cancelled,First Class,10,No Return,Yes,25
+ORD1049,29-12-2025,26-03-2025,CUST320,Amy Lee,Corporate,PROD2976,Printer,Furniture,North,Delhi,Lucknow,9,1191.15,1523.39,332.24,Net Banking,Delivered,Same Day,7,Returned,Yes,24
+ORD1050,01-01-2024,28-10-2025,CUST839,Monica Dunn,Consumer,PROD2408,Printer,Office Supplies,North,Tamil Nadu,Bangalore,43,5877.09,6678.99,801.9,UPI,Pending,Standard Class,5,No Return,Yes,34
+ORD1051,02-11-2025,26-12-2025,CUST646,David Smith,Home Office,PROD9574,Bookshelf,Technology,South,Delhi,Mumbai,40,3882.01,5383.48,1501.47,Debit Card,Cancelled,Second Class,4,No Return,Yes,44
+ORD1052,21-08-2024,26-07-2024,CUST568,Chris Brown,Home Office,PROD6069,Calculator,Technology,North,Punjab,Bangalore,8,15320.91,25587.52,10266.61,Debit Card,Cancelled,Same Day,8,No Return,Yes,1
+ORD1053,04-10-2024,02-12-2025,CUST531,David Lee,Corporate,PROD4244,Desk,Technology,North,UP,Chennai,36,19365.1,22678.21,3313.11,Credit Card,Pending,Standard Class,10,Returned,Yes,37
+ORD1054,25-08-2024,31-05-2024,CUST808,Chris Brown,Consumer,PROD1690,Printer,Technology,East,Maharashtra,Lucknow,29,19822.63,29619.62,9796.99,Net Banking,Pending,Second Class,10,Returned,No,23
+ORD1055,06-08-2025,15-10-2025,CUST923,Sophia Brown,Corporate,PROD3907,Calculator,Technology,South,Maharashtra,Lucknow,15,14416.86,16656.78,2239.92,UPI,Cancelled,Second Class,2,No Return,No,41
+ORD1056,05-03-2024,29-08-2025,CUST972,Sophia Brown,Home Office,PROD8707,Bookshelf,Technology,East,Delhi,Delhi,3,10497.68,16443.3,5945.62,Cash,Pending,Standard Class,3,Returned,Yes,29
+ORD1057,29-04-2024,18-06-2025,CUST402,Stephen Lee,Home Office,PROD4407,Pen Set,Office Supplies,North,Tamil Nadu,Bangalore,34,11490.85,15887.75,4396.9,Cash,Cancelled,Second Class,22,Returned,No,2
+ORD1058,09-11-2025,29-12-2024,CUST104,Sophia Dunn,Consumer,PROD1173,Desk,Furniture,North,UP,Chennai,44,19061.2,22182.34,3121.14,UPI,Pending,Standard Class,13,Returned,Yes,45
+ORD1059,10-04-2024,31-01-2024,CUST931,Emma Lee,Consumer,PROD1895,Printer,Furniture,South,Tamil Nadu,Bangalore,30,19000.31,26622.42,7622.11,Cash,Cancelled,First Class,19,No Return,No,39
+ORD1060,01-05-2025,04-12-2024,CUST484,Emma Green,Consumer,PROD7389,Chair,Technology,West,Maharashtra,Lucknow,22,13143.72,17327.86,4184.14,Net Banking,Pending,First Class,16,No Return,Yes,15
+ORD1061,02-08-2024,03-07-2025,CUST905,Emma Brown,Corporate,PROD5382,Bookshelf,Office Supplies,East,Delhi,Lucknow,14,10478.47,18439.29,7960.82,Debit Card,Delivered,First Class,27,No Return,Yes,6
+ORD1062,17-01-2024,22-02-2025,CUST178,Monica Johnson,Home Office,PROD3357,Desk,Technology,South,Tamil Nadu,Delhi,44,1109.19,1866.67,757.48,Net Banking,Pending,First Class,8,No Return,No,11
+ORD1063,27-09-2024,22-09-2024,CUST754,Monica Lee,Home Office,PROD2574,Calculator,Furniture,West,Delhi,Amritsar,28,9011.46,12972.38,3960.92,Net Banking,Pending,First Class,22,Returned,Yes,41
+ORD1064,13-04-2025,29-05-2024,CUST709,Monica Lee,Consumer,PROD5952,Desk,Technology,North,Maharashtra,Mumbai,49,5517.21,6808.98,1291.77,UPI,Pending,Same Day,28,Returned,No,20
+ORD1065,17-03-2025,03-07-2024,CUST909,Sophia Smith,Consumer,PROD6750,Pen Set,Technology,North,Tamil Nadu,Chennai,16,11052.98,17434.96,6381.98,Credit Card,Cancelled,Same Day,9,Returned,Yes,34
+ORD1066,15-06-2025,20-03-2024,CUST205,Monica Smith,Corporate,PROD1393,Chair,Office Supplies,East,UP,Delhi,15,8420.44,14368.68,5948.24,Net Banking,Delivered,Second Class,21,Returned,Yes,36
+ORD1067,11-08-2024,11-04-2025,CUST526,Sophia Green,Corporate,PROD8926,Pen Set,Technology,North,UP,Delhi,27,12822.35,15183.15,2360.8,UPI,Pending,Standard Class,8,Returned,Yes,41
+ORD1068,08-05-2024,03-02-2024,CUST833,Amy Dunn,Corporate,PROD6923,Desk,Office Supplies,South,Maharashtra,Delhi,7,2523.97,4096.62,1572.65,Debit Card,Cancelled,First Class,11,Returned,Yes,6
+ORD1069,13-06-2024,30-09-2025,CUST315,Stephen Lee,Consumer,PROD3025,Desk,Technology,South,Maharashtra,Bangalore,37,3118.38,4572.87,1454.49,Debit Card,Delivered,Same Day,29,No Return,No,40
+ORD1070,15-02-2024,02-01-2024,CUST298,John Smith,Consumer,PROD5346,Pen Set,Furniture,South,UP,Delhi,23,19179.21,26546.68,7367.47,UPI,Cancelled,Same Day,12,Returned,No,31
+ORD1071,07-12-2024,09-11-2024,CUST150,Monica Johnson,Home Office,PROD7480,Chair,Furniture,North,Delhi,Bangalore,46,16266.41,20343.65,4077.24,Credit Card,Cancelled,Standard Class,8,Returned,No,20
+ORD1072,26-09-2025,19-06-2024,CUST274,Stephen Lee,Home Office,PROD2575,Chair,Technology,East,Tamil Nadu,Chennai,27,2947.74,3617.54,669.8,Debit Card,Pending,Standard Class,9,No Return,No,41
+ORD1073,01-05-2025,21-01-2024,CUST968,Monica Dunn,Home Office,PROD7235,Chair,Furniture,East,Delhi,Delhi,35,1323.57,2127.53,803.96,Credit Card,Delivered,First Class,18,No Return,Yes,22
+ORD1074,25-02-2025,22-03-2025,CUST491,John Brown,Corporate,PROD4561,Pen Set,Office Supplies,South,Tamil Nadu,Delhi,13,6828.59,11725.33,4896.74,UPI,Pending,First Class,16,No Return,Yes,27
+ORD1075,24-07-2025,06-06-2024,CUST927,Monica Smith,Consumer,PROD1229,Calculator,Technology,East,Punjab,Mumbai,24,12105.56,16058.91,3953.35,UPI,Delivered,Same Day,4,Returned,Yes,41
+ORD1076,02-01-2024,24-03-2025,CUST852,Monica Smith,Home Office,PROD7364,Laptop,Technology,South,Delhi,Bangalore,25,19011.49,32837.14,13825.65,Net Banking,Delivered,Same Day,1,Returned,Yes,8
+ORD1077,24-03-2025,16-04-2024,CUST598,Sophia Brown,Home Office,PROD3563,Calculator,Office Supplies,East,Delhi,Amritsar,14,4130.84,6379.67,2248.83,Net Banking,Cancelled,Second Class,24,Returned,No,29
+ORD1078,28-02-2024,04-01-2025,CUST653,Monica Smith,Consumer,PROD6674,Laptop,Technology,East,Maharashtra,Bangalore,5,2122.94,2693.41,570.47,Cash,Cancelled,Same Day,6,No Return,Yes,20
+ORD1079,29-01-2024,22-03-2025,CUST237,Emma Johnson,Corporate,PROD6111,Pen Set,Furniture,North,Delhi,Bangalore,12,1466.66,2276.92,810.26,Cash,Delivered,Second Class,13,No Return,Yes,13
+ORD1080,25-05-2025,02-01-2024,CUST564,Stephen Dunn,Corporate,PROD7732,Calculator,Office Supplies,West,Delhi,Amritsar,41,10496.23,12106.43,1610.2,Cash,Pending,Second Class,26,Returned,Yes,27
+ORD1081,11-11-2024,14-07-2024,CUST177,Stephen Smith,Consumer,PROD4461,Pen Set,Furniture,West,Punjab,Chennai,41,17885.1,28563.31,10678.21,UPI,Delivered,Same Day,7,No Return,Yes,16
+ORD1082,05-08-2024,15-04-2024,CUST129,Monica Smith,Corporate,PROD6078,Chair,Furniture,West,Tamil Nadu,Chennai,1,7288.15,12632.76,5344.61,Net Banking,Pending,Same Day,18,Returned,Yes,39
+ORD1083,19-03-2025,21-01-2024,CUST923,Chris Johnson,Corporate,PROD2375,Bookshelf,Technology,West,Punjab,Amritsar,37,13921.2,16632.17,2710.97,Debit Card,Cancelled,Standard Class,3,No Return,No,24
+ORD1084,24-07-2024,24-10-2025,CUST845,John Green,Consumer,PROD6613,Desk,Technology,North,Punjab,Lucknow,43,3367.69,5753.16,2385.47,Cash,Delivered,Second Class,25,No Return,Yes,41
+ORD1085,13-12-2025,09-08-2024,CUST496,Stephen Johnson,Home Office,PROD3832,Calculator,Technology,South,Maharashtra,Lucknow,22,13398.26,15703.77,2305.51,UPI,Cancelled,Same Day,14,Returned,No,10
+ORD1086,01-04-2024,19-09-2024,CUST979,John Brown,Home Office,PROD2212,Pen Set,Furniture,East,Punjab,Mumbai,20,520.02,589.6,69.58,Net Banking,Cancelled,Second Class,6,Returned,No,37
+ORD1087,21-06-2024,18-04-2024,CUST915,John Johnson,Consumer,PROD4949,Printer,Office Supplies,North,UP,Bangalore,21,12745.79,16651.78,3905.99,Net Banking,Delivered,First Class,21,Returned,No,29
+ORD1088,05-09-2024,16-11-2025,CUST787,Monica Lee,Consumer,PROD5402,Calculator,Office Supplies,East,Karnataka,Chennai,38,15987.5,24225.54,8238.04,Debit Card,Pending,Same Day,21,No Return,Yes,34
+ORD1089,05-06-2024,08-08-2024,CUST759,Amy Johnson,Home Office,PROD9526,Calculator,Technology,North,UP,Delhi,23,12108.63,21557.44,9448.81,Net Banking,Pending,Standard Class,26,No Return,Yes,42
+ORD1090,26-05-2024,23-12-2025,CUST459,John Brown,Home Office,PROD4872,Pen Set,Office Supplies,East,Delhi,Lucknow,7,10417.87,17218.61,6800.74,Debit Card,Pending,Same Day,19,Returned,Yes,35
+ORD1091,10-06-2025,30-06-2024,CUST212,Amy Green,Corporate,PROD8142,Pen Set,Technology,West,Delhi,Lucknow,39,9198.27,12463.81,3265.54,Cash,Cancelled,Second Class,10,No Return,No,41
+ORD1092,29-11-2024,16-05-2024,CUST201,David Green,Consumer,PROD4769,Calculator,Technology,West,UP,Lucknow,43,17374.15,23025.0,5650.85,Debit Card,Cancelled,Same Day,26,No Return,No,41
+ORD1093,29-09-2025,26-11-2024,CUST174,Chris Green,Consumer,PROD1740,Pen Set,Office Supplies,North,UP,Amritsar,10,5578.98,9852.72,4273.74,Credit Card,Pending,First Class,14,No Return,No,29
+ORD1094,07-05-2024,03-05-2024,CUST702,Monica Dunn,Home Office,PROD6991,Desk,Furniture,West,Maharashtra,Mumbai,17,12804.16,19791.9,6987.74,UPI,Cancelled,First Class,28,Returned,Yes,47
+ORD1095,06-05-2024,07-10-2024,CUST322,Amy Smith,Corporate,PROD5404,Pen Set,Technology,South,Karnataka,Delhi,38,129.58,179.12,49.54,UPI,Pending,Same Day,24,Returned,No,8
+ORD1096,12-05-2024,12-05-2025,CUST465,Sophia Green,Corporate,PROD1639,Laptop,Technology,South,Delhi,Mumbai,23,8029.59,10945.6,2916.01,UPI,Cancelled,Second Class,19,Returned,Yes,45
+ORD1097,05-12-2024,30-03-2025,CUST818,Stephen Brown,Consumer,PROD8467,Printer,Furniture,South,Tamil Nadu,Lucknow,1,8042.07,10831.28,2789.21,UPI,Pending,Second Class,19,Returned,No,47
+ORD1098,31-08-2025,10-08-2024,CUST539,John Johnson,Home Office,PROD5358,Chair,Furniture,West,UP,Lucknow,2,7045.8,11843.82,4798.02,Net Banking,Pending,Same Day,0,No Return,No,20
+ORD1099,15-03-2024,10-12-2025,CUST197,David Dunn,Home Office,PROD5026,Pen Set,Office Supplies,West,Tamil Nadu,Lucknow,28,10398.13,15212.59,4814.46,Debit Card,Cancelled,Second Class,9,No Return,No,4
+ORD1100,23-08-2025,23-08-2025,CUST508,Amy Green,Corporate,PROD7961,Chair,Furniture,East,Maharashtra,Delhi,23,13672.56,23029.3,9356.74,Credit Card,Cancelled,Same Day,24,Returned,No,18
+ORD1101,29-09-2024,28-09-2025,CUST938,David Green,Home Office,PROD6009,Chair,Technology,West,UP,Chennai,40,17073.86,24369.69,7295.83,Debit Card,Cancelled,First Class,9,No Return,No,42
+ORD1102,21-05-2024,25-03-2025,CUST722,Emma Green,Consumer,PROD4487,Bookshelf,Technology,South,Tamil Nadu,Lucknow,26,10180.02,14734.77,4554.75,Credit Card,Pending,Second Class,26,Returned,Yes,15
+ORD1103,13-10-2025,12-07-2024,CUST143,Emma Smith,Corporate,PROD3477,Calculator,Technology,West,Tamil Nadu,Amritsar,44,9293.98,10480.44,1186.46,Debit Card,Pending,First Class,11,Returned,No,1
+ORD1104,02-05-2025,20-03-2024,CUST186,Amy Green,Consumer,PROD6775,Desk,Technology,East,Delhi,Amritsar,42,15339.73,27324.33,11984.6,Cash,Pending,Second Class,25,Returned,Yes,40
+ORD1105,15-11-2025,05-09-2024,CUST149,Chris Brown,Corporate,PROD9594,Bookshelf,Office Supplies,North,Delhi,Amritsar,12,6534.38,8678.09,2143.71,Credit Card,Cancelled,First Class,28,No Return,No,49
+ORD1106,15-06-2024,10-06-2025,CUST701,Sophia Lee,Consumer,PROD8159,Desk,Office Supplies,South,UP,Lucknow,1,12990.97,16030.67,3039.7,Credit Card,Pending,Same Day,28,Returned,No,8
+ORD1107,06-02-2025,16-02-2024,CUST612,Chris Brown,Corporate,PROD4514,Calculator,Technology,East,Punjab,Delhi,41,6958.71,9533.73,2575.02,Credit Card,Delivered,Second Class,22,Returned,Yes,11
+ORD1108,09-09-2024,06-03-2025,CUST690,Emma Lee,Corporate,PROD9634,Pen Set,Office Supplies,South,UP,Amritsar,9,19861.5,30638.51,10777.01,Credit Card,Delivered,First Class,18,Returned,Yes,12
+ORD1109,01-10-2025,11-02-2025,CUST150,Monica Johnson,Corporate,PROD3165,Desk,Furniture,East,Delhi,Lucknow,14,8054.76,13719.13,5664.37,Credit Card,Cancelled,Standard Class,22,Returned,Yes,43
+ORD1110,08-06-2025,31-05-2024,CUST909,John Lee,Corporate,PROD1215,Pen Set,Office Supplies,South,Tamil Nadu,Amritsar,22,16661.05,28621.63,11960.58,Net Banking,Cancelled,Second Class,7,No Return,Yes,15
+ORD1111,31-01-2025,24-10-2024,CUST991,Amy Lee,Consumer,PROD7003,Chair,Technology,North,Tamil Nadu,Lucknow,22,11369.83,14400.77,3030.94,Debit Card,Pending,Same Day,12,Returned,No,11
+ORD1112,17-12-2024,23-01-2025,CUST789,Chris Smith,Home Office,PROD2130,Pen Set,Furniture,South,UP,Lucknow,35,2984.49,3649.14,664.65,Cash,Delivered,First Class,12,Returned,No,32
+ORD1113,29-11-2025,05-03-2025,CUST711,John Lee,Home Office,PROD9165,Printer,Technology,North,Delhi,Delhi,13,18435.75,23215.25,4779.5,Debit Card,Delivered,Standard Class,19,No Return,Yes,9
+ORD1114,19-01-2024,07-11-2025,CUST902,Chris Lee,Corporate,PROD6788,Bookshelf,Furniture,North,Delhi,Mumbai,13,5569.2,7650.41,2081.21,Credit Card,Cancelled,Same Day,15,Returned,No,37
+ORD1115,30-04-2024,17-08-2024,CUST666,Monica Smith,Home Office,PROD6676,Chair,Technology,North,Karnataka,Bangalore,40,12518.24,19875.09,7356.85,Credit Card,Cancelled,First Class,1,Returned,Yes,33
+ORD1116,17-08-2024,03-04-2024,CUST710,Monica Brown,Consumer,PROD6307,Printer,Furniture,East,Karnataka,Amritsar,18,456.68,576.61,119.93,Net Banking,Pending,Standard Class,25,No Return,No,47
+ORD1117,22-03-2025,17-12-2024,CUST977,Sophia Johnson,Consumer,PROD6910,Laptop,Office Supplies,West,Tamil Nadu,Bangalore,25,16675.58,25407.78,8732.2,Credit Card,Pending,First Class,27,Returned,No,21
+ORD1118,05-03-2024,05-03-2024,CUST419,Sophia Lee,Corporate,PROD7512,Pen Set,Technology,West,Punjab,Lucknow,27,17229.17,27561.71,10332.54,Cash,Delivered,First Class,21,Returned,No,32
+ORD1119,16-08-2025,20-01-2025,CUST280,Chris Brown,Corporate,PROD5081,Chair,Technology,East,UP,Delhi,12,1879.28,2747.9,868.62,UPI,Delivered,Standard Class,8,No Return,No,9
+ORD1120,05-02-2024,18-06-2025,CUST760,John Brown,Consumer,PROD7728,Printer,Office Supplies,East,Tamil Nadu,Lucknow,25,5773.36,8976.2,3202.84,Cash,Delivered,First Class,27,No Return,Yes,7
+ORD1121,29-09-2025,10-12-2025,CUST442,Chris Smith,Consumer,PROD2701,Bookshelf,Technology,East,Delhi,Delhi,32,6380.46,7813.31,1432.85,Net Banking,Cancelled,First Class,12,Returned,No,5
+ORD1122,24-11-2024,07-09-2024,CUST920,Emma Johnson,Corporate,PROD6031,Desk,Technology,West,Karnataka,Bangalore,27,17146.24,19788.24,2642.0,Cash,Delivered,Same Day,1,No Return,Yes,2
+ORD1123,31-05-2024,22-05-2024,CUST358,Emma Dunn,Corporate,PROD2424,Bookshelf,Technology,South,Delhi,Lucknow,20,7219.72,9725.91,2506.19,UPI,Pending,First Class,15,No Return,No,31
+ORD1124,22-08-2024,02-07-2025,CUST992,Chris Brown,Corporate,PROD3585,Calculator,Furniture,East,Delhi,Lucknow,12,17270.99,20784.67,3513.68,Credit Card,Delivered,Standard Class,1,No Return,Yes,32
+ORD1125,05-03-2025,28-06-2025,CUST725,David Smith,Corporate,PROD7793,Bookshelf,Office Supplies,South,Karnataka,Bangalore,32,15320.34,20227.68,4907.34,Credit Card,Cancelled,Second Class,12,Returned,No,12
+ORD1126,03-09-2024,23-07-2024,CUST538,Sophia Smith,Corporate,PROD2272,Printer,Furniture,East,Punjab,Delhi,18,19344.32,23938.32,4594.0,Debit Card,Delivered,Second Class,18,No Return,Yes,7
+ORD1127,08-06-2024,30-06-2024,CUST318,John Johnson,Corporate,PROD1933,Desk,Technology,South,Punjab,Amritsar,24,12720.27,18475.24,5754.97,UPI,Cancelled,First Class,21,No Return,Yes,48
+ORD1128,17-01-2024,05-07-2025,CUST198,Amy Dunn,Consumer,PROD7707,Calculator,Office Supplies,North,UP,Mumbai,25,5964.52,9884.4,3919.88,Cash,Cancelled,Second Class,13,Returned,Yes,16
+ORD1129,18-06-2024,30-03-2024,CUST525,Emma Green,Consumer,PROD5561,Chair,Technology,South,Delhi,Chennai,7,3876.69,5546.76,1670.07,Credit Card,Cancelled,Same Day,0,No Return,Yes,33
+ORD1130,28-10-2024,13-02-2024,CUST232,John Brown,Consumer,PROD6442,Chair,Office Supplies,North,Maharashtra,Bangalore,12,14770.66,23887.98,9117.32,Credit Card,Delivered,Same Day,26,Returned,No,13
+ORD1131,18-06-2025,26-10-2024,CUST293,Emma Dunn,Consumer,PROD6088,Bookshelf,Technology,North,Tamil Nadu,Amritsar,19,10576.48,16372.16,5795.68,Debit Card,Cancelled,First Class,9,Returned,No,9
+ORD1132,21-06-2025,14-01-2025,CUST757,Emma Green,Corporate,PROD8617,Calculator,Furniture,West,Karnataka,Chennai,7,7738.93,11895.38,4156.45,Net Banking,Pending,Standard Class,23,No Return,No,17
+ORD1133,19-03-2024,03-01-2025,CUST189,Chris Dunn,Home Office,PROD6039,Laptop,Furniture,North,Karnataka,Bangalore,46,14849.32,23164.45,8315.13,Debit Card,Delivered,First Class,11,No Return,Yes,26
+ORD1134,18-03-2025,03-11-2024,CUST727,Monica Green,Corporate,PROD4262,Chair,Furniture,West,Tamil Nadu,Delhi,39,17028.16,21260.87,4232.71,Cash,Cancelled,Same Day,27,Returned,No,18
+ORD1135,22-11-2025,29-01-2024,CUST992,John Green,Corporate,PROD6144,Bookshelf,Office Supplies,East,Karnataka,Mumbai,27,7628.52,9621.05,1992.53,UPI,Pending,Second Class,3,Returned,Yes,22
+ORD1136,16-10-2025,01-02-2024,CUST227,Amy Dunn,Home Office,PROD8328,Pen Set,Technology,West,Maharashtra,Amritsar,49,17067.87,29653.74,12585.87,Cash,Cancelled,Standard Class,24,Returned,Yes,2
+ORD1137,04-10-2024,14-09-2025,CUST779,Chris Lee,Consumer,PROD8387,Pen Set,Office Supplies,East,Delhi,Chennai,24,15163.79,23294.31,8130.52,Credit Card,Delivered,Same Day,25,No Return,No,43
+ORD1138,08-11-2025,09-05-2025,CUST715,Sophia Johnson,Home Office,PROD2028,Laptop,Technology,North,UP,Lucknow,30,19285.97,25612.46,6326.49,Debit Card,Pending,Same Day,13,Returned,Yes,30
+ORD1139,09-03-2025,05-06-2025,CUST143,John Johnson,Home Office,PROD8411,Chair,Furniture,East,UP,Chennai,27,19397.3,23867.39,4470.09,Debit Card,Delivered,Same Day,12,Returned,Yes,15
+ORD1140,16-09-2025,20-10-2025,CUST111,Emma Dunn,Consumer,PROD9473,Calculator,Technology,South,UP,Lucknow,48,15212.48,22408.88,7196.4,Debit Card,Pending,Second Class,8,No Return,No,24
+ORD1141,21-06-2024,03-03-2024,CUST132,Amy Lee,Corporate,PROD4836,Laptop,Furniture,North,Tamil Nadu,Chennai,10,13079.22,21334.01,8254.79,Cash,Pending,Second Class,4,No Return,Yes,31
+ORD1142,08-11-2024,19-02-2025,CUST825,Amy Dunn,Home Office,PROD4735,Pen Set,Furniture,West,Maharashtra,Lucknow,12,6801.82,11355.91,4554.09,Net Banking,Cancelled,Standard Class,2,Returned,Yes,41
+ORD1143,18-12-2025,03-01-2025,CUST617,Sophia Johnson,Home Office,PROD2320,Calculator,Office Supplies,East,Karnataka,Delhi,10,4111.49,5276.07,1164.58,UPI,Cancelled,Standard Class,27,No Return,Yes,7
+ORD1144,06-05-2024,19-11-2024,CUST884,John Dunn,Consumer,PROD1635,Calculator,Technology,West,Tamil Nadu,Mumbai,47,16544.93,18584.0,2039.07,Credit Card,Delivered,Same Day,17,No Return,Yes,45
+ORD1145,07-02-2025,06-02-2024,CUST319,David Green,Consumer,PROD2079,Calculator,Office Supplies,East,Maharashtra,Mumbai,27,7680.31,11218.87,3538.56,UPI,Delivered,First Class,27,Returned,Yes,21
+ORD1146,26-12-2024,17-12-2024,CUST819,Monica Brown,Home Office,PROD6673,Laptop,Furniture,West,Maharashtra,Lucknow,46,19871.01,23621.44,3750.43,Cash,Pending,First Class,20,Returned,Yes,1
+ORD1147,27-02-2025,28-09-2025,CUST658,John Green,Corporate,PROD9329,Laptop,Office Supplies,South,Maharashtra,Amritsar,42,18375.12,29579.52,11204.4,Credit Card,Delivered,First Class,21,No Return,No,27
+ORD1148,23-11-2025,29-01-2025,CUST477,Sophia Brown,Corporate,PROD5027,Calculator,Office Supplies,North,Delhi,Chennai,43,3421.81,3957.52,535.71,Debit Card,Delivered,Standard Class,0,No Return,Yes,4
+ORD1149,14-07-2025,16-10-2024,CUST861,Chris Johnson,Corporate,PROD7838,Laptop,Furniture,East,Karnataka,Delhi,38,4305.59,5375.18,1069.59,Credit Card,Delivered,Standard Class,1,Returned,Yes,19
+ORD1150,19-05-2024,29-06-2024,CUST441,Monica Green,Home Office,PROD4672,Bookshelf,Office Supplies,East,Karnataka,Amritsar,9,9393.97,14005.43,4611.46,UPI,Pending,Same Day,10,Returned,No,0
+ORD1151,17-04-2024,17-04-2024,CUST609,Amy Dunn,Corporate,PROD5511,Calculator,Furniture,South,Maharashtra,Delhi,24,13436.01,22575.55,9139.54,UPI,Cancelled,Same Day,7,Returned,Yes,3
+ORD1152,04-12-2025,27-06-2025,CUST957,Monica Dunn,Home Office,PROD9528,Printer,Technology,North,Punjab,Delhi,47,14993.95,20430.98,5437.03,Cash,Delivered,First Class,23,No Return,No,5
+ORD1153,09-03-2024,24-04-2025,CUST998,Amy Johnson,Consumer,PROD5411,Chair,Technology,West,Maharashtra,Bangalore,22,5862.96,8793.47,2930.51,Debit Card,Cancelled,Same Day,18,Returned,Yes,35
+ORD1154,21-12-2025,06-10-2024,CUST466,Emma Dunn,Home Office,PROD2767,Pen Set,Technology,West,Punjab,Chennai,29,12525.96,14456.94,1930.98,UPI,Pending,First Class,16,Returned,No,35
+ORD1155,26-02-2025,14-08-2024,CUST378,Chris Brown,Consumer,PROD8445,Bookshelf,Furniture,East,Karnataka,Chennai,7,18957.17,25611.36,6654.19,UPI,Pending,Standard Class,28,Returned,No,22
+ORD1156,16-10-2025,26-09-2025,CUST359,Stephen Green,Corporate,PROD8079,Desk,Technology,South,Maharashtra,Lucknow,26,6088.86,8356.21,2267.35,Net Banking,Pending,First Class,9,No Return,Yes,31
+ORD1157,27-11-2025,04-11-2024,CUST430,Chris Green,Consumer,PROD2363,Laptop,Technology,East,Karnataka,Mumbai,12,7552.06,11420.03,3867.97,Net Banking,Cancelled,Same Day,9,No Return,Yes,0
+ORD1158,21-07-2025,21-02-2024,CUST125,John Dunn,Corporate,PROD2370,Desk,Technology,East,Maharashtra,Amritsar,47,16062.82,28263.96,12201.14,Net Banking,Delivered,Second Class,26,Returned,No,7
+ORD1159,26-07-2024,07-01-2025,CUST997,Stephen Dunn,Corporate,PROD9360,Pen Set,Furniture,West,Maharashtra,Chennai,48,11712.35,15865.37,4153.02,Net Banking,Delivered,Standard Class,9,No Return,No,29
+ORD1160,14-07-2025,15-06-2024,CUST120,John Lee,Home Office,PROD1762,Bookshelf,Technology,South,UP,Chennai,22,5669.54,6713.26,1043.72,Net Banking,Pending,Same Day,8,No Return,Yes,31
+ORD1161,17-07-2025,28-03-2024,CUST594,Amy Smith,Corporate,PROD9304,Desk,Furniture,North,UP,Bangalore,11,2941.63,4002.77,1061.14,Debit Card,Delivered,Second Class,0,Returned,No,2
+ORD1162,12-09-2025,29-02-2024,CUST347,Stephen Green,Home Office,PROD5327,Calculator,Furniture,North,Tamil Nadu,Delhi,13,19381.48,23466.92,4085.44,Debit Card,Cancelled,Same Day,19,No Return,Yes,11
+ORD1163,29-01-2024,01-01-2025,CUST360,Chris Green,Home Office,PROD1576,Chair,Furniture,North,Maharashtra,Chennai,36,18243.24,25884.56,7641.32,Cash,Cancelled,First Class,26,Returned,Yes,48
+ORD1164,13-09-2024,27-08-2025,CUST920,John Brown,Consumer,PROD2642,Chair,Furniture,West,Tamil Nadu,Amritsar,12,5054.75,7800.16,2745.41,UPI,Delivered,Same Day,5,Returned,No,28
+ORD1165,31-12-2024,21-02-2025,CUST297,Sophia Smith,Corporate,PROD8751,Calculator,Furniture,West,Delhi,Bangalore,41,5139.57,8470.82,3331.25,Credit Card,Delivered,First Class,1,No Return,Yes,33
+ORD1166,06-10-2024,24-02-2024,CUST934,Monica Dunn,Corporate,PROD1722,Pen Set,Office Supplies,South,Delhi,Amritsar,33,6343.65,10339.63,3995.98,Net Banking,Delivered,Standard Class,6,No Return,Yes,47
+ORD1167,22-10-2024,09-04-2024,CUST974,David Smith,Consumer,PROD5657,Calculator,Technology,East,Karnataka,Delhi,14,18137.26,20477.41,2340.15,Cash,Pending,First Class,10,Returned,Yes,40
+ORD1168,07-04-2025,03-02-2024,CUST935,Sophia Green,Corporate,PROD6029,Printer,Furniture,North,Delhi,Amritsar,18,4151.71,6453.45,2301.74,Debit Card,Pending,First Class,9,Returned,Yes,19
+ORD1169,01-06-2024,04-06-2025,CUST667,Monica Brown,Corporate,PROD7758,Laptop,Office Supplies,South,Delhi,Bangalore,37,17010.29,21189.3,4179.01,Credit Card,Pending,Second Class,21,Returned,Yes,1
+ORD1170,18-10-2025,08-12-2024,CUST588,Chris Johnson,Home Office,PROD9499,Printer,Technology,North,Punjab,Amritsar,36,14089.87,16725.39,2635.52,Net Banking,Pending,First Class,29,Returned,No,5
+ORD1171,06-12-2025,09-11-2024,CUST577,Emma Smith,Consumer,PROD1642,Bookshelf,Technology,South,UP,Delhi,12,18135.56,28209.48,10073.92,Cash,Delivered,First Class,6,Returned,No,34
+ORD1172,26-12-2025,01-10-2025,CUST702,Emma Brown,Consumer,PROD8874,Printer,Furniture,West,UP,Lucknow,42,8983.2,11318.19,2334.99,Debit Card,Pending,Second Class,16,Returned,Yes,46
+ORD1173,10-03-2025,01-01-2025,CUST682,Stephen Green,Consumer,PROD8753,Desk,Office Supplies,South,Karnataka,Bangalore,23,14948.01,23148.31,8200.3,Credit Card,Cancelled,Standard Class,22,Returned,No,38
+ORD1174,17-06-2025,04-09-2025,CUST638,David Smith,Corporate,PROD2774,Chair,Furniture,West,UP,Lucknow,44,5839.68,8510.97,2671.29,Debit Card,Cancelled,Second Class,26,No Return,Yes,34
+ORD1175,31-05-2025,06-09-2025,CUST577,Emma Smith,Corporate,PROD3756,Calculator,Office Supplies,North,Delhi,Chennai,46,7180.8,11613.4,4432.6,UPI,Cancelled,Second Class,6,No Return,Yes,7
+ORD1176,01-06-2025,27-04-2024,CUST382,Monica Lee,Consumer,PROD8731,Laptop,Technology,East,Maharashtra,Mumbai,28,6101.64,9296.27,3194.63,Net Banking,Pending,Second Class,13,Returned,No,20
+ORD1177,21-08-2025,16-02-2025,CUST777,Emma Dunn,Home Office,PROD9967,Chair,Office Supplies,South,Punjab,Delhi,5,520.04,868.21,348.17,Debit Card,Cancelled,Standard Class,8,No Return,No,30
+ORD1178,01-02-2024,24-02-2024,CUST432,John Smith,Consumer,PROD5238,Laptop,Technology,West,Maharashtra,Bangalore,45,7679.67,12083.59,4403.92,Cash,Pending,Standard Class,12,No Return,Yes,41
+ORD1179,03-12-2024,30-12-2024,CUST119,David Dunn,Corporate,PROD6194,Calculator,Furniture,South,Karnataka,Lucknow,21,6692.17,11996.34,5304.17,UPI,Delivered,Same Day,11,No Return,Yes,26
+ORD1180,24-11-2024,30-07-2024,CUST368,Chris Smith,Consumer,PROD4275,Calculator,Office Supplies,North,UP,Lucknow,8,18480.23,26670.93,8190.7,Debit Card,Delivered,Standard Class,23,Returned,No,16
+ORD1181,14-06-2024,18-05-2025,CUST667,Stephen Lee,Corporate,PROD8148,Pen Set,Technology,East,Tamil Nadu,Lucknow,8,19372.99,29022.24,9649.25,Credit Card,Delivered,First Class,24,Returned,Yes,11
+ORD1182,16-10-2024,24-10-2025,CUST453,Stephen Green,Home Office,PROD4410,Pen Set,Technology,South,Delhi,Mumbai,30,11337.26,14268.65,2931.39,Net Banking,Pending,Standard Class,21,No Return,No,42
+ORD1183,12-02-2024,06-08-2024,CUST311,David Johnson,Home Office,PROD6913,Laptop,Furniture,West,Punjab,Delhi,48,13888.21,24828.67,10940.46,Cash,Delivered,Standard Class,21,No Return,No,40
+ORD1184,05-04-2025,13-08-2025,CUST368,Stephen Lee,Consumer,PROD7024,Pen Set,Office Supplies,West,Delhi,Delhi,49,18038.48,31999.61,13961.13,Credit Card,Delivered,Standard Class,24,Returned,Yes,48
+ORD1185,10-03-2024,04-01-2025,CUST778,Amy Johnson,Consumer,PROD9226,Desk,Furniture,South,Delhi,Bangalore,14,17694.36,20893.15,3198.79,Credit Card,Delivered,Standard Class,14,No Return,Yes,35
+ORD1186,18-02-2024,10-12-2024,CUST893,John Smith,Consumer,PROD9232,Desk,Technology,West,Delhi,Lucknow,19,2058.13,3262.88,1204.75,Net Banking,Cancelled,Standard Class,20,Returned,Yes,47
+ORD1187,15-11-2025,25-02-2025,CUST114,Chris Lee,Home Office,PROD2257,Chair,Furniture,West,Tamil Nadu,Delhi,27,8365.43,13283.34,4917.91,Credit Card,Pending,Standard Class,7,Returned,No,38
+ORD1188,09-04-2024,30-08-2025,CUST869,Monica Johnson,Corporate,PROD8672,Calculator,Office Supplies,North,Delhi,Chennai,20,16081.25,20639.83,4558.58,Cash,Pending,First Class,14,No Return,Yes,42
+ORD1189,29-07-2025,07-07-2024,CUST240,Emma Brown,Corporate,PROD6088,Desk,Furniture,East,Maharashtra,Lucknow,32,1635.91,2154.72,518.81,Cash,Cancelled,Second Class,1,Returned,No,33
+ORD1190,09-01-2024,27-10-2024,CUST445,John Smith,Corporate,PROD5439,Calculator,Furniture,West,UP,Lucknow,32,2976.46,3436.59,460.13,Cash,Cancelled,Standard Class,2,No Return,Yes,25
+ORD1191,02-05-2024,08-03-2025,CUST530,Amy Dunn,Corporate,PROD9249,Calculator,Office Supplies,North,Tamil Nadu,Chennai,34,3253.72,4019.5,765.78,Credit Card,Cancelled,Standard Class,18,Returned,No,8
+ORD1192,29-07-2025,03-02-2024,CUST630,Chris Brown,Consumer,PROD1413,Calculator,Technology,West,Maharashtra,Lucknow,19,13094.04,17173.16,4079.12,Cash,Cancelled,Standard Class,9,Returned,No,46
+ORD1193,18-08-2024,24-08-2024,CUST408,Stephen Brown,Corporate,PROD8055,Printer,Technology,North,Karnataka,Delhi,40,2585.88,4504.97,1919.09,Cash,Delivered,Same Day,0,No Return,Yes,16
+ORD1194,28-08-2025,25-09-2024,CUST895,John Green,Home Office,PROD1305,Calculator,Office Supplies,North,Maharashtra,Mumbai,26,11112.4,19725.08,8612.68,UPI,Cancelled,Standard Class,14,Returned,No,5
+ORD1195,29-09-2024,16-10-2025,CUST377,Emma Smith,Home Office,PROD5093,Printer,Furniture,East,Karnataka,Chennai,36,9362.58,14018.88,4656.3,Net Banking,Pending,Second Class,21,No Return,Yes,43
+ORD1196,05-08-2025,29-05-2024,CUST217,Sophia Lee,Corporate,PROD6559,Calculator,Technology,East,Delhi,Chennai,13,6079.45,8125.77,2046.32,Net Banking,Delivered,Same Day,18,Returned,Yes,14
+ORD1197,14-03-2024,05-12-2025,CUST258,Monica Lee,Consumer,PROD6231,Desk,Office Supplies,South,UP,Bangalore,46,1555.1,1786.2,231.1,Cash,Pending,Standard Class,3,Returned,No,34
+ORD1198,07-11-2024,09-09-2024,CUST624,Stephen Green,Corporate,PROD2579,Desk,Furniture,North,Karnataka,Delhi,12,13607.74,21330.4,7722.66,Credit Card,Delivered,First Class,26,No Return,No,10
+ORD1199,28-01-2025,09-05-2024,CUST342,Amy Dunn,Home Office,PROD4086,Calculator,Furniture,South,UP,Lucknow,9,5309.46,6299.47,990.01,Net Banking,Pending,Second Class,1,Returned,No,45
+ORD1200,26-03-2025,16-01-2024,CUST911,Amy Dunn,Consumer,PROD2499,Laptop,Furniture,South,Punjab,Lucknow,6,15739.63,24364.53,8624.9,UPI,Delivered,Standard Class,13,No Return,Yes,42
+ORD1201,01-05-2025,19-06-2024,CUST813,Sophia Green,Home Office,PROD2477,Calculator,Technology,East,Delhi,Amritsar,21,2217.5,3615.63,1398.13,Cash,Pending,Standard Class,15,No Return,Yes,11
+ORD1202,04-01-2024,15-11-2025,CUST339,Sophia Smith,Consumer,PROD7703,Chair,Technology,East,Tamil Nadu,Bangalore,37,3899.82,5226.61,1326.79,Cash,Cancelled,Second Class,26,Returned,No,49
+ORD1203,09-05-2024,26-09-2024,CUST318,Emma Smith,Home Office,PROD6177,Pen Set,Technology,East,Tamil Nadu,Chennai,7,18699.75,22178.37,3478.62,Credit Card,Cancelled,First Class,19,Returned,Yes,45
+ORD1204,28-08-2024,21-10-2025,CUST928,Chris Dunn,Corporate,PROD9372,Pen Set,Furniture,East,Maharashtra,Lucknow,31,8845.49,14558.97,5713.48,UPI,Pending,Standard Class,13,No Return,No,27
+ORD1205,23-04-2024,21-02-2025,CUST134,Stephen Dunn,Corporate,PROD5256,Laptop,Office Supplies,North,Tamil Nadu,Lucknow,36,16727.08,26694.85,9967.77,UPI,Delivered,Standard Class,19,Returned,Yes,42
+ORD1206,26-02-2024,25-07-2024,CUST317,John Brown,Consumer,PROD9812,Chair,Furniture,North,Maharashtra,Chennai,49,10549.38,18600.88,8051.5,Net Banking,Cancelled,Same Day,23,Returned,No,21
+ORD1207,04-11-2024,26-05-2025,CUST117,Emma Johnson,Corporate,PROD4672,Desk,Technology,South,Delhi,Lucknow,30,3084.71,4797.81,1713.1,Net Banking,Cancelled,Standard Class,25,Returned,No,42
+ORD1208,24-12-2024,27-08-2024,CUST495,Sophia Lee,Consumer,PROD5442,Chair,Office Supplies,West,Maharashtra,Lucknow,30,1373.32,2201.3,827.98,UPI,Pending,Second Class,10,No Return,Yes,20
+ORD1209,17-02-2025,12-02-2025,CUST255,Monica Smith,Consumer,PROD2151,Printer,Furniture,North,Karnataka,Bangalore,40,16346.28,23527.18,7180.9,Net Banking,Cancelled,Standard Class,27,No Return,No,24
+ORD1210,07-01-2025,03-07-2025,CUST281,Chris Dunn,Home Office,PROD9448,Chair,Furniture,West,UP,Bangalore,35,14283.63,24291.25,10007.62,Net Banking,Delivered,Standard Class,7,No Return,No,45
+ORD1211,23-03-2025,07-08-2025,CUST901,Stephen Johnson,Consumer,PROD7769,Calculator,Technology,North,UP,Bangalore,45,18534.58,29944.47,11409.89,Credit Card,Pending,Same Day,16,Returned,Yes,31
+ORD1212,26-01-2024,08-06-2024,CUST554,Amy Green,Consumer,PROD2940,Bookshelf,Furniture,South,Punjab,Lucknow,22,13086.45,20506.99,7420.54,Credit Card,Cancelled,Same Day,5,Returned,No,30
+ORD1213,06-08-2024,21-12-2024,CUST670,Chris Lee,Consumer,PROD5339,Laptop,Furniture,West,Maharashtra,Delhi,22,15377.12,18722.5,3345.38,Debit Card,Pending,First Class,20,No Return,Yes,45
+ORD1214,25-08-2024,10-02-2024,CUST140,Chris Lee,Consumer,PROD5864,Pen Set,Office Supplies,South,Delhi,Bangalore,41,14938.31,25154.89,10216.58,UPI,Pending,Second Class,23,Returned,No,16
+ORD1215,13-10-2024,29-01-2025,CUST527,Stephen Brown,Corporate,PROD9248,Laptop,Furniture,North,Punjab,Delhi,15,19010.89,32890.38,13879.49,Credit Card,Pending,Second Class,27,Returned,No,40
+ORD1216,04-11-2025,02-11-2024,CUST420,John Brown,Consumer,PROD3898,Pen Set,Technology,North,UP,Amritsar,46,12891.5,15174.16,2282.66,UPI,Delivered,Same Day,6,Returned,Yes,11
+ORD1217,19-09-2024,27-04-2024,CUST674,David Johnson,Corporate,PROD2847,Pen Set,Furniture,North,Maharashtra,Amritsar,3,2369.29,2715.69,346.4,Credit Card,Cancelled,Standard Class,11,No Return,No,26
+ORD1218,13-03-2025,05-01-2024,CUST531,Monica Green,Consumer,PROD5988,Bookshelf,Office Supplies,West,Karnataka,Chennai,12,14833.1,26072.66,11239.56,Cash,Delivered,Second Class,12,Returned,Yes,35
+ORD1219,10-04-2024,28-05-2025,CUST772,Amy Dunn,Consumer,PROD9934,Desk,Office Supplies,North,Punjab,Bangalore,40,13309.77,14902.76,1592.99,Credit Card,Delivered,Same Day,22,Returned,Yes,31
+ORD1220,24-09-2025,10-05-2024,CUST988,Sophia Johnson,Home Office,PROD6231,Printer,Office Supplies,East,Delhi,Chennai,44,5016.79,6179.9,1163.11,Credit Card,Cancelled,Second Class,16,No Return,No,43
+ORD1221,16-02-2024,15-04-2024,CUST363,John Green,Corporate,PROD8595,Calculator,Office Supplies,North,UP,Amritsar,48,13834.83,18469.61,4634.78,UPI,Delivered,Second Class,14,No Return,Yes,42
+ORD1222,20-09-2025,30-12-2024,CUST918,Sophia Green,Consumer,PROD2547,Chair,Furniture,East,Maharashtra,Delhi,39,17628.34,22292.85,4664.51,UPI,Delivered,Same Day,27,Returned,No,36
+ORD1223,28-03-2024,03-08-2025,CUST523,Chris Lee,Home Office,PROD5864,Printer,Office Supplies,South,Maharashtra,Chennai,26,4746.0,8516.66,3770.66,Debit Card,Delivered,Same Day,27,No Return,Yes,47
+ORD1224,16-10-2025,20-10-2024,CUST424,John Johnson,Corporate,PROD2679,Desk,Office Supplies,North,Delhi,Delhi,13,3923.43,5850.24,1926.81,Net Banking,Cancelled,Second Class,6,No Return,Yes,22
+ORD1225,24-06-2024,21-01-2024,CUST423,Emma Brown,Consumer,PROD2979,Calculator,Office Supplies,West,UP,Mumbai,9,16347.93,20844.91,4496.98,Credit Card,Cancelled,Same Day,6,Returned,No,36
+ORD1226,12-10-2024,03-05-2024,CUST255,Stephen Green,Home Office,PROD6181,Bookshelf,Furniture,South,Punjab,Lucknow,2,16669.32,29773.05,13103.73,Credit Card,Pending,First Class,14,Returned,No,4
+ORD1227,12-12-2024,30-12-2025,CUST544,Chris Johnson,Consumer,PROD3693,Pen Set,Furniture,West,UP,Amritsar,10,8952.62,14883.6,5930.98,Credit Card,Pending,First Class,20,No Return,No,7
+ORD1228,16-07-2024,08-04-2024,CUST158,Monica Green,Consumer,PROD8524,Laptop,Office Supplies,North,UP,Bangalore,3,17530.62,21428.91,3898.29,UPI,Pending,Standard Class,21,Returned,Yes,12
+ORD1229,20-04-2025,29-09-2024,CUST397,Emma Lee,Consumer,PROD6185,Calculator,Furniture,North,Karnataka,Lucknow,43,9517.36,12615.4,3098.04,Debit Card,Pending,Standard Class,5,No Return,Yes,35
+ORD1230,02-05-2024,22-12-2025,CUST867,David Dunn,Consumer,PROD6931,Printer,Furniture,South,Karnataka,Lucknow,31,9780.59,16329.41,6548.82,Credit Card,Cancelled,Standard Class,12,Returned,Yes,8
+ORD1231,22-06-2025,08-11-2025,CUST397,Amy Johnson,Corporate,PROD9440,Calculator,Furniture,South,Punjab,Mumbai,39,5854.37,6442.57,588.2,Net Banking,Cancelled,Standard Class,29,No Return,Yes,10
+ORD1232,27-01-2025,31-07-2025,CUST808,Stephen Johnson,Consumer,PROD9615,Laptop,Office Supplies,South,Delhi,Bangalore,25,15719.58,22407.96,6688.38,Debit Card,Cancelled,First Class,19,No Return,No,5
+ORD1233,10-10-2025,12-11-2025,CUST552,Stephen Johnson,Home Office,PROD8703,Desk,Technology,East,UP,Chennai,2,14222.75,17081.51,2858.76,Credit Card,Pending,Standard Class,3,No Return,No,41
+ORD1234,04-08-2024,01-03-2025,CUST315,Amy Brown,Consumer,PROD7063,Laptop,Technology,East,Delhi,Amritsar,39,363.73,527.6,163.87,UPI,Delivered,First Class,3,No Return,Yes,14
+ORD1235,26-04-2024,25-07-2024,CUST739,Amy Smith,Corporate,PROD8297,Calculator,Furniture,East,Tamil Nadu,Chennai,45,7695.05,12611.48,4916.43,Cash,Pending,Same Day,6,No Return,No,33
+ORD1236,05-12-2024,03-11-2024,CUST800,Amy Green,Consumer,PROD9901,Pen Set,Furniture,South,UP,Amritsar,33,7867.13,10702.17,2835.04,Net Banking,Pending,First Class,28,No Return,Yes,24
+ORD1237,11-08-2025,10-03-2024,CUST948,John Lee,Home Office,PROD5677,Pen Set,Technology,West,Maharashtra,Amritsar,34,8106.13,13638.68,5532.55,UPI,Delivered,Same Day,7,No Return,Yes,23
+ORD1238,05-04-2025,15-10-2024,CUST945,Emma Green,Home Office,PROD2623,Chair,Technology,South,Maharashtra,Delhi,40,18247.42,22696.68,4449.26,Credit Card,Pending,Second Class,8,No Return,No,41
+ORD1239,19-06-2025,27-12-2025,CUST768,Chris Brown,Corporate,PROD4045,Chair,Office Supplies,East,Punjab,Delhi,49,13968.46,17035.97,3067.51,Cash,Cancelled,Second Class,24,No Return,Yes,34
+ORD1240,21-04-2024,06-03-2024,CUST320,Emma Brown,Consumer,PROD3973,Laptop,Office Supplies,West,Punjab,Mumbai,2,7684.46,9107.06,1422.6,Credit Card,Cancelled,First Class,29,Returned,No,31
+ORD1241,23-09-2025,24-11-2024,CUST990,Chris Brown,Corporate,PROD3035,Printer,Technology,East,UP,Bangalore,2,14655.24,24519.47,9864.23,Debit Card,Delivered,Standard Class,6,No Return,No,17
+ORD1242,19-04-2024,05-10-2025,CUST517,Sophia Johnson,Home Office,PROD4642,Bookshelf,Technology,West,UP,Mumbai,12,13158.85,16548.56,3389.71,Net Banking,Delivered,First Class,1,Returned,Yes,46
+ORD1243,12-04-2024,08-04-2024,CUST781,Monica Green,Corporate,PROD5091,Chair,Technology,North,Punjab,Mumbai,18,2652.46,3839.47,1187.01,Debit Card,Pending,Same Day,23,No Return,No,8
+ORD1244,22-07-2024,24-01-2024,CUST131,Chris Brown,Corporate,PROD4334,Desk,Office Supplies,East,UP,Delhi,15,13801.06,16358.25,2557.19,Cash,Cancelled,First Class,21,Returned,No,25
+ORD1245,28-07-2025,09-02-2024,CUST569,Amy Lee,Consumer,PROD4569,Calculator,Office Supplies,West,UP,Amritsar,38,9440.61,12884.21,3443.6,Net Banking,Delivered,Standard Class,0,Returned,No,36
+ORD1246,28-10-2024,05-03-2024,CUST155,David Dunn,Consumer,PROD7754,Desk,Furniture,North,Delhi,Amritsar,30,13940.15,22391.67,8451.52,Debit Card,Delivered,Same Day,26,Returned,Yes,39
+ORD1247,23-01-2025,06-03-2024,CUST329,Chris Green,Consumer,PROD5981,Printer,Office Supplies,North,Punjab,Delhi,40,11304.53,16458.22,5153.69,Cash,Cancelled,Standard Class,4,No Return,Yes,29
+ORD1248,08-07-2025,06-05-2024,CUST760,Amy Dunn,Consumer,PROD2308,Bookshelf,Technology,North,Tamil Nadu,Lucknow,18,2747.74,3825.14,1077.4,Credit Card,Delivered,First Class,5,No Return,No,21
+ORD1249,04-09-2025,25-05-2025,CUST659,Stephen Johnson,Home Office,PROD2574,Bookshelf,Technology,East,Punjab,Mumbai,37,402.29,466.41,64.12,Credit Card,Cancelled,Second Class,29,Returned,No,40
+ORD1250,14-03-2024,24-02-2024,CUST695,Emma Smith,Home Office,PROD7328,Pen Set,Office Supplies,North,Tamil Nadu,Delhi,39,7689.95,13203.3,5513.35,UPI,Delivered,Second Class,7,Returned,Yes,23
+ORD1251,26-08-2024,17-01-2025,CUST669,Stephen Brown,Corporate,PROD8344,Laptop,Office Supplies,North,Maharashtra,Lucknow,14,19291.24,23061.22,3769.98,Net Banking,Cancelled,Second Class,9,Returned,No,34
+ORD1252,20-05-2024,21-01-2024,CUST942,Emma Johnson,Consumer,PROD9269,Pen Set,Office Supplies,West,UP,Chennai,27,8695.04,9665.69,970.65,Debit Card,Pending,Same Day,13,No Return,No,26
+ORD1253,19-04-2024,20-11-2024,CUST814,David Brown,Home Office,PROD1079,Laptop,Technology,South,UP,Bangalore,12,1164.29,1351.18,186.89,UPI,Delivered,Second Class,3,No Return,Yes,47
+ORD1254,11-06-2025,03-08-2024,CUST319,Monica Green,Home Office,PROD1196,Laptop,Furniture,South,Punjab,Chennai,10,14219.65,22940.14,8720.49,Credit Card,Delivered,Standard Class,20,Returned,Yes,5
+ORD1255,13-08-2025,12-02-2025,CUST725,Sophia Lee,Corporate,PROD8485,Bookshelf,Furniture,North,Karnataka,Amritsar,22,669.48,883.68,214.2,Debit Card,Delivered,First Class,23,Returned,No,12
+ORD1256,21-05-2025,22-04-2024,CUST923,Stephen Dunn,Consumer,PROD5302,Laptop,Office Supplies,East,UP,Amritsar,6,9113.49,14850.63,5737.14,Credit Card,Cancelled,First Class,2,Returned,No,14
+ORD1257,16-12-2025,27-02-2025,CUST711,Emma Brown,Corporate,PROD4732,Bookshelf,Technology,West,Tamil Nadu,Chennai,24,4349.62,7675.83,3326.21,Cash,Cancelled,Same Day,27,Returned,Yes,39
+ORD1258,23-12-2025,20-02-2025,CUST358,Chris Smith,Consumer,PROD2461,Printer,Technology,West,Delhi,Amritsar,28,1255.25,2128.13,872.88,Net Banking,Delivered,Same Day,22,Returned,No,33
+ORD1259,27-01-2024,28-10-2025,CUST644,Sophia Brown,Consumer,PROD7782,Printer,Office Supplies,North,Tamil Nadu,Chennai,32,822.12,1013.94,191.82,Credit Card,Delivered,First Class,13,No Return,Yes,25
+ORD1260,19-09-2024,24-02-2025,CUST162,Emma Dunn,Consumer,PROD7915,Calculator,Technology,South,UP,Delhi,23,6597.02,9022.22,2425.2,UPI,Pending,Second Class,29,No Return,No,6
+ORD1261,04-10-2025,11-08-2025,CUST705,Stephen Green,Consumer,PROD9025,Calculator,Furniture,North,Delhi,Mumbai,5,7077.15,11312.74,4235.59,UPI,Pending,Second Class,29,Returned,Yes,9
+ORD1262,19-03-2024,19-12-2024,CUST426,Amy Johnson,Home Office,PROD6633,Desk,Technology,South,Tamil Nadu,Chennai,15,16271.28,27422.29,11151.01,Cash,Cancelled,Second Class,28,No Return,Yes,41
+ORD1263,29-10-2024,16-07-2024,CUST304,Chris Dunn,Corporate,PROD6147,Desk,Technology,South,Maharashtra,Amritsar,37,16914.4,21055.84,4141.44,Net Banking,Delivered,Same Day,9,Returned,Yes,31
+ORD1264,16-11-2025,16-02-2025,CUST665,John Dunn,Consumer,PROD7163,Laptop,Office Supplies,North,Karnataka,Mumbai,36,16483.37,23454.8,6971.43,Net Banking,Cancelled,Same Day,3,Returned,No,49
+ORD1265,04-10-2024,13-06-2025,CUST915,Stephen Dunn,Consumer,PROD6185,Chair,Office Supplies,South,Karnataka,Mumbai,42,3536.81,4071.13,534.32,Cash,Pending,Same Day,18,Returned,Yes,45
+ORD1266,14-10-2024,23-08-2025,CUST582,Emma Brown,Corporate,PROD4762,Printer,Office Supplies,West,Maharashtra,Amritsar,49,13771.85,18712.74,4940.89,Cash,Delivered,Standard Class,23,No Return,Yes,2
+ORD1267,28-05-2024,24-05-2025,CUST557,Amy Green,Consumer,PROD1152,Calculator,Furniture,South,Tamil Nadu,Lucknow,38,19960.59,31334.2,11373.61,Cash,Cancelled,Second Class,4,No Return,No,28
+ORD1268,03-08-2024,02-01-2024,CUST596,Amy Green,Corporate,PROD6110,Desk,Technology,North,UP,Delhi,29,15311.27,21241.59,5930.32,Net Banking,Pending,First Class,22,No Return,Yes,8
+ORD1269,14-02-2025,21-08-2025,CUST553,Stephen Brown,Consumer,PROD2599,Chair,Technology,West,Karnataka,Amritsar,41,4065.31,6349.43,2284.12,Debit Card,Cancelled,Same Day,22,No Return,Yes,40
+ORD1270,05-06-2024,27-02-2025,CUST489,John Brown,Consumer,PROD8538,Pen Set,Technology,South,Punjab,Amritsar,39,19941.12,22582.56,2641.44,Cash,Cancelled,Same Day,4,Returned,Yes,36
+ORD1271,17-09-2024,16-04-2025,CUST894,Chris Green,Corporate,PROD2998,Pen Set,Office Supplies,North,Maharashtra,Amritsar,14,5681.19,6604.04,922.85,Net Banking,Delivered,Same Day,26,Returned,Yes,29
+ORD1272,11-04-2025,01-08-2024,CUST868,Chris Smith,Home Office,PROD7080,Calculator,Furniture,North,UP,Delhi,15,816.48,1257.45,440.97,Net Banking,Cancelled,Second Class,1,No Return,Yes,26
+ORD1273,15-08-2025,24-10-2024,CUST570,Sophia Johnson,Corporate,PROD6909,Calculator,Office Supplies,South,Tamil Nadu,Lucknow,15,18816.89,33692.16,14875.27,Net Banking,Pending,Standard Class,10,No Return,Yes,13
+ORD1274,23-01-2025,01-09-2025,CUST224,Monica Smith,Consumer,PROD2379,Printer,Office Supplies,East,Tamil Nadu,Amritsar,22,2448.22,4192.79,1744.57,Debit Card,Pending,First Class,9,No Return,No,27
+ORD1275,13-09-2024,02-12-2024,CUST325,John Green,Consumer,PROD9854,Laptop,Office Supplies,North,Tamil Nadu,Delhi,20,17010.9,20920.94,3910.04,Debit Card,Delivered,Standard Class,9,Returned,No,45
+ORD1276,30-06-2024,20-01-2024,CUST546,John Brown,Consumer,PROD9126,Calculator,Furniture,East,UP,Mumbai,34,19926.54,35512.25,15585.71,Debit Card,Delivered,First Class,16,Returned,No,44
+ORD1277,03-08-2024,09-06-2024,CUST816,Sophia Johnson,Consumer,PROD8496,Chair,Furniture,South,Karnataka,Delhi,41,163.5,193.82,30.32,Debit Card,Cancelled,Second Class,4,Returned,Yes,40
+ORD1278,17-06-2025,15-08-2025,CUST784,David Brown,Home Office,PROD6572,Chair,Technology,North,Karnataka,Lucknow,34,18043.35,22820.87,4777.52,Credit Card,Delivered,Same Day,16,No Return,No,17
+ORD1279,05-09-2024,03-12-2025,CUST498,John Lee,Home Office,PROD6742,Bookshelf,Furniture,North,Delhi,Lucknow,12,6921.9,11305.43,4383.53,Debit Card,Pending,Second Class,24,Returned,No,45
+ORD1280,12-05-2024,06-08-2024,CUST257,Emma Green,Consumer,PROD6314,Bookshelf,Office Supplies,North,Tamil Nadu,Bangalore,2,1997.28,3353.91,1356.63,Net Banking,Pending,First Class,3,Returned,Yes,46
+ORD1281,31-07-2025,25-11-2025,CUST789,Chris Johnson,Corporate,PROD7718,Desk,Furniture,North,Maharashtra,Lucknow,36,5119.98,8025.71,2905.73,Cash,Pending,First Class,28,No Return,Yes,23
+ORD1282,08-04-2024,17-07-2024,CUST143,Monica Brown,Consumer,PROD4276,Pen Set,Furniture,South,Punjab,Delhi,42,18257.3,26355.61,8098.31,Cash,Pending,Second Class,10,No Return,No,26
+ORD1283,30-06-2025,15-11-2025,CUST738,David Brown,Home Office,PROD1253,Calculator,Technology,East,Punjab,Amritsar,4,12055.75,19780.92,7725.17,Cash,Pending,Same Day,12,Returned,Yes,40
+ORD1284,30-03-2025,01-10-2025,CUST236,Monica Smith,Consumer,PROD8509,Bookshelf,Technology,North,UP,Chennai,4,10988.81,15473.18,4484.37,Credit Card,Cancelled,Same Day,26,Returned,Yes,18
+ORD1285,23-02-2024,05-04-2024,CUST515,Emma Dunn,Consumer,PROD1231,Desk,Technology,West,Punjab,Bangalore,13,2337.05,3974.39,1637.34,Debit Card,Pending,Standard Class,13,Returned,Yes,33
+ORD1286,05-05-2024,04-06-2025,CUST157,Chris Johnson,Home Office,PROD7868,Desk,Technology,North,UP,Mumbai,9,5386.31,9581.2,4194.89,Credit Card,Delivered,Standard Class,12,Returned,No,34
+ORD1287,18-10-2024,21-08-2024,CUST816,Stephen Green,Corporate,PROD4762,Printer,Office Supplies,West,Delhi,Mumbai,10,14091.88,20084.39,5992.51,Net Banking,Pending,First Class,3,No Return,Yes,31
+ORD1288,04-06-2024,20-11-2025,CUST221,Monica Brown,Corporate,PROD9651,Bookshelf,Technology,East,Maharashtra,Bangalore,21,2219.03,2849.43,630.4,UPI,Pending,First Class,19,No Return,No,13
+ORD1289,12-12-2024,15-01-2025,CUST729,Amy Lee,Consumer,PROD4170,Desk,Office Supplies,East,UP,Bangalore,21,4923.08,6034.19,1111.11,UPI,Delivered,Standard Class,13,No Return,No,23
+ORD1290,02-03-2024,14-09-2024,CUST700,Sophia Johnson,Home Office,PROD8925,Laptop,Furniture,South,Karnataka,Chennai,19,14908.69,23307.14,8398.45,Debit Card,Delivered,Standard Class,29,No Return,No,22
+ORD1291,29-06-2024,01-01-2025,CUST740,Emma Lee,Consumer,PROD6690,Desk,Furniture,South,Karnataka,Delhi,18,10656.78,18589.49,7932.71,Cash,Cancelled,First Class,4,No Return,No,45
+ORD1292,13-09-2024,20-09-2025,CUST149,Chris Dunn,Consumer,PROD3237,Chair,Furniture,South,Punjab,Mumbai,36,231.19,406.27,175.08,UPI,Pending,First Class,28,No Return,Yes,47
+ORD1293,03-05-2024,09-03-2025,CUST676,Amy Brown,Consumer,PROD9145,Desk,Office Supplies,West,Karnataka,Bangalore,29,15049.77,26132.59,11082.82,Cash,Pending,Same Day,25,No Return,Yes,2
+ORD1294,19-02-2024,02-10-2025,CUST541,John Dunn,Corporate,PROD4107,Laptop,Office Supplies,South,Karnataka,Bangalore,11,14943.62,22680.2,7736.58,Net Banking,Cancelled,Second Class,21,Returned,Yes,17
+ORD1295,18-11-2025,19-03-2025,CUST938,Stephen Lee,Corporate,PROD5900,Pen Set,Office Supplies,South,Karnataka,Bangalore,3,16787.0,20435.49,3648.49,UPI,Delivered,First Class,18,No Return,Yes,26
+ORD1296,18-04-2025,13-09-2024,CUST290,David Lee,Home Office,PROD6243,Bookshelf,Furniture,North,UP,Amritsar,27,7899.94,10045.51,2145.57,Debit Card,Cancelled,Standard Class,10,Returned,No,32
+ORD1297,12-10-2024,06-05-2025,CUST379,Emma Lee,Home Office,PROD1112,Chair,Technology,North,Punjab,Lucknow,31,3176.77,5420.82,2244.05,Net Banking,Cancelled,Standard Class,2,Returned,Yes,10
+ORD1298,18-09-2025,22-02-2024,CUST234,Emma Smith,Corporate,PROD3320,Printer,Furniture,East,Maharashtra,Chennai,49,18304.51,20954.58,2650.07,Net Banking,Cancelled,Standard Class,11,No Return,No,1
+ORD1299,07-05-2024,03-05-2025,CUST420,Monica Brown,Consumer,PROD3523,Pen Set,Technology,North,Punjab,Lucknow,38,18129.44,28453.37,10323.93,Net Banking,Delivered,Standard Class,16,No Return,Yes,38
+ORD1300,12-08-2025,30-01-2024,CUST247,Stephen Dunn,Home Office,PROD7939,Bookshelf,Furniture,West,Maharashtra,Chennai,21,17508.1,21584.82,4076.72,Debit Card,Cancelled,Standard Class,0,No Return,No,13
+ORD1301,21-01-2025,07-02-2025,CUST986,Chris Johnson,Corporate,PROD7164,Laptop,Furniture,South,Karnataka,Delhi,27,2978.19,4371.9,1393.71,Debit Card,Pending,Second Class,26,Returned,No,38
+ORD1302,26-02-2024,23-05-2025,CUST662,David Smith,Home Office,PROD9475,Laptop,Furniture,North,Punjab,Delhi,33,177.32,230.15,52.83,Credit Card,Cancelled,Standard Class,8,Returned,No,12
+ORD1303,11-04-2025,28-07-2025,CUST831,John Brown,Corporate,PROD6145,Desk,Office Supplies,South,Delhi,Amritsar,34,9688.14,12095.41,2407.27,Credit Card,Pending,First Class,7,No Return,Yes,16
+ORD1304,28-02-2024,19-02-2024,CUST868,Monica Lee,Corporate,PROD5439,Printer,Furniture,East,Karnataka,Chennai,8,19714.83,29484.55,9769.72,Debit Card,Cancelled,Standard Class,0,Returned,Yes,34
+ORD1305,18-06-2025,30-04-2025,CUST531,Amy Dunn,Home Office,PROD4943,Chair,Furniture,West,Maharashtra,Mumbai,12,4353.63,4938.34,584.71,Debit Card,Cancelled,Standard Class,20,No Return,Yes,45
+ORD1306,22-10-2024,05-04-2024,CUST714,Chris Johnson,Corporate,PROD7883,Printer,Office Supplies,South,Delhi,Chennai,46,10171.69,12427.29,2255.6,Credit Card,Cancelled,Second Class,22,No Return,Yes,5
+ORD1307,15-12-2024,15-07-2025,CUST400,Stephen Dunn,Corporate,PROD1975,Pen Set,Office Supplies,South,Karnataka,Amritsar,24,3392.68,4755.57,1362.89,Credit Card,Delivered,Standard Class,25,Returned,No,11
+ORD1308,23-11-2025,01-03-2025,CUST252,Chris Dunn,Home Office,PROD9590,Calculator,Furniture,West,Tamil Nadu,Mumbai,42,12450.68,17435.35,4984.67,Cash,Pending,Same Day,5,Returned,No,47
+ORD1309,28-01-2024,27-09-2024,CUST970,Chris Smith,Home Office,PROD5446,Pen Set,Technology,South,Karnataka,Lucknow,24,15081.89,18422.71,3340.82,Cash,Pending,Standard Class,26,Returned,No,1
+ORD1310,14-09-2025,24-03-2025,CUST709,Emma Johnson,Home Office,PROD3892,Pen Set,Technology,East,Punjab,Lucknow,20,7470.22,10417.46,2947.24,Net Banking,Pending,Standard Class,21,Returned,No,20
+ORD1311,10-12-2024,18-03-2024,CUST752,Sophia Dunn,Home Office,PROD4754,Bookshelf,Technology,West,Tamil Nadu,Bangalore,25,3719.84,5026.51,1306.67,Cash,Delivered,Second Class,15,No Return,Yes,23
+ORD1312,27-09-2025,08-10-2024,CUST280,John Smith,Consumer,PROD7793,Calculator,Technology,South,Punjab,Chennai,34,4277.58,7267.13,2989.55,Credit Card,Pending,Second Class,28,No Return,Yes,15
+ORD1313,21-02-2024,18-02-2024,CUST193,Stephen Lee,Consumer,PROD7802,Desk,Furniture,West,UP,Bangalore,9,15265.15,25209.71,9944.56,UPI,Cancelled,Second Class,27,Returned,No,7
+ORD1314,16-05-2025,11-12-2024,CUST560,John Smith,Home Office,PROD6594,Pen Set,Furniture,West,Tamil Nadu,Chennai,43,10259.77,12048.12,1788.35,Cash,Cancelled,First Class,0,Returned,Yes,28
+ORD1315,22-01-2024,01-05-2025,CUST310,Monica Green,Consumer,PROD1329,Bookshelf,Office Supplies,South,Punjab,Amritsar,2,13295.03,17833.47,4538.44,Cash,Cancelled,Standard Class,24,No Return,No,10
+ORD1316,07-09-2025,23-06-2024,CUST607,Emma Lee,Home Office,PROD6365,Desk,Furniture,South,Punjab,Mumbai,5,19666.25,26705.15,7038.9,UPI,Delivered,Same Day,5,No Return,Yes,17
+ORD1317,08-12-2025,04-05-2025,CUST169,Amy Dunn,Home Office,PROD2641,Pen Set,Furniture,North,Delhi,Amritsar,34,8745.43,11080.36,2334.93,UPI,Cancelled,Standard Class,26,No Return,Yes,23
+ORD1318,16-12-2025,24-06-2024,CUST201,Monica Brown,Consumer,PROD1396,Pen Set,Office Supplies,West,Karnataka,Chennai,4,19929.88,32966.61,13036.73,Debit Card,Cancelled,Standard Class,28,Returned,No,8
+ORD1319,16-06-2024,22-04-2024,CUST619,Stephen Dunn,Home Office,PROD9750,Pen Set,Technology,North,Tamil Nadu,Chennai,17,18098.03,22775.48,4677.45,Cash,Pending,Same Day,19,No Return,No,43
+ORD1320,15-09-2025,23-02-2025,CUST835,John Brown,Consumer,PROD1657,Calculator,Furniture,North,Karnataka,Mumbai,11,5932.56,8982.16,3049.6,Net Banking,Delivered,Second Class,1,Returned,No,37
+ORD1321,03-08-2024,25-07-2025,CUST987,David Johnson,Consumer,PROD2693,Bookshelf,Office Supplies,East,Maharashtra,Lucknow,47,4030.25,6216.1,2185.85,Credit Card,Pending,Second Class,16,No Return,Yes,35
+ORD1322,23-10-2024,06-03-2025,CUST947,Amy Johnson,Home Office,PROD2939,Laptop,Office Supplies,North,Karnataka,Delhi,30,737.16,851.34,114.18,Credit Card,Pending,Standard Class,4,No Return,Yes,30
+ORD1323,05-07-2025,02-01-2024,CUST944,Emma Dunn,Corporate,PROD5624,Printer,Furniture,South,Maharashtra,Lucknow,43,980.14,1411.82,431.68,Net Banking,Delivered,Same Day,12,Returned,Yes,23
+ORD1324,24-04-2024,07-06-2025,CUST456,Chris Dunn,Consumer,PROD8347,Bookshelf,Office Supplies,East,Punjab,Mumbai,9,6590.3,10891.73,4301.43,Debit Card,Pending,Standard Class,21,Returned,Yes,27
+ORD1325,03-04-2025,31-05-2025,CUST510,Monica Lee,Corporate,PROD8387,Chair,Office Supplies,West,Tamil Nadu,Mumbai,38,8113.24,12376.6,4263.36,Credit Card,Pending,First Class,20,No Return,Yes,27
+ORD1326,11-07-2025,30-10-2025,CUST216,Amy Lee,Home Office,PROD7826,Bookshelf,Office Supplies,North,UP,Mumbai,26,608.12,1051.47,443.35,Cash,Delivered,Same Day,7,No Return,No,17
+ORD1327,22-07-2024,13-11-2024,CUST615,David Dunn,Home Office,PROD7768,Desk,Office Supplies,East,Delhi,Lucknow,41,19361.04,26577.86,7216.82,UPI,Pending,Same Day,16,Returned,Yes,21
+ORD1328,07-08-2025,08-08-2025,CUST421,Monica Johnson,Home Office,PROD8349,Calculator,Furniture,West,UP,Delhi,43,17080.24,27081.99,10001.75,Credit Card,Cancelled,Same Day,21,No Return,Yes,9
+ORD1329,22-10-2024,22-09-2024,CUST950,Chris Brown,Home Office,PROD1989,Pen Set,Furniture,South,Delhi,Lucknow,2,17000.83,25771.08,8770.25,Net Banking,Delivered,Same Day,18,No Return,Yes,21
+ORD1330,04-05-2025,18-06-2024,CUST277,Sophia Dunn,Corporate,PROD4054,Pen Set,Office Supplies,North,Tamil Nadu,Chennai,22,9400.49,16876.58,7476.09,Net Banking,Pending,Standard Class,26,Returned,Yes,5
+ORD1331,12-11-2025,20-05-2025,CUST476,Monica Johnson,Consumer,PROD5841,Laptop,Furniture,West,Tamil Nadu,Chennai,46,13375.82,17793.79,4417.97,Net Banking,Pending,Second Class,27,Returned,No,49
+ORD1332,30-12-2025,19-03-2024,CUST815,David Dunn,Corporate,PROD8270,Printer,Furniture,South,Karnataka,Chennai,7,9187.39,11879.76,2692.37,Credit Card,Pending,First Class,23,Returned,No,47
+ORD1333,15-12-2024,07-08-2024,CUST575,Stephen Smith,Consumer,PROD3644,Laptop,Furniture,South,Punjab,Chennai,5,3646.75,4834.13,1187.38,Credit Card,Delivered,Same Day,2,Returned,No,36
+ORD1334,05-02-2025,27-12-2025,CUST639,David Green,Corporate,PROD2080,Desk,Technology,North,Karnataka,Chennai,20,964.4,1731.36,766.96,Net Banking,Cancelled,Second Class,4,No Return,No,24
+ORD1335,03-03-2025,27-02-2025,CUST132,David Brown,Home Office,PROD4124,Laptop,Furniture,East,Karnataka,Chennai,45,3533.02,4219.03,686.01,Net Banking,Delivered,Same Day,26,Returned,Yes,21
+ORD1336,26-01-2024,06-10-2025,CUST128,Stephen Johnson,Corporate,PROD1993,Desk,Technology,North,Karnataka,Bangalore,26,17161.43,24432.78,7271.35,Debit Card,Cancelled,Standard Class,2,No Return,No,24
+ORD1337,19-12-2024,29-08-2025,CUST221,David Smith,Corporate,PROD9562,Bookshelf,Furniture,North,UP,Amritsar,4,3393.54,5442.7,2049.16,Net Banking,Pending,Standard Class,16,Returned,Yes,12
+ORD1338,19-01-2024,17-07-2024,CUST978,Chris Johnson,Corporate,PROD7095,Chair,Office Supplies,South,Maharashtra,Delhi,29,17577.99,28002.72,10424.73,Net Banking,Delivered,First Class,10,Returned,Yes,32
+ORD1339,24-04-2025,08-03-2024,CUST934,Emma Green,Corporate,PROD2318,Calculator,Technology,West,Delhi,Lucknow,31,13901.86,23395.2,9493.34,UPI,Delivered,First Class,14,No Return,Yes,38
+ORD1340,22-11-2025,19-12-2024,CUST153,Monica Lee,Home Office,PROD9927,Bookshelf,Furniture,East,Punjab,Delhi,38,18099.9,29417.13,11317.23,UPI,Delivered,Second Class,15,No Return,Yes,45
+ORD1341,19-08-2025,09-11-2024,CUST268,Amy Dunn,Consumer,PROD2450,Printer,Technology,South,UP,Bangalore,49,8346.21,14251.35,5905.14,Cash,Delivered,Same Day,23,Returned,No,34
+ORD1342,09-02-2025,30-03-2025,CUST552,John Green,Corporate,PROD3013,Desk,Technology,North,Delhi,Amritsar,31,15771.01,26743.88,10972.87,Credit Card,Pending,Standard Class,0,Returned,No,16
+ORD1343,24-01-2024,12-08-2024,CUST990,Amy Johnson,Home Office,PROD6099,Printer,Office Supplies,South,Delhi,Lucknow,25,15017.65,17426.42,2408.77,Credit Card,Pending,Same Day,14,Returned,Yes,30
+ORD1344,26-09-2024,11-01-2024,CUST779,David Dunn,Corporate,PROD7196,Printer,Furniture,East,Tamil Nadu,Bangalore,46,9034.64,15016.9,5982.26,UPI,Delivered,Standard Class,20,Returned,Yes,10
+ORD1345,22-10-2025,01-10-2024,CUST829,Emma Lee,Corporate,PROD8350,Bookshelf,Furniture,West,Tamil Nadu,Amritsar,48,14930.39,26635.3,11704.91,UPI,Delivered,First Class,5,No Return,Yes,35
+ORD1346,22-11-2025,22-06-2024,CUST523,Sophia Lee,Home Office,PROD2975,Calculator,Furniture,West,UP,Amritsar,38,19409.98,26053.23,6643.25,Net Banking,Pending,Standard Class,21,Returned,Yes,42
+ORD1347,11-05-2024,22-11-2024,CUST198,Amy Brown,Home Office,PROD9601,Laptop,Furniture,North,UP,Mumbai,31,13013.05,22668.83,9655.78,Net Banking,Delivered,First Class,17,Returned,No,39
+ORD1348,08-07-2025,14-12-2024,CUST467,Emma Dunn,Home Office,PROD3575,Calculator,Furniture,East,Delhi,Delhi,26,2953.48,5015.3,2061.82,Credit Card,Cancelled,Standard Class,7,Returned,Yes,48
+ORD1349,08-06-2025,06-04-2025,CUST723,Monica Brown,Home Office,PROD4151,Chair,Office Supplies,West,UP,Amritsar,12,16946.49,29760.63,12814.14,Net Banking,Pending,Standard Class,0,No Return,No,13
+ORD1350,15-06-2025,11-03-2025,CUST899,Monica Johnson,Home Office,PROD8247,Printer,Office Supplies,North,Maharashtra,Lucknow,8,3568.04,4621.33,1053.29,UPI,Pending,Standard Class,13,Returned,Yes,21
+ORD1351,26-12-2024,31-07-2025,CUST796,Sophia Brown,Home Office,PROD6208,Laptop,Office Supplies,North,Punjab,Mumbai,9,6556.4,9938.58,3382.18,Credit Card,Delivered,Standard Class,21,Returned,Yes,18
+ORD1352,10-04-2024,10-12-2025,CUST685,Amy Dunn,Home Office,PROD1594,Printer,Technology,South,Punjab,Mumbai,31,6373.13,9707.06,3333.93,Credit Card,Pending,Same Day,10,Returned,No,38
+ORD1353,20-02-2025,05-04-2024,CUST257,David Green,Consumer,PROD5622,Calculator,Office Supplies,East,Delhi,Chennai,17,15011.78,26763.41,11751.63,UPI,Pending,First Class,22,Returned,Yes,41
+ORD1354,23-11-2025,12-01-2025,CUST204,John Green,Home Office,PROD5532,Bookshelf,Office Supplies,West,Punjab,Chennai,9,476.84,793.3,316.46,Net Banking,Cancelled,First Class,14,Returned,Yes,33
+ORD1355,03-10-2025,02-01-2025,CUST727,Amy Green,Home Office,PROD6073,Calculator,Office Supplies,North,Maharashtra,Chennai,4,7719.3,8931.54,1212.24,Net Banking,Cancelled,Standard Class,3,No Return,No,19
+ORD1356,01-11-2025,27-11-2024,CUST431,Emma Green,Corporate,PROD8859,Calculator,Office Supplies,South,Delhi,Amritsar,14,12601.84,18290.7,5688.86,Debit Card,Cancelled,Second Class,10,No Return,No,39
+ORD1357,18-11-2024,09-09-2025,CUST386,John Johnson,Home Office,PROD5139,Laptop,Technology,South,Karnataka,Amritsar,37,9620.39,14936.53,5316.14,UPI,Cancelled,Same Day,29,Returned,No,42
+ORD1358,02-10-2024,22-04-2025,CUST513,Amy Dunn,Consumer,PROD4306,Desk,Office Supplies,North,Punjab,Lucknow,42,14295.66,16966.19,2670.53,Cash,Cancelled,Standard Class,19,No Return,Yes,48
+ORD1359,17-09-2025,05-05-2024,CUST332,Stephen Brown,Consumer,PROD8352,Calculator,Office Supplies,South,Tamil Nadu,Delhi,34,16002.81,24508.24,8505.43,Debit Card,Cancelled,First Class,13,Returned,No,10
+ORD1360,04-12-2025,16-10-2024,CUST871,Amy Smith,Home Office,PROD5557,Chair,Furniture,South,Punjab,Lucknow,4,14436.97,17934.69,3497.72,Net Banking,Pending,Standard Class,25,No Return,No,24
+ORD1361,21-11-2025,20-06-2024,CUST863,Stephen Johnson,Consumer,PROD3890,Chair,Technology,South,Maharashtra,Mumbai,29,9928.72,14046.17,4117.45,Credit Card,Delivered,Second Class,11,No Return,No,47
+ORD1362,22-09-2025,03-04-2024,CUST733,Chris Lee,Home Office,PROD2968,Chair,Office Supplies,West,Karnataka,Amritsar,2,7037.04,8222.62,1185.58,Credit Card,Cancelled,Standard Class,20,Returned,No,30
+ORD1363,05-02-2025,11-10-2025,CUST291,Monica Green,Consumer,PROD9024,Chair,Office Supplies,West,Delhi,Mumbai,11,13062.3,22597.24,9534.94,Credit Card,Delivered,Second Class,6,No Return,Yes,11
+ORD1364,07-02-2025,01-09-2025,CUST813,Chris Brown,Home Office,PROD5035,Laptop,Office Supplies,North,Punjab,Amritsar,44,10988.66,13758.27,2769.61,Cash,Delivered,Same Day,5,Returned,No,45
+ORD1365,15-08-2024,21-04-2025,CUST224,John Brown,Consumer,PROD3456,Printer,Office Supplies,East,Punjab,Delhi,15,19525.09,27072.24,7547.15,Net Banking,Delivered,Same Day,5,No Return,No,5
+ORD1366,16-01-2024,05-12-2025,CUST252,Sophia Brown,Consumer,PROD8700,Desk,Furniture,East,Delhi,Amritsar,42,11569.88,16280.2,4710.32,Credit Card,Delivered,Second Class,17,Returned,Yes,17
+ORD1367,24-04-2024,30-09-2024,CUST873,Sophia Brown,Corporate,PROD5707,Chair,Technology,West,Delhi,Lucknow,28,9733.52,12927.41,3193.89,Debit Card,Cancelled,Second Class,20,No Return,No,16
+ORD1368,22-04-2025,25-04-2025,CUST540,John Dunn,Corporate,PROD3121,Pen Set,Office Supplies,South,Tamil Nadu,Delhi,1,12622.73,21000.69,8377.96,Credit Card,Cancelled,Same Day,26,Returned,No,9
+ORD1369,25-01-2025,02-12-2024,CUST567,Amy Green,Corporate,PROD6742,Chair,Furniture,West,Punjab,Chennai,41,2286.69,2927.6,640.91,Debit Card,Cancelled,First Class,4,No Return,Yes,27
+ORD1370,09-01-2024,17-07-2025,CUST621,Sophia Green,Corporate,PROD4190,Bookshelf,Office Supplies,North,Punjab,Lucknow,29,15677.71,23279.71,7602.0,Net Banking,Delivered,Standard Class,0,Returned,Yes,49
+ORD1371,27-11-2024,23-01-2025,CUST308,Emma Johnson,Corporate,PROD5210,Laptop,Technology,South,Delhi,Bangalore,12,11588.78,18939.37,7350.59,Cash,Cancelled,Same Day,2,No Return,No,26
+ORD1372,13-04-2024,14-02-2025,CUST382,Sophia Dunn,Home Office,PROD5597,Chair,Office Supplies,South,Punjab,Chennai,11,2559.34,3884.4,1325.06,Cash,Delivered,First Class,5,No Return,Yes,48
+ORD1373,18-10-2025,17-02-2025,CUST131,David Johnson,Home Office,PROD9957,Laptop,Office Supplies,East,Punjab,Bangalore,24,16288.82,24701.44,8412.62,Net Banking,Cancelled,Same Day,7,No Return,No,35
+ORD1374,14-02-2024,13-09-2025,CUST623,Amy Brown,Home Office,PROD9860,Chair,Technology,South,Delhi,Mumbai,18,84.42,147.13,62.71,UPI,Cancelled,Second Class,25,Returned,No,49
+ORD1375,23-08-2025,20-07-2025,CUST329,John Green,Home Office,PROD3143,Desk,Technology,South,Tamil Nadu,Amritsar,42,8282.28,9790.62,1508.34,Cash,Cancelled,First Class,27,Returned,No,14
+ORD1376,14-08-2025,15-03-2025,CUST596,Chris Dunn,Consumer,PROD3196,Chair,Furniture,North,Punjab,Mumbai,29,7926.44,13058.75,5132.31,UPI,Cancelled,Same Day,2,Returned,Yes,9
+ORD1377,26-11-2025,13-09-2025,CUST528,David Johnson,Corporate,PROD9876,Pen Set,Furniture,South,Maharashtra,Delhi,44,5229.04,7199.35,1970.31,Net Banking,Pending,Second Class,9,Returned,Yes,14
+ORD1378,23-04-2025,30-10-2025,CUST227,John Smith,Corporate,PROD4773,Pen Set,Furniture,South,Tamil Nadu,Chennai,31,13559.3,20406.8,6847.5,Net Banking,Delivered,Second Class,23,No Return,Yes,32
+ORD1379,07-05-2025,13-01-2024,CUST952,Emma Dunn,Consumer,PROD8612,Laptop,Technology,West,UP,Delhi,22,4303.63,5654.49,1350.86,Debit Card,Delivered,Standard Class,10,Returned,No,42
+ORD1380,22-12-2025,05-10-2025,CUST109,Chris Dunn,Home Office,PROD2338,Desk,Office Supplies,North,Tamil Nadu,Lucknow,3,13402.9,19678.09,6275.19,Credit Card,Pending,Same Day,9,No Return,No,2
+ORD1381,07-08-2024,28-02-2024,CUST877,Stephen Brown,Consumer,PROD9123,Laptop,Technology,North,Punjab,Amritsar,26,5862.16,10029.53,4167.37,Net Banking,Delivered,Same Day,14,No Return,Yes,25
+ORD1382,30-10-2024,25-06-2025,CUST152,Amy Brown,Home Office,PROD8247,Calculator,Furniture,South,Karnataka,Bangalore,18,5453.68,6319.62,865.94,Cash,Pending,Standard Class,29,No Return,Yes,47
+ORD1383,23-08-2025,27-12-2025,CUST367,Emma Green,Corporate,PROD4246,Desk,Office Supplies,North,Delhi,Chennai,40,6453.76,10595.4,4141.64,Credit Card,Delivered,Second Class,0,Returned,No,21
+ORD1384,11-07-2025,25-08-2024,CUST574,Chris Brown,Consumer,PROD4086,Laptop,Office Supplies,West,Maharashtra,Delhi,32,17605.6,24596.01,6990.41,Net Banking,Cancelled,Second Class,5,No Return,No,1
+ORD1385,20-03-2025,19-05-2024,CUST921,Amy Johnson,Consumer,PROD8033,Calculator,Office Supplies,West,Karnataka,Mumbai,8,17933.9,22324.66,4390.76,Cash,Pending,Same Day,1,No Return,Yes,0
+ORD1386,03-12-2024,10-04-2025,CUST638,Stephen Green,Corporate,PROD2950,Laptop,Technology,East,Karnataka,Amritsar,47,6168.57,9639.04,3470.47,Cash,Cancelled,Second Class,22,Returned,Yes,9
+ORD1387,17-09-2024,10-11-2024,CUST154,Stephen Dunn,Corporate,PROD5067,Bookshelf,Office Supplies,South,UP,Bangalore,6,6246.79,11205.65,4958.86,UPI,Pending,Same Day,1,Returned,Yes,37
+ORD1388,19-08-2024,02-10-2025,CUST690,Monica Green,Consumer,PROD1739,Pen Set,Technology,South,UP,Mumbai,44,7762.91,11228.1,3465.19,Cash,Pending,Same Day,0,Returned,Yes,30
+ORD1389,13-09-2024,09-02-2025,CUST800,Sophia Brown,Corporate,PROD3249,Pen Set,Furniture,East,Maharashtra,Amritsar,20,1687.79,2887.25,1199.46,Debit Card,Cancelled,Second Class,23,No Return,Yes,5
+ORD1390,14-01-2025,27-05-2024,CUST433,Amy Dunn,Corporate,PROD3773,Bookshelf,Office Supplies,West,Maharashtra,Bangalore,36,13549.33,17043.06,3493.73,UPI,Cancelled,Standard Class,10,No Return,No,37
+ORD1391,15-05-2025,12-01-2025,CUST571,Chris Lee,Corporate,PROD7751,Printer,Office Supplies,East,Tamil Nadu,Lucknow,22,1439.71,2234.28,794.57,UPI,Cancelled,Same Day,12,Returned,Yes,13
+ORD1392,23-09-2025,10-03-2024,CUST554,Stephen Smith,Home Office,PROD2250,Laptop,Furniture,North,Delhi,Chennai,30,19658.19,32895.37,13237.18,Credit Card,Pending,Second Class,25,Returned,Yes,46
+ORD1393,28-05-2025,08-03-2025,CUST852,Stephen Smith,Corporate,PROD6674,Laptop,Furniture,East,Tamil Nadu,Delhi,1,1417.01,2335.42,918.41,Net Banking,Delivered,Same Day,17,Returned,Yes,2
+ORD1394,15-06-2024,16-02-2024,CUST704,Emma Smith,Home Office,PROD1153,Laptop,Office Supplies,South,Punjab,Delhi,28,7700.34,11527.86,3827.52,UPI,Pending,Same Day,18,No Return,No,39
+ORD1395,12-07-2024,12-06-2024,CUST185,Sophia Smith,Home Office,PROD3142,Bookshelf,Furniture,West,UP,Chennai,7,439.32,495.53,56.21,Net Banking,Delivered,First Class,9,No Return,No,30
+ORD1396,21-09-2025,23-10-2024,CUST830,Emma Johnson,Home Office,PROD7269,Bookshelf,Technology,East,Karnataka,Bangalore,19,4592.44,5403.91,811.47,Credit Card,Pending,Standard Class,26,No Return,No,5
+ORD1397,26-07-2024,08-10-2024,CUST985,David Lee,Consumer,PROD1175,Bookshelf,Office Supplies,West,UP,Mumbai,27,711.02,984.11,273.09,Debit Card,Pending,Second Class,18,No Return,No,9
+ORD1398,14-12-2024,04-02-2024,CUST740,Monica Lee,Home Office,PROD8638,Bookshelf,Office Supplies,North,Delhi,Chennai,9,14409.55,25015.07,10605.52,Cash,Delivered,Second Class,6,Returned,Yes,24
+ORD1399,04-08-2025,04-07-2024,CUST912,Stephen Johnson,Home Office,PROD2317,Desk,Technology,South,Delhi,Bangalore,42,8891.44,11313.27,2421.83,UPI,Delivered,Same Day,5,No Return,No,7
+ORD1400,13-06-2025,22-04-2025,CUST154,David Smith,Consumer,PROD3251,Pen Set,Technology,West,UP,Mumbai,47,19483.6,31223.34,11739.74,Debit Card,Cancelled,First Class,25,No Return,No,22
+ORD1401,08-10-2025,09-09-2024,CUST919,John Brown,Consumer,PROD1534,Pen Set,Technology,North,Maharashtra,Delhi,10,11334.4,13348.56,2014.16,Credit Card,Cancelled,Same Day,7,No Return,No,22
+ORD1402,21-02-2025,22-11-2024,CUST110,Amy Lee,Home Office,PROD8269,Printer,Technology,North,Maharashtra,Mumbai,8,1281.72,1486.08,204.36,UPI,Delivered,Second Class,16,No Return,No,13
+ORD1403,04-02-2025,22-12-2024,CUST169,John Dunn,Consumer,PROD9554,Chair,Technology,South,UP,Amritsar,49,17331.24,23016.16,5684.92,Debit Card,Cancelled,Standard Class,15,Returned,No,5
+ORD1404,05-10-2024,07-03-2025,CUST847,Chris Smith,Home Office,PROD6602,Chair,Furniture,West,Delhi,Amritsar,44,1041.69,1609.41,567.72,Net Banking,Pending,Same Day,17,No Return,Yes,48
+ORD1405,04-04-2024,22-06-2025,CUST662,John Smith,Consumer,PROD5009,Pen Set,Furniture,South,Maharashtra,Mumbai,29,2390.46,2853.59,463.13,UPI,Pending,Standard Class,10,No Return,Yes,46
+ORD1406,04-01-2025,06-01-2025,CUST140,Emma Dunn,Consumer,PROD6377,Desk,Furniture,South,Maharashtra,Chennai,20,12148.29,20291.71,8143.42,UPI,Cancelled,First Class,14,No Return,No,28
+ORD1407,04-12-2025,12-09-2025,CUST637,Emma Brown,Consumer,PROD3510,Pen Set,Furniture,South,Delhi,Delhi,20,11359.79,20391.52,9031.73,UPI,Cancelled,Same Day,22,Returned,No,6
+ORD1408,04-10-2024,07-12-2025,CUST380,Chris Johnson,Corporate,PROD7277,Printer,Technology,South,Karnataka,Bangalore,42,12780.37,22468.89,9688.52,Cash,Pending,Same Day,16,Returned,Yes,17
+ORD1409,17-12-2025,21-07-2025,CUST304,Amy Green,Corporate,PROD3882,Desk,Technology,North,Delhi,Mumbai,39,7747.17,12146.33,4399.16,Cash,Cancelled,Standard Class,6,Returned,Yes,46
+ORD1410,01-07-2025,20-06-2025,CUST160,Monica Green,Consumer,PROD1745,Printer,Technology,South,Tamil Nadu,Bangalore,36,19729.59,22704.95,2975.36,Cash,Delivered,First Class,25,No Return,No,36
+ORD1411,14-05-2024,19-11-2025,CUST961,Monica Johnson,Corporate,PROD9875,Printer,Technology,East,UP,Mumbai,4,3206.48,3958.82,752.34,UPI,Cancelled,Second Class,17,No Return,Yes,11
+ORD1412,26-04-2025,11-09-2024,CUST560,John Dunn,Consumer,PROD5873,Laptop,Furniture,South,Punjab,Bangalore,44,11766.67,16674.81,4908.14,Credit Card,Cancelled,Standard Class,10,No Return,Yes,45
+ORD1413,15-09-2025,10-08-2024,CUST374,Emma Johnson,Consumer,PROD9394,Pen Set,Office Supplies,West,UP,Delhi,37,18401.22,24774.6,6373.38,Cash,Pending,Same Day,8,Returned,No,34
+ORD1414,21-06-2025,05-11-2025,CUST493,Emma Dunn,Consumer,PROD8705,Desk,Technology,West,Delhi,Amritsar,30,1113.15,1534.17,421.02,Cash,Delivered,Same Day,18,No Return,Yes,23
+ORD1415,02-12-2024,16-11-2025,CUST222,Chris Dunn,Home Office,PROD5266,Calculator,Office Supplies,West,Tamil Nadu,Lucknow,32,12091.79,20698.28,8606.49,Net Banking,Cancelled,Standard Class,5,No Return,Yes,26
+ORD1416,20-10-2024,03-03-2025,CUST445,Emma Lee,Consumer,PROD9419,Bookshelf,Furniture,West,Karnataka,Chennai,18,17235.9,19514.77,2278.87,Net Banking,Pending,First Class,9,No Return,Yes,4
+ORD1417,22-02-2024,30-10-2024,CUST428,Amy Brown,Corporate,PROD6529,Desk,Technology,East,Delhi,Amritsar,11,17616.19,31699.9,14083.71,Cash,Pending,First Class,7,No Return,No,27
+ORD1418,13-07-2025,26-12-2024,CUST961,Sophia Dunn,Home Office,PROD8346,Desk,Office Supplies,East,Delhi,Lucknow,8,19520.43,28176.12,8655.69,Debit Card,Cancelled,Second Class,26,No Return,No,38
+ORD1419,06-07-2024,14-03-2024,CUST154,Monica Johnson,Consumer,PROD1054,Chair,Technology,North,UP,Delhi,9,14977.71,26341.12,11363.41,Debit Card,Cancelled,Second Class,2,Returned,No,20
+ORD1420,05-04-2025,03-07-2025,CUST873,John Johnson,Consumer,PROD1575,Calculator,Technology,North,Punjab,Lucknow,24,6882.94,8571.5,1688.56,UPI,Cancelled,Same Day,11,Returned,No,17
+ORD1421,12-05-2025,21-01-2024,CUST768,Stephen Lee,Corporate,PROD4118,Calculator,Furniture,North,UP,Chennai,8,804.81,907.76,102.95,UPI,Cancelled,Standard Class,27,No Return,No,3
+ORD1422,19-03-2025,02-06-2025,CUST204,Monica Smith,Consumer,PROD9481,Printer,Technology,South,Maharashtra,Lucknow,18,5486.46,9187.69,3701.23,Cash,Delivered,Second Class,8,No Return,No,15
+ORD1423,09-05-2025,02-05-2025,CUST166,Emma Lee,Consumer,PROD5259,Calculator,Office Supplies,South,Delhi,Amritsar,48,7279.59,8373.47,1093.88,Credit Card,Cancelled,First Class,0,No Return,Yes,41
+ORD1424,03-11-2025,23-04-2025,CUST679,Monica Smith,Corporate,PROD8546,Bookshelf,Furniture,South,Karnataka,Mumbai,35,13656.51,18061.26,4404.75,Debit Card,Pending,First Class,2,No Return,No,17
+ORD1425,11-08-2025,03-08-2025,CUST630,Stephen Lee,Consumer,PROD5483,Bookshelf,Office Supplies,East,UP,Bangalore,11,9329.93,16455.84,7125.91,Net Banking,Pending,Same Day,14,Returned,No,10
+ORD1426,13-10-2025,19-05-2024,CUST451,John Smith,Consumer,PROD8274,Printer,Furniture,South,Punjab,Lucknow,40,18076.67,22444.03,4367.36,Net Banking,Delivered,Same Day,10,Returned,Yes,33
+ORD1427,14-09-2025,29-02-2024,CUST690,Monica Lee,Home Office,PROD4311,Laptop,Office Supplies,South,UP,Chennai,42,11416.44,19442.39,8025.95,Credit Card,Delivered,First Class,27,Returned,Yes,18
+ORD1428,08-09-2024,01-10-2024,CUST859,Amy Lee,Corporate,PROD7176,Bookshelf,Technology,South,UP,Chennai,28,2224.05,2875.37,651.32,Debit Card,Delivered,Standard Class,5,Returned,Yes,15
+ORD1429,09-01-2025,09-10-2025,CUST908,Sophia Lee,Corporate,PROD8232,Pen Set,Furniture,West,Delhi,Mumbai,12,8835.9,14360.6,5524.7,UPI,Cancelled,Second Class,16,Returned,No,13
+ORD1430,07-01-2025,13-01-2024,CUST381,Monica Lee,Corporate,PROD7112,Laptop,Furniture,North,Tamil Nadu,Bangalore,17,3990.93,5040.51,1049.58,Cash,Delivered,First Class,16,No Return,No,12
+ORD1431,01-09-2024,15-11-2025,CUST282,Monica Johnson,Corporate,PROD5739,Laptop,Office Supplies,East,Tamil Nadu,Delhi,11,1296.31,1699.45,403.14,Cash,Cancelled,Second Class,21,Returned,No,28
+ORD1432,13-09-2024,07-02-2024,CUST224,Monica Dunn,Consumer,PROD2584,Printer,Office Supplies,North,UP,Bangalore,10,4185.79,5842.34,1656.55,UPI,Cancelled,Standard Class,15,Returned,Yes,2
+ORD1433,07-04-2025,14-06-2025,CUST318,Amy Dunn,Consumer,PROD7388,Chair,Technology,West,Tamil Nadu,Amritsar,23,12758.23,18595.51,5837.28,UPI,Pending,Second Class,14,Returned,Yes,1
+ORD1434,25-06-2025,30-06-2024,CUST235,Amy Green,Corporate,PROD2037,Printer,Furniture,North,Karnataka,Bangalore,47,1901.36,3254.69,1353.33,Debit Card,Pending,Same Day,10,Returned,No,46
+ORD1435,04-11-2024,02-01-2025,CUST263,Stephen Johnson,Home Office,PROD4170,Pen Set,Office Supplies,South,Delhi,Chennai,4,12260.53,21137.78,8877.25,Credit Card,Delivered,Second Class,17,No Return,No,47
+ORD1436,19-09-2025,15-05-2025,CUST111,Amy Lee,Consumer,PROD1505,Chair,Office Supplies,North,Tamil Nadu,Mumbai,15,12274.75,18091.2,5816.45,Net Banking,Cancelled,Same Day,0,No Return,No,8
+ORD1437,25-05-2025,20-01-2025,CUST610,Stephen Dunn,Home Office,PROD9027,Desk,Office Supplies,West,Karnataka,Lucknow,34,16961.14,19339.03,2377.89,Net Banking,Pending,Same Day,5,No Return,No,37
+ORD1438,17-06-2024,16-03-2024,CUST763,David Johnson,Consumer,PROD6761,Chair,Furniture,East,Punjab,Bangalore,17,13504.3,21673.59,8169.29,Debit Card,Cancelled,Standard Class,1,No Return,No,36
+ORD1439,23-10-2024,13-04-2024,CUST425,John Green,Home Office,PROD8694,Printer,Technology,West,UP,Chennai,21,7992.42,12885.77,4893.35,Cash,Cancelled,Standard Class,11,Returned,Yes,14
+ORD1440,08-09-2025,03-03-2024,CUST200,David Lee,Corporate,PROD8281,Laptop,Technology,North,UP,Delhi,41,8973.76,15527.77,6554.01,Debit Card,Cancelled,First Class,17,No Return,Yes,40
+ORD1441,28-11-2025,28-02-2025,CUST752,Emma Brown,Home Office,PROD1395,Chair,Technology,West,Punjab,Bangalore,7,1584.57,2350.31,765.74,UPI,Cancelled,Standard Class,12,No Return,No,11
+ORD1442,28-07-2024,10-12-2024,CUST467,Emma Lee,Consumer,PROD5761,Chair,Office Supplies,South,Karnataka,Chennai,14,7790.5,10021.57,2231.07,Net Banking,Cancelled,Same Day,16,No Return,No,28
+ORD1443,30-09-2025,21-09-2025,CUST422,Sophia Dunn,Corporate,PROD5491,Laptop,Furniture,South,Delhi,Lucknow,9,1811.55,3237.08,1425.53,Debit Card,Delivered,Same Day,4,Returned,Yes,18
+ORD1444,12-02-2025,17-01-2025,CUST214,Stephen Green,Home Office,PROD1806,Laptop,Furniture,North,Tamil Nadu,Lucknow,28,18018.49,26943.57,8925.08,UPI,Delivered,First Class,5,Returned,No,43
+ORD1445,30-01-2024,22-11-2024,CUST612,Chris Green,Consumer,PROD9388,Pen Set,Furniture,East,Karnataka,Delhi,6,1240.61,1426.08,185.47,Net Banking,Pending,Second Class,12,Returned,Yes,17
+ORD1446,26-10-2025,29-10-2024,CUST816,Amy Brown,Home Office,PROD9867,Pen Set,Technology,West,Maharashtra,Bangalore,14,14013.73,20496.56,6482.83,UPI,Pending,Same Day,6,Returned,Yes,3
+ORD1447,23-02-2024,04-05-2025,CUST725,Sophia Green,Consumer,PROD3821,Bookshelf,Furniture,West,Punjab,Mumbai,30,18973.18,31882.72,12909.54,Debit Card,Pending,Second Class,28,Returned,Yes,8
+ORD1448,23-02-2024,10-02-2025,CUST592,Monica Green,Corporate,PROD4216,Desk,Office Supplies,North,Delhi,Chennai,47,7020.59,8850.73,1830.14,Net Banking,Delivered,Second Class,13,Returned,No,41
+ORD1449,29-11-2024,20-12-2025,CUST852,Emma Johnson,Consumer,PROD5171,Desk,Office Supplies,West,Karnataka,Amritsar,5,2659.35,3142.47,483.12,Debit Card,Cancelled,Second Class,12,No Return,Yes,49
+ORD1450,06-03-2024,05-01-2025,CUST206,Amy Johnson,Corporate,PROD9783,Pen Set,Technology,East,Karnataka,Chennai,42,10351.44,14343.45,3992.01,UPI,Pending,Same Day,1,No Return,Yes,12
+ORD1451,20-07-2025,05-09-2025,CUST918,Amy Brown,Consumer,PROD4690,Printer,Furniture,North,Delhi,Delhi,45,6181.09,10438.93,4257.84,UPI,Pending,Same Day,21,No Return,No,0
+ORD1452,10-04-2025,12-08-2025,CUST681,Monica Dunn,Corporate,PROD8336,Bookshelf,Technology,South,Punjab,Delhi,4,9195.86,14734.5,5538.64,Net Banking,Cancelled,Same Day,9,No Return,No,30
+ORD1453,27-12-2024,13-06-2024,CUST854,Amy Lee,Corporate,PROD9159,Printer,Furniture,East,UP,Lucknow,6,1570.55,2431.88,861.33,Credit Card,Delivered,Standard Class,29,Returned,Yes,5
+ORD1454,21-02-2025,11-07-2024,CUST889,Amy Green,Consumer,PROD8315,Bookshelf,Office Supplies,West,Maharashtra,Delhi,6,3838.09,5260.23,1422.14,Cash,Delivered,Same Day,9,No Return,No,0
+ORD1455,28-02-2024,10-03-2024,CUST209,Monica Dunn,Corporate,PROD4127,Printer,Office Supplies,South,UP,Mumbai,4,5239.98,7064.32,1824.34,Credit Card,Pending,First Class,28,No Return,Yes,11
+ORD1456,03-08-2025,06-12-2024,CUST290,Amy Lee,Home Office,PROD7413,Calculator,Furniture,West,Punjab,Chennai,20,2791.38,3231.85,440.47,Credit Card,Pending,First Class,28,No Return,Yes,39
+ORD1457,11-06-2024,03-03-2025,CUST269,Sophia Johnson,Home Office,PROD4209,Laptop,Furniture,East,UP,Lucknow,10,12623.44,21412.29,8788.85,Cash,Pending,Same Day,14,Returned,Yes,30
+ORD1458,06-08-2024,04-02-2024,CUST349,Monica Brown,Home Office,PROD5388,Calculator,Office Supplies,East,Delhi,Mumbai,6,15820.14,19855.51,4035.37,Credit Card,Delivered,First Class,1,No Return,Yes,26
+ORD1459,20-07-2024,12-08-2024,CUST422,Chris Lee,Corporate,PROD4128,Printer,Office Supplies,South,Maharashtra,Bangalore,19,12094.64,20955.03,8860.39,Cash,Cancelled,Second Class,17,Returned,No,10
+ORD1460,19-08-2024,01-07-2025,CUST291,John Brown,Corporate,PROD7289,Laptop,Furniture,South,Delhi,Bangalore,16,17160.89,26838.41,9677.52,Credit Card,Pending,First Class,12,No Return,No,6
+ORD1461,17-06-2024,24-10-2024,CUST381,Stephen Smith,Corporate,PROD8092,Printer,Furniture,South,Delhi,Chennai,5,17089.38,19982.75,2893.37,Net Banking,Cancelled,First Class,8,No Return,No,38
+ORD1462,06-10-2025,27-02-2024,CUST970,John Smith,Consumer,PROD5791,Printer,Technology,North,UP,Bangalore,38,4094.45,5402.58,1308.13,Credit Card,Delivered,First Class,25,Returned,No,4
+ORD1463,07-01-2024,20-04-2025,CUST680,Monica Lee,Consumer,PROD2420,Desk,Technology,South,Tamil Nadu,Delhi,6,4170.23,6481.0,2310.77,Debit Card,Pending,Second Class,18,Returned,No,39
+ORD1464,04-11-2025,24-09-2025,CUST932,Sophia Johnson,Home Office,PROD8138,Calculator,Furniture,East,Delhi,Bangalore,49,15857.6,28438.76,12581.16,Cash,Cancelled,Standard Class,18,Returned,Yes,19
+ORD1465,19-05-2024,29-03-2024,CUST870,Monica Lee,Home Office,PROD1152,Calculator,Office Supplies,North,UP,Amritsar,23,2827.87,3903.53,1075.66,Debit Card,Pending,Same Day,10,Returned,No,42
+ORD1466,27-07-2024,01-01-2025,CUST753,Chris Johnson,Home Office,PROD6972,Laptop,Furniture,West,Tamil Nadu,Lucknow,45,3973.52,5785.81,1812.29,UPI,Delivered,Same Day,6,No Return,No,15
+ORD1467,23-07-2025,23-10-2024,CUST380,Monica Johnson,Corporate,PROD8679,Calculator,Office Supplies,East,Tamil Nadu,Delhi,15,12917.23,22516.16,9598.93,Net Banking,Delivered,Standard Class,3,No Return,Yes,40
+ORD1468,29-04-2025,14-08-2024,CUST903,Stephen Johnson,Corporate,PROD1923,Pen Set,Technology,North,UP,Delhi,1,8370.7,13300.78,4930.08,Cash,Delivered,Standard Class,8,Returned,Yes,16
+ORD1469,17-10-2024,23-10-2024,CUST654,Amy Brown,Corporate,PROD5241,Pen Set,Furniture,West,UP,Lucknow,4,3832.87,4624.53,791.66,Credit Card,Delivered,First Class,26,Returned,Yes,3
+ORD1470,10-12-2025,11-02-2024,CUST218,Chris Lee,Corporate,PROD4472,Bookshelf,Office Supplies,North,Punjab,Lucknow,3,7153.82,9873.44,2719.62,Net Banking,Pending,First Class,12,No Return,No,24
+ORD1471,04-07-2024,15-10-2024,CUST671,John Green,Corporate,PROD1015,Printer,Furniture,North,Karnataka,Delhi,47,5698.88,8733.05,3034.17,Net Banking,Pending,First Class,15,Returned,Yes,40
+ORD1472,05-10-2025,25-10-2025,CUST421,Emma Johnson,Home Office,PROD2516,Printer,Technology,West,Delhi,Lucknow,25,13558.05,16243.1,2685.05,Cash,Cancelled,Same Day,27,No Return,Yes,32
+ORD1473,01-02-2025,20-10-2025,CUST580,Amy Dunn,Consumer,PROD9451,Chair,Office Supplies,West,Karnataka,Lucknow,27,4501.19,7189.77,2688.58,Net Banking,Pending,Second Class,17,No Return,No,6
+ORD1474,26-06-2024,08-09-2024,CUST103,Chris Green,Home Office,PROD6197,Bookshelf,Furniture,North,Maharashtra,Amritsar,49,1498.99,1874.83,375.84,Credit Card,Cancelled,First Class,21,Returned,No,17
+ORD1475,23-04-2025,06-10-2025,CUST269,Amy Johnson,Consumer,PROD2415,Laptop,Technology,West,Punjab,Chennai,11,14907.57,23567.83,8660.26,Net Banking,Pending,Same Day,4,Returned,Yes,43
+ORD1476,10-08-2024,23-12-2025,CUST662,Emma Dunn,Consumer,PROD5071,Chair,Furniture,East,Maharashtra,Lucknow,42,14517.47,20803.72,6286.25,Debit Card,Pending,First Class,9,Returned,Yes,45
+ORD1477,08-01-2025,03-06-2025,CUST905,Stephen Lee,Corporate,PROD4931,Laptop,Technology,West,Maharashtra,Amritsar,5,16739.87,23426.53,6686.66,Net Banking,Cancelled,Same Day,20,Returned,Yes,21
+ORD1478,08-01-2025,03-07-2024,CUST164,Monica Brown,Consumer,PROD5210,Laptop,Technology,North,UP,Chennai,37,16273.47,22823.41,6549.94,UPI,Pending,Second Class,8,No Return,No,46
+ORD1479,04-01-2024,03-08-2025,CUST810,Chris Smith,Corporate,PROD4608,Bookshelf,Office Supplies,South,Tamil Nadu,Bangalore,23,656.18,912.61,256.43,Debit Card,Cancelled,Standard Class,20,Returned,Yes,14
+ORD1480,15-11-2025,28-04-2024,CUST427,Sophia Brown,Corporate,PROD6049,Calculator,Furniture,North,Punjab,Delhi,17,15724.58,22661.77,6937.19,Cash,Delivered,Standard Class,15,No Return,No,20
+ORD1481,10-09-2024,30-04-2025,CUST430,Monica Johnson,Consumer,PROD8482,Chair,Technology,West,Maharashtra,Amritsar,45,16664.4,21809.0,5144.6,Debit Card,Pending,First Class,11,No Return,Yes,37
+ORD1482,24-02-2025,24-01-2024,CUST983,Sophia Brown,Consumer,PROD9834,Laptop,Office Supplies,North,Delhi,Amritsar,29,6574.51,10231.43,3656.92,Net Banking,Cancelled,First Class,6,Returned,No,27
+ORD1483,30-09-2025,28-08-2024,CUST293,Sophia Dunn,Consumer,PROD1600,Chair,Technology,West,Punjab,Delhi,20,10354.73,14332.4,3977.67,Credit Card,Cancelled,Second Class,23,Returned,No,44
+ORD1484,01-06-2025,30-03-2025,CUST151,Stephen Smith,Home Office,PROD9523,Bookshelf,Office Supplies,South,Karnataka,Lucknow,23,323.95,362.36,38.41,Net Banking,Delivered,Same Day,11,No Return,No,19
+ORD1485,18-01-2025,11-03-2024,CUST144,David Smith,Consumer,PROD9331,Pen Set,Technology,East,Maharashtra,Chennai,34,8776.64,10907.23,2130.59,Credit Card,Pending,Standard Class,8,No Return,No,25
+ORD1486,05-04-2024,31-05-2024,CUST450,Amy Johnson,Home Office,PROD7348,Desk,Furniture,North,Delhi,Chennai,48,9244.85,14357.83,5112.98,UPI,Cancelled,Same Day,12,Returned,Yes,0
+ORD1487,09-12-2025,01-07-2025,CUST974,Emma Johnson,Consumer,PROD7955,Chair,Furniture,West,Maharashtra,Mumbai,34,834.22,1240.23,406.01,Credit Card,Delivered,Second Class,15,Returned,No,37
+ORD1488,17-12-2024,14-03-2024,CUST461,Emma Green,Consumer,PROD3167,Laptop,Office Supplies,North,Delhi,Chennai,17,9224.55,16326.29,7101.74,Credit Card,Pending,Same Day,3,No Return,Yes,31
+ORD1489,06-04-2025,19-11-2025,CUST108,David Green,Consumer,PROD3218,Calculator,Furniture,North,Delhi,Delhi,12,15901.47,17530.6,1629.13,Net Banking,Cancelled,Standard Class,10,Returned,Yes,3
+ORD1490,28-05-2024,16-08-2025,CUST265,Sophia Green,Home Office,PROD5569,Pen Set,Office Supplies,South,Karnataka,Amritsar,38,1277.43,1993.15,715.72,UPI,Delivered,Standard Class,27,No Return,No,26
+ORD1491,19-12-2024,26-01-2024,CUST530,Stephen Lee,Corporate,PROD9397,Chair,Furniture,South,Tamil Nadu,Lucknow,18,10167.35,14281.52,4114.17,Credit Card,Cancelled,Standard Class,2,No Return,No,12
+ORD1492,09-10-2024,16-12-2025,CUST947,Stephen Brown,Corporate,PROD5035,Desk,Technology,East,Maharashtra,Bangalore,10,15846.5,21033.22,5186.72,Credit Card,Pending,First Class,13,No Return,No,22
+ORD1493,21-05-2025,12-11-2025,CUST630,Chris Johnson,Consumer,PROD2424,Pen Set,Technology,East,Karnataka,Chennai,23,11826.84,15123.82,3296.98,UPI,Cancelled,Standard Class,25,Returned,Yes,42
+ORD1494,20-08-2025,17-01-2024,CUST269,Stephen Green,Corporate,PROD9472,Bookshelf,Office Supplies,North,Maharashtra,Delhi,33,8941.89,15715.18,6773.29,Credit Card,Pending,Standard Class,18,Returned,No,32
+ORD1495,07-03-2024,23-12-2024,CUST140,Sophia Lee,Home Office,PROD7160,Chair,Furniture,East,Maharashtra,Chennai,15,1644.72,2814.81,1170.09,UPI,Delivered,Same Day,27,No Return,Yes,48
+ORD1496,18-11-2024,20-01-2025,CUST182,Monica Johnson,Home Office,PROD2849,Chair,Technology,East,Karnataka,Chennai,11,1576.13,2546.01,969.88,Credit Card,Cancelled,First Class,11,Returned,Yes,18
+ORD1497,03-02-2025,17-01-2025,CUST241,John Brown,Consumer,PROD8436,Chair,Furniture,West,Tamil Nadu,Delhi,34,10852.02,17785.95,6933.93,UPI,Delivered,Standard Class,10,Returned,No,1
+ORD1498,25-08-2025,13-12-2024,CUST864,David Smith,Corporate,PROD6036,Laptop,Office Supplies,East,Delhi,Lucknow,24,7991.77,13541.48,5549.71,Credit Card,Delivered,Second Class,19,No Return,Yes,9
+ORD1499,30-04-2024,08-09-2024,CUST274,Amy Lee,Corporate,PROD4963,Laptop,Furniture,North,Punjab,Lucknow,18,10237.88,12631.65,2393.77,Cash,Delivered,Second Class,18,No Return,Yes,15
+ORD1500,13-10-2025,17-08-2025,CUST518,John Lee,Home Office,PROD1444,Pen Set,Furniture,North,Punjab,Bangalore,16,18742.08,32935.05,14192.97,UPI,Cancelled,Same Day,9,No Return,Yes,36
+ORD1501,29-06-2024,22-07-2025,CUST941,Monica Johnson,Consumer,PROD4251,Laptop,Office Supplies,North,Delhi,Lucknow,49,17352.52,25711.67,8359.15,UPI,Cancelled,First Class,10,Returned,No,49
+ORD1502,09-06-2024,18-08-2025,CUST618,Stephen Lee,Home Office,PROD8114,Pen Set,Furniture,West,Tamil Nadu,Lucknow,33,5451.69,9229.84,3778.15,Debit Card,Delivered,Same Day,7,No Return,Yes,30
+ORD1503,29-12-2024,06-12-2024,CUST238,Monica Dunn,Home Office,PROD2647,Bookshelf,Office Supplies,East,Delhi,Mumbai,21,1784.76,2115.37,330.61,Credit Card,Cancelled,Same Day,26,Returned,Yes,1
+ORD1504,23-01-2025,12-10-2024,CUST785,Amy Smith,Home Office,PROD5686,Laptop,Technology,West,Maharashtra,Mumbai,6,694.68,822.79,128.11,Debit Card,Pending,Same Day,25,Returned,Yes,48
+ORD1505,31-08-2024,20-09-2025,CUST737,Amy Green,Home Office,PROD4022,Pen Set,Furniture,North,UP,Mumbai,21,11455.02,15746.96,4291.94,Net Banking,Pending,Same Day,19,Returned,No,39
+ORD1506,03-11-2024,27-07-2025,CUST471,John Green,Corporate,PROD9022,Bookshelf,Furniture,West,UP,Bangalore,27,556.03,983.64,427.61,UPI,Pending,First Class,2,Returned,Yes,14
+ORD1507,14-03-2025,10-01-2024,CUST456,Chris Green,Consumer,PROD4848,Pen Set,Furniture,North,Punjab,Mumbai,35,9605.94,13365.73,3759.79,Cash,Cancelled,Standard Class,24,No Return,No,21
+ORD1508,29-10-2025,20-04-2025,CUST258,Emma Green,Corporate,PROD6512,Desk,Furniture,North,UP,Mumbai,39,13031.09,21313.88,8282.79,UPI,Cancelled,First Class,10,Returned,No,3
+ORD1509,31-01-2025,17-02-2024,CUST360,Amy Brown,Home Office,PROD6745,Bookshelf,Office Supplies,East,Maharashtra,Lucknow,30,14777.56,22646.38,7868.82,Debit Card,Delivered,Second Class,3,No Return,Yes,29
+ORD1510,05-01-2025,11-11-2025,CUST154,John Dunn,Home Office,PROD8518,Calculator,Technology,South,Karnataka,Lucknow,12,9928.67,15727.18,5798.51,Cash,Delivered,Second Class,12,No Return,No,19
+ORD1511,31-08-2025,02-01-2025,CUST248,Emma Green,Home Office,PROD6640,Printer,Furniture,North,Tamil Nadu,Bangalore,26,7599.61,11968.28,4368.67,Net Banking,Pending,Same Day,14,Returned,Yes,33
+ORD1512,15-05-2025,04-11-2025,CUST501,Monica Lee,Home Office,PROD2885,Pen Set,Technology,North,Karnataka,Amritsar,16,2472.56,3302.22,829.66,UPI,Cancelled,Same Day,4,Returned,No,14
+ORD1513,30-06-2025,08-02-2025,CUST509,Emma Dunn,Consumer,PROD1872,Calculator,Office Supplies,East,Maharashtra,Mumbai,25,10556.36,17365.93,6809.57,Debit Card,Cancelled,Same Day,27,No Return,No,9
+ORD1514,13-06-2025,16-02-2024,CUST945,Monica Johnson,Consumer,PROD8612,Bookshelf,Office Supplies,North,Tamil Nadu,Mumbai,22,2706.36,3172.25,465.89,Cash,Pending,Second Class,8,Returned,No,23
+ORD1515,14-08-2024,27-10-2025,CUST865,Monica Johnson,Consumer,PROD3674,Calculator,Technology,East,UP,Mumbai,9,12567.21,18715.58,6148.37,Debit Card,Cancelled,Same Day,16,Returned,Yes,26
+ORD1516,08-04-2025,18-04-2025,CUST779,Monica Smith,Consumer,PROD1736,Bookshelf,Technology,North,UP,Lucknow,36,18503.97,26580.06,8076.09,Net Banking,Cancelled,First Class,1,No Return,Yes,14
+ORD1517,05-06-2024,21-04-2024,CUST518,Emma Smith,Corporate,PROD9343,Desk,Technology,North,Maharashtra,Mumbai,22,6619.63,11245.39,4625.76,Net Banking,Delivered,First Class,18,Returned,Yes,38
+ORD1518,06-02-2025,20-05-2025,CUST651,David Brown,Consumer,PROD3730,Desk,Office Supplies,East,Maharashtra,Bangalore,4,19494.19,27093.97,7599.78,Credit Card,Delivered,Same Day,18,Returned,No,4
+ORD1519,18-06-2024,19-02-2025,CUST247,Stephen Smith,Home Office,PROD1781,Calculator,Office Supplies,West,Punjab,Mumbai,3,18118.77,31665.02,13546.25,Credit Card,Pending,Same Day,0,Returned,Yes,23
+ORD1520,21-07-2025,04-09-2025,CUST725,Amy Dunn,Consumer,PROD8774,Laptop,Furniture,North,Tamil Nadu,Amritsar,22,2948.07,4455.64,1507.57,Net Banking,Delivered,Same Day,7,Returned,No,7
+ORD1521,04-01-2024,30-10-2025,CUST325,Emma Smith,Corporate,PROD9866,Pen Set,Office Supplies,South,Maharashtra,Mumbai,22,10124.66,15625.0,5500.34,Cash,Cancelled,First Class,26,Returned,No,27
+ORD1522,07-02-2025,22-10-2024,CUST151,David Brown,Consumer,PROD4258,Desk,Furniture,South,Karnataka,Bangalore,13,5068.95,6439.99,1371.04,Debit Card,Cancelled,Same Day,9,No Return,Yes,40
+ORD1523,12-07-2025,05-08-2024,CUST779,David Johnson,Home Office,PROD1064,Laptop,Furniture,East,Tamil Nadu,Chennai,27,18176.72,25729.19,7552.47,Net Banking,Cancelled,Second Class,6,No Return,Yes,27
+ORD1524,07-10-2025,15-07-2024,CUST516,Amy Green,Consumer,PROD9010,Desk,Furniture,East,Karnataka,Bangalore,35,5086.1,6658.99,1572.89,Cash,Delivered,Same Day,9,Returned,No,38
+ORD1525,07-02-2024,04-01-2024,CUST573,Sophia Brown,Consumer,PROD4271,Pen Set,Furniture,East,Maharashtra,Mumbai,23,16113.82,20453.61,4339.79,Credit Card,Pending,Same Day,26,No Return,Yes,16
+ORD1526,01-08-2025,02-06-2024,CUST792,Monica Johnson,Consumer,PROD3683,Calculator,Furniture,South,Maharashtra,Bangalore,15,4687.97,6217.11,1529.14,Debit Card,Delivered,Standard Class,24,No Return,No,9
+ORD1527,27-08-2025,29-07-2024,CUST214,Sophia Dunn,Corporate,PROD9004,Calculator,Furniture,North,Punjab,Amritsar,16,18242.53,21143.85,2901.32,Net Banking,Delivered,Same Day,29,No Return,No,7
+ORD1528,10-11-2024,10-03-2024,CUST153,Stephen Smith,Corporate,PROD3315,Calculator,Office Supplies,North,UP,Mumbai,24,7723.52,9537.6,1814.08,Credit Card,Pending,Same Day,0,No Return,No,33
+ORD1529,08-05-2024,05-03-2024,CUST281,Monica Green,Home Office,PROD3130,Printer,Office Supplies,South,Punjab,Bangalore,6,1221.44,1697.02,475.58,UPI,Cancelled,Second Class,21,No Return,Yes,12
+ORD1530,08-03-2025,27-03-2025,CUST430,Monica Dunn,Consumer,PROD9625,Pen Set,Technology,West,Karnataka,Chennai,18,4722.42,7803.83,3081.41,Cash,Cancelled,Same Day,9,No Return,No,24
+ORD1531,26-07-2024,01-02-2024,CUST164,Emma Lee,Home Office,PROD4397,Desk,Technology,West,UP,Chennai,14,16105.27,21984.94,5879.67,Credit Card,Pending,Standard Class,26,Returned,Yes,46
+ORD1532,17-01-2025,24-02-2025,CUST312,Stephen Smith,Consumer,PROD6364,Chair,Office Supplies,West,Karnataka,Amritsar,29,3287.0,5098.16,1811.16,UPI,Delivered,First Class,25,No Return,Yes,31
+ORD1533,21-04-2025,02-11-2024,CUST678,Monica Green,Consumer,PROD8799,Chair,Office Supplies,South,Maharashtra,Delhi,48,16970.79,20468.8,3498.01,UPI,Pending,Standard Class,5,No Return,No,10
+ORD1534,29-08-2024,01-01-2024,CUST155,John Smith,Consumer,PROD2290,Desk,Furniture,West,Delhi,Amritsar,12,18930.57,29756.81,10826.24,UPI,Delivered,First Class,7,Returned,Yes,31
+ORD1535,04-11-2024,19-10-2025,CUST660,Amy Green,Consumer,PROD9924,Pen Set,Office Supplies,South,Delhi,Lucknow,14,17279.22,23487.54,6208.32,Net Banking,Cancelled,First Class,16,Returned,Yes,10
+ORD1536,08-09-2024,18-01-2024,CUST558,David Johnson,Consumer,PROD8586,Desk,Technology,West,Punjab,Chennai,25,11303.5,13098.23,1794.73,Debit Card,Delivered,First Class,0,Returned,No,11
+ORD1537,04-02-2025,14-05-2025,CUST861,Emma Smith,Corporate,PROD8656,Laptop,Office Supplies,East,Karnataka,Amritsar,14,249.92,278.44,28.52,UPI,Delivered,Second Class,12,Returned,Yes,32
+ORD1538,17-05-2025,06-02-2024,CUST533,Chris Lee,Consumer,PROD7642,Printer,Furniture,West,Karnataka,Mumbai,33,4104.13,6853.84,2749.71,Cash,Cancelled,First Class,11,No Return,Yes,26
+ORD1539,18-06-2024,07-08-2024,CUST733,Emma Johnson,Corporate,PROD6955,Laptop,Office Supplies,South,Maharashtra,Mumbai,2,5682.92,8562.0,2879.08,Debit Card,Delivered,First Class,11,Returned,No,29
+ORD1540,30-09-2025,16-04-2025,CUST442,Sophia Dunn,Home Office,PROD1109,Calculator,Office Supplies,North,Maharashtra,Amritsar,48,2385.87,3530.73,1144.86,Debit Card,Delivered,Same Day,20,Returned,No,10
+ORD1541,13-09-2025,29-07-2024,CUST654,Stephen Lee,Home Office,PROD1158,Laptop,Office Supplies,North,Tamil Nadu,Mumbai,8,693.87,1149.97,456.1,Credit Card,Delivered,Standard Class,15,Returned,No,36
+ORD1542,26-04-2024,23-08-2024,CUST215,David Brown,Home Office,PROD3637,Desk,Furniture,North,Tamil Nadu,Delhi,42,9134.21,12747.83,3613.62,UPI,Cancelled,Standard Class,25,Returned,Yes,33
+ORD1543,04-07-2024,19-06-2024,CUST842,Sophia Smith,Home Office,PROD3217,Desk,Furniture,West,UP,Chennai,48,8291.0,10747.51,2456.51,Debit Card,Delivered,First Class,4,No Return,Yes,28
+ORD1544,18-08-2025,18-05-2024,CUST431,John Lee,Home Office,PROD9909,Desk,Furniture,East,UP,Lucknow,24,11852.31,14035.08,2182.77,Net Banking,Pending,Standard Class,23,Returned,No,2
+ORD1545,25-07-2025,02-12-2025,CUST493,David Green,Consumer,PROD1139,Pen Set,Technology,North,Maharashtra,Chennai,6,2330.85,2626.98,296.13,Debit Card,Delivered,Second Class,22,Returned,Yes,25
+ORD1546,06-04-2024,18-05-2024,CUST637,Monica Lee,Consumer,PROD1907,Bookshelf,Furniture,East,Punjab,Lucknow,34,17363.04,21375.15,4012.11,Net Banking,Pending,First Class,18,No Return,Yes,40
+ORD1547,26-11-2025,07-09-2024,CUST387,John Smith,Consumer,PROD6035,Printer,Technology,South,Punjab,Mumbai,46,18455.26,26140.89,7685.63,Net Banking,Cancelled,Standard Class,17,No Return,No,44
+ORD1548,16-12-2024,24-09-2024,CUST654,David Green,Consumer,PROD4139,Desk,Office Supplies,West,Karnataka,Chennai,25,11302.1,14445.19,3143.09,Net Banking,Delivered,Standard Class,20,No Return,No,9
+ORD1549,13-10-2024,09-04-2025,CUST943,Emma Johnson,Home Office,PROD2183,Desk,Technology,West,Karnataka,Amritsar,18,2795.72,3412.97,617.25,Debit Card,Delivered,Standard Class,2,No Return,No,5
+ORD1550,24-10-2025,05-08-2024,CUST968,John Dunn,Home Office,PROD8321,Printer,Technology,West,Karnataka,Chennai,21,13759.97,19801.48,6041.51,Net Banking,Pending,First Class,22,Returned,No,10
+ORD1551,11-06-2025,03-10-2024,CUST762,Stephen Dunn,Home Office,PROD6942,Laptop,Office Supplies,West,Delhi,Lucknow,19,14249.81,22495.21,8245.4,Debit Card,Delivered,First Class,26,Returned,Yes,3
+ORD1552,08-03-2024,24-05-2024,CUST553,Emma Lee,Consumer,PROD5521,Printer,Office Supplies,South,UP,Chennai,17,2571.9,4180.94,1609.04,Debit Card,Pending,First Class,29,No Return,Yes,44
+ORD1553,30-10-2025,09-04-2025,CUST913,Amy Green,Consumer,PROD2946,Laptop,Office Supplies,South,Tamil Nadu,Mumbai,14,1133.13,1832.24,699.11,Debit Card,Delivered,Same Day,8,Returned,No,36
+ORD1554,19-06-2024,01-04-2025,CUST215,John Smith,Corporate,PROD7923,Chair,Furniture,South,Tamil Nadu,Lucknow,19,14351.94,21330.41,6978.47,Credit Card,Cancelled,Second Class,12,No Return,Yes,31
+ORD1555,14-12-2024,22-05-2025,CUST534,Chris Green,Consumer,PROD4103,Bookshelf,Office Supplies,East,Maharashtra,Amritsar,25,3175.45,4319.73,1144.28,Credit Card,Pending,Second Class,5,No Return,Yes,48
+ORD1556,06-02-2025,25-12-2024,CUST247,Monica Dunn,Home Office,PROD8925,Pen Set,Technology,North,Delhi,Chennai,4,12551.42,18666.8,6115.38,UPI,Pending,Standard Class,9,No Return,Yes,27
+ORD1557,10-02-2025,09-04-2025,CUST214,Monica Lee,Home Office,PROD1491,Chair,Technology,North,Tamil Nadu,Bangalore,1,1516.65,1945.0,428.35,Debit Card,Delivered,First Class,11,Returned,Yes,40
+ORD1558,22-03-2024,20-11-2025,CUST672,Monica Brown,Corporate,PROD7139,Calculator,Furniture,South,Punjab,Chennai,22,432.26,668.85,236.59,Net Banking,Delivered,Standard Class,5,No Return,Yes,45
+ORD1559,27-08-2024,23-10-2024,CUST596,Chris Johnson,Corporate,PROD4772,Laptop,Furniture,South,Maharashtra,Lucknow,3,17276.25,23831.38,6555.13,Cash,Cancelled,Same Day,24,No Return,No,29
+ORD1560,11-01-2025,18-12-2025,CUST873,David Brown,Consumer,PROD3739,Chair,Office Supplies,West,Delhi,Chennai,22,7475.91,12719.45,5243.54,Debit Card,Delivered,Second Class,7,No Return,Yes,11
+ORD1561,08-08-2024,25-01-2025,CUST281,Sophia Johnson,Consumer,PROD8456,Chair,Technology,West,Karnataka,Amritsar,18,14834.77,23532.29,8697.52,Debit Card,Pending,First Class,2,No Return,Yes,8
+ORD1562,21-03-2025,21-01-2025,CUST658,Chris Johnson,Corporate,PROD8741,Calculator,Office Supplies,East,Maharashtra,Bangalore,31,7001.06,9891.71,2890.65,Credit Card,Cancelled,Same Day,22,Returned,Yes,44
+ORD1563,16-02-2025,28-03-2024,CUST520,Amy Lee,Home Office,PROD4922,Chair,Office Supplies,West,Delhi,Amritsar,3,12056.47,19626.9,7570.43,UPI,Delivered,Same Day,3,No Return,Yes,44
+ORD1564,02-08-2024,03-05-2024,CUST254,Sophia Dunn,Consumer,PROD3889,Laptop,Technology,South,Karnataka,Amritsar,14,10552.7,15631.72,5079.02,UPI,Cancelled,Standard Class,12,No Return,No,9
+ORD1565,20-11-2024,11-12-2024,CUST241,Emma Johnson,Home Office,PROD6278,Desk,Furniture,South,Tamil Nadu,Bangalore,31,7249.39,11256.77,4007.38,UPI,Cancelled,Standard Class,25,Returned,Yes,28
+ORD1566,24-12-2024,06-10-2025,CUST375,Stephen Dunn,Home Office,PROD3514,Chair,Office Supplies,West,UP,Mumbai,2,15682.1,23960.5,8278.4,Cash,Pending,Second Class,28,No Return,No,30
+ORD1567,05-09-2024,11-10-2024,CUST891,Monica Green,Consumer,PROD5019,Pen Set,Technology,East,Punjab,Chennai,49,13039.24,21297.36,8258.12,UPI,Pending,Standard Class,19,No Return,Yes,13
+ORD1568,30-10-2025,12-12-2025,CUST850,Chris Johnson,Consumer,PROD7921,Pen Set,Furniture,West,Punjab,Amritsar,47,921.61,1445.68,524.07,Net Banking,Delivered,Standard Class,9,Returned,No,34
+ORD1569,17-07-2024,06-09-2025,CUST254,Chris Brown,Home Office,PROD1837,Desk,Technology,West,Karnataka,Chennai,9,1502.61,1821.27,318.66,UPI,Cancelled,Standard Class,0,Returned,No,33
+ORD1570,15-09-2025,27-02-2025,CUST942,Stephen Green,Corporate,PROD9028,Bookshelf,Technology,North,Maharashtra,Chennai,40,10378.52,14282.39,3903.87,Cash,Cancelled,Second Class,2,Returned,No,0
+ORD1571,19-08-2024,18-02-2024,CUST900,Chris Green,Consumer,PROD3662,Printer,Furniture,East,Delhi,Chennai,7,15348.49,22759.63,7411.14,Cash,Delivered,Same Day,26,No Return,No,31
+ORD1572,19-04-2024,24-05-2024,CUST853,Chris Lee,Home Office,PROD3266,Bookshelf,Office Supplies,North,Delhi,Amritsar,25,1797.88,2236.24,438.36,Debit Card,Pending,First Class,18,No Return,Yes,6
+ORD1573,12-04-2025,16-03-2024,CUST749,David Dunn,Home Office,PROD8428,Desk,Office Supplies,South,Maharashtra,Amritsar,13,11399.58,14894.64,3495.06,UPI,Pending,Same Day,9,No Return,Yes,37
+ORD1574,09-03-2025,20-10-2025,CUST505,Sophia Green,Home Office,PROD8286,Laptop,Furniture,West,Tamil Nadu,Lucknow,5,11677.78,17617.84,5940.06,Debit Card,Cancelled,Second Class,10,No Return,No,15
+ORD1575,29-09-2025,14-08-2025,CUST888,David Smith,Consumer,PROD2921,Printer,Furniture,East,UP,Bangalore,2,18557.31,31309.75,12752.44,UPI,Delivered,Standard Class,2,Returned,Yes,21
+ORD1576,28-09-2024,05-08-2024,CUST737,Amy Brown,Corporate,PROD2086,Printer,Technology,East,Tamil Nadu,Delhi,19,17997.86,27287.25,9289.39,Cash,Pending,Standard Class,2,No Return,Yes,4
+ORD1577,21-08-2025,29-07-2025,CUST565,Stephen Green,Home Office,PROD8786,Printer,Office Supplies,East,Karnataka,Delhi,28,17591.73,19854.26,2262.53,Credit Card,Cancelled,Same Day,3,Returned,No,34
+ORD1578,02-12-2025,02-01-2024,CUST814,John Brown,Consumer,PROD2724,Bookshelf,Furniture,East,Maharashtra,Lucknow,29,4104.56,5270.77,1166.21,Cash,Cancelled,Standard Class,16,No Return,Yes,32
+ORD1579,22-07-2024,09-11-2025,CUST478,Monica Brown,Consumer,PROD8484,Pen Set,Office Supplies,West,Punjab,Mumbai,12,19719.89,31476.38,11756.49,Net Banking,Pending,Second Class,28,Returned,Yes,8
+ORD1580,11-08-2025,20-06-2024,CUST246,Stephen Lee,Consumer,PROD9441,Calculator,Technology,West,Maharashtra,Bangalore,40,7332.31,11062.94,3730.63,Cash,Pending,Same Day,6,No Return,No,17
+ORD1581,22-05-2025,03-11-2025,CUST775,David Dunn,Consumer,PROD3934,Desk,Furniture,West,Tamil Nadu,Mumbai,35,14907.96,16879.92,1971.96,UPI,Delivered,Second Class,23,No Return,No,23
+ORD1582,09-11-2025,29-07-2025,CUST956,Emma Dunn,Home Office,PROD6511,Calculator,Technology,East,Karnataka,Mumbai,2,4805.26,5495.19,689.93,UPI,Delivered,Second Class,11,No Return,No,43
+ORD1583,31-12-2024,05-06-2024,CUST128,Monica Dunn,Consumer,PROD5335,Calculator,Office Supplies,West,Punjab,Amritsar,28,13055.43,14808.49,1753.06,Debit Card,Delivered,Same Day,11,Returned,No,22
+ORD1584,30-05-2025,21-05-2025,CUST716,David Lee,Home Office,PROD7371,Bookshelf,Furniture,East,Tamil Nadu,Amritsar,2,14281.25,22343.22,8061.97,Net Banking,Delivered,Second Class,27,Returned,No,42
+ORD1585,05-01-2024,26-07-2025,CUST494,Emma Smith,Home Office,PROD3496,Chair,Technology,South,Maharashtra,Delhi,22,3413.4,5266.06,1852.66,Cash,Cancelled,First Class,27,Returned,No,8
+ORD1586,03-03-2025,19-04-2025,CUST140,Stephen Dunn,Home Office,PROD7683,Chair,Office Supplies,North,Punjab,Amritsar,29,575.78,733.82,158.04,Net Banking,Cancelled,First Class,1,No Return,No,14
+ORD1587,15-05-2025,21-08-2024,CUST323,John Green,Corporate,PROD1271,Bookshelf,Technology,West,Delhi,Amritsar,6,1014.18,1458.72,444.54,Cash,Cancelled,Standard Class,2,Returned,No,44
+ORD1588,04-12-2024,02-11-2025,CUST286,Amy Lee,Corporate,PROD7796,Chair,Technology,South,Punjab,Amritsar,13,1249.52,1914.38,664.86,UPI,Pending,Second Class,26,No Return,No,46
+ORD1589,01-06-2025,17-01-2025,CUST253,John Smith,Corporate,PROD4574,Pen Set,Furniture,South,Delhi,Delhi,16,14413.12,25264.78,10851.66,Net Banking,Pending,First Class,2,Returned,No,18
+ORD1590,22-10-2025,04-03-2025,CUST739,Monica Smith,Consumer,PROD9936,Calculator,Office Supplies,North,UP,Lucknow,17,15822.17,24488.12,8665.95,UPI,Delivered,Second Class,11,No Return,Yes,48
+ORD1591,22-10-2025,25-09-2025,CUST435,Monica Green,Home Office,PROD3576,Bookshelf,Office Supplies,East,UP,Mumbai,35,18293.88,22721.55,4427.67,Credit Card,Pending,Standard Class,1,Returned,No,40
+ORD1592,02-05-2025,16-12-2024,CUST831,David Green,Consumer,PROD8455,Bookshelf,Furniture,West,Maharashtra,Chennai,15,10244.99,14309.27,4064.28,Credit Card,Cancelled,Standard Class,24,No Return,Yes,41
+ORD1593,20-09-2025,30-11-2025,CUST344,Sophia Johnson,Consumer,PROD8907,Chair,Furniture,West,Delhi,Delhi,22,11352.38,14721.54,3369.16,UPI,Delivered,First Class,3,Returned,Yes,22
+ORD1594,26-08-2024,26-07-2024,CUST402,Stephen Lee,Corporate,PROD3172,Calculator,Furniture,East,Delhi,Lucknow,2,3051.93,3875.89,823.96,Cash,Delivered,Standard Class,22,No Return,No,36
+ORD1595,24-10-2025,14-07-2025,CUST378,Monica Dunn,Corporate,PROD7132,Bookshelf,Technology,West,UP,Mumbai,34,4531.82,6219.51,1687.69,Cash,Cancelled,First Class,1,Returned,Yes,7
+ORD1596,06-07-2025,30-12-2025,CUST265,John Lee,Consumer,PROD6969,Chair,Furniture,North,Delhi,Bangalore,42,17870.17,29722.25,11852.08,Credit Card,Pending,First Class,10,Returned,Yes,33
+ORD1597,17-06-2024,17-11-2025,CUST516,John Brown,Home Office,PROD1039,Printer,Technology,South,Punjab,Delhi,41,14345.41,25296.33,10950.92,Cash,Pending,First Class,28,Returned,No,26
+ORD1598,12-06-2024,25-11-2025,CUST144,Stephen Johnson,Home Office,PROD5546,Bookshelf,Furniture,North,UP,Chennai,26,17949.49,27014.19,9064.7,UPI,Cancelled,Same Day,25,Returned,Yes,6
+ORD1599,09-11-2024,04-07-2024,CUST580,Chris Dunn,Corporate,PROD2459,Desk,Office Supplies,South,Delhi,Delhi,6,7697.9,9379.37,1681.47,Debit Card,Pending,First Class,7,No Return,No,2
+ORD1600,11-09-2025,29-10-2025,CUST457,John Dunn,Consumer,PROD8814,Desk,Technology,West,Tamil Nadu,Chennai,41,2223.91,3719.21,1495.3,Net Banking,Cancelled,First Class,20,Returned,Yes,21
+ORD1601,14-10-2025,20-09-2024,CUST946,Sophia Johnson,Corporate,PROD2118,Chair,Furniture,North,Punjab,Amritsar,16,658.14,1171.49,513.35,Cash,Delivered,Second Class,25,No Return,Yes,34
+ORD1602,01-10-2024,19-04-2025,CUST412,Stephen Smith,Home Office,PROD5331,Bookshelf,Office Supplies,South,Tamil Nadu,Amritsar,19,4252.41,6971.14,2718.73,UPI,Delivered,First Class,13,No Return,No,34
+ORD1603,04-09-2024,31-08-2025,CUST987,Stephen Smith,Corporate,PROD6379,Printer,Furniture,East,Karnataka,Mumbai,38,7312.33,10860.7,3548.37,Credit Card,Cancelled,Second Class,5,No Return,Yes,45
+ORD1604,23-08-2025,24-11-2025,CUST188,Sophia Smith,Home Office,PROD8937,Bookshelf,Technology,West,Tamil Nadu,Amritsar,32,12495.7,15902.11,3406.41,Debit Card,Pending,Same Day,20,No Return,Yes,12
+ORD1605,22-07-2024,22-04-2024,CUST294,Sophia Green,Consumer,PROD5646,Pen Set,Furniture,West,Punjab,Bangalore,15,11237.51,17521.87,6284.36,Net Banking,Pending,Standard Class,9,No Return,Yes,4
+ORD1606,26-08-2024,21-08-2024,CUST461,Sophia Dunn,Consumer,PROD4915,Chair,Technology,North,Tamil Nadu,Bangalore,4,13108.34,22235.43,9127.09,Cash,Delivered,Standard Class,0,No Return,Yes,22
+ORD1607,28-02-2025,08-06-2024,CUST792,Sophia Green,Consumer,PROD1397,Chair,Technology,East,Karnataka,Delhi,3,16415.8,28623.26,12207.46,UPI,Delivered,Standard Class,19,No Return,No,4
+ORD1608,24-05-2024,24-11-2024,CUST771,Amy Johnson,Home Office,PROD5738,Chair,Office Supplies,West,Tamil Nadu,Chennai,12,1264.14,1590.08,325.94,UPI,Delivered,First Class,16,No Return,Yes,36
+ORD1609,03-06-2025,28-09-2024,CUST314,Emma Green,Home Office,PROD9097,Pen Set,Technology,East,UP,Mumbai,5,567.95,736.35,168.4,Net Banking,Pending,Same Day,12,Returned,Yes,42
+ORD1610,27-06-2024,24-03-2024,CUST502,Stephen Brown,Consumer,PROD9719,Calculator,Office Supplies,South,UP,Delhi,2,9821.41,12397.7,2576.29,UPI,Cancelled,First Class,11,No Return,No,34
+ORD1611,20-06-2025,09-09-2025,CUST278,Sophia Dunn,Home Office,PROD8841,Printer,Technology,East,Maharashtra,Amritsar,45,2123.93,2930.15,806.22,Cash,Pending,First Class,13,Returned,Yes,12
+ORD1612,18-12-2024,14-08-2025,CUST745,Sophia Brown,Consumer,PROD6325,Bookshelf,Technology,East,Punjab,Lucknow,17,2465.53,4210.89,1745.36,Credit Card,Cancelled,Second Class,12,Returned,Yes,18
+ORD1613,20-03-2024,25-06-2024,CUST250,Monica Green,Corporate,PROD2765,Chair,Office Supplies,South,Punjab,Lucknow,28,10790.41,18000.77,7210.36,Net Banking,Cancelled,Second Class,17,No Return,Yes,37
+ORD1614,05-12-2025,08-12-2025,CUST625,Monica Brown,Corporate,PROD5145,Bookshelf,Office Supplies,West,Punjab,Delhi,46,5687.92,8681.29,2993.37,Net Banking,Pending,Standard Class,17,No Return,Yes,16
+ORD1615,26-10-2024,12-02-2025,CUST698,Sophia Brown,Home Office,PROD3324,Laptop,Furniture,West,UP,Bangalore,14,12508.73,16702.8,4194.07,Debit Card,Cancelled,Second Class,27,Returned,Yes,0
+ORD1616,22-02-2025,16-10-2024,CUST634,Amy Smith,Consumer,PROD7375,Chair,Furniture,South,UP,Lucknow,48,19958.57,31339.56,11380.99,Debit Card,Cancelled,First Class,28,Returned,Yes,36
+ORD1617,24-09-2025,02-05-2024,CUST860,Emma Lee,Consumer,PROD9419,Printer,Office Supplies,North,Delhi,Lucknow,31,6317.38,7639.53,1322.15,UPI,Delivered,Second Class,22,No Return,Yes,23
+ORD1618,24-08-2025,06-02-2025,CUST717,David Dunn,Corporate,PROD1179,Pen Set,Office Supplies,South,Tamil Nadu,Bangalore,36,6119.54,8634.94,2515.4,Credit Card,Delivered,Standard Class,29,No Return,No,44
+ORD1619,26-10-2024,17-02-2024,CUST867,Sophia Smith,Home Office,PROD2833,Desk,Office Supplies,South,Maharashtra,Delhi,24,15017.87,24291.77,9273.9,Cash,Pending,Second Class,23,No Return,No,8
+ORD1620,24-09-2025,28-10-2024,CUST234,Amy Brown,Corporate,PROD8942,Pen Set,Office Supplies,South,Karnataka,Bangalore,4,10883.78,17722.48,6838.7,Credit Card,Cancelled,Same Day,12,No Return,Yes,45
+ORD1621,02-07-2025,07-03-2024,CUST867,John Johnson,Home Office,PROD9531,Calculator,Furniture,West,Delhi,Mumbai,40,7101.28,9571.22,2469.94,Debit Card,Pending,First Class,15,No Return,No,0
+ORD1622,08-11-2024,28-11-2024,CUST610,Emma Johnson,Corporate,PROD1894,Chair,Technology,West,Tamil Nadu,Lucknow,33,6403.78,9038.78,2635.0,Debit Card,Pending,Second Class,10,Returned,No,27
+ORD1623,09-02-2024,01-03-2025,CUST264,Monica Lee,Corporate,PROD3457,Laptop,Furniture,East,Maharashtra,Mumbai,18,9672.15,13249.87,3577.72,Credit Card,Pending,Same Day,0,No Return,Yes,11
+ORD1624,10-08-2024,24-08-2024,CUST514,John Green,Corporate,PROD6359,Calculator,Technology,South,Karnataka,Chennai,48,7741.05,10719.56,2978.51,Credit Card,Pending,Standard Class,22,Returned,Yes,36
+ORD1625,06-06-2024,22-01-2024,CUST984,Sophia Green,Corporate,PROD5088,Calculator,Furniture,North,Tamil Nadu,Lucknow,27,6897.41,9105.01,2207.6,Debit Card,Delivered,Second Class,18,No Return,Yes,12
+ORD1626,18-11-2024,15-06-2024,CUST641,John Brown,Home Office,PROD7125,Pen Set,Furniture,South,Tamil Nadu,Lucknow,24,15858.66,27882.71,12024.05,Debit Card,Cancelled,Standard Class,24,No Return,No,13
+ORD1627,06-03-2024,10-12-2025,CUST937,Amy Brown,Corporate,PROD8729,Bookshelf,Technology,West,Maharashtra,Amritsar,4,5144.85,7105.12,1960.27,UPI,Delivered,Second Class,10,No Return,No,26
+ORD1628,21-03-2024,17-03-2024,CUST826,Emma Johnson,Home Office,PROD3329,Printer,Technology,East,Delhi,Mumbai,9,1083.25,1333.39,250.14,UPI,Cancelled,First Class,26,No Return,No,16
+ORD1629,11-05-2024,09-06-2024,CUST990,Emma Brown,Consumer,PROD3868,Printer,Technology,East,Delhi,Chennai,49,6790.26,11750.02,4959.76,UPI,Pending,Standard Class,0,Returned,Yes,38
+ORD1630,15-01-2025,19-12-2025,CUST202,Stephen Smith,Home Office,PROD3470,Calculator,Furniture,West,Tamil Nadu,Mumbai,36,12193.56,13472.86,1279.3,Cash,Pending,First Class,9,No Return,No,44
+ORD1631,21-12-2024,15-08-2024,CUST494,David Dunn,Consumer,PROD2868,Desk,Furniture,East,Delhi,Chennai,4,2227.98,3870.39,1642.41,Debit Card,Pending,Same Day,7,No Return,Yes,33
+ORD1632,21-06-2024,23-09-2025,CUST677,Monica Brown,Corporate,PROD7660,Calculator,Technology,South,Punjab,Chennai,5,9699.08,16904.46,7205.38,Debit Card,Cancelled,Same Day,1,Returned,No,2
+ORD1633,24-01-2024,26-06-2024,CUST544,Chris Brown,Home Office,PROD6938,Pen Set,Technology,South,Delhi,Amritsar,39,2473.87,3305.3,831.43,Cash,Pending,First Class,5,No Return,No,41
+ORD1634,11-10-2024,07-11-2024,CUST538,Sophia Brown,Corporate,PROD2271,Desk,Technology,West,Karnataka,Delhi,4,16953.6,23469.36,6515.76,UPI,Delivered,Standard Class,25,No Return,Yes,4
+ORD1635,03-03-2025,12-08-2024,CUST342,Sophia Green,Home Office,PROD8455,Desk,Furniture,West,Delhi,Lucknow,39,19838.12,28344.67,8506.55,Cash,Pending,Second Class,18,Returned,No,16
+ORD1636,01-12-2025,07-05-2025,CUST410,John Lee,Home Office,PROD9301,Pen Set,Office Supplies,North,Maharashtra,Delhi,36,13259.27,18151.34,4892.07,Debit Card,Pending,Same Day,12,No Return,No,28
+ORD1637,07-01-2025,17-05-2025,CUST428,Sophia Green,Home Office,PROD5034,Calculator,Technology,East,Punjab,Amritsar,2,6989.7,9888.88,2899.18,Cash,Cancelled,First Class,28,Returned,No,38
+ORD1638,08-07-2025,19-05-2025,CUST387,Chris Johnson,Corporate,PROD6129,Chair,Furniture,West,Maharashtra,Delhi,36,16465.99,19709.2,3243.21,Debit Card,Delivered,First Class,17,Returned,No,5
+ORD1639,27-11-2025,28-09-2025,CUST719,Amy Smith,Corporate,PROD5626,Pen Set,Furniture,East,UP,Mumbai,5,17232.6,19039.97,1807.37,Debit Card,Pending,Same Day,25,No Return,No,25
+ORD1640,18-08-2024,09-08-2024,CUST609,Emma Smith,Corporate,PROD9016,Calculator,Technology,West,UP,Lucknow,41,3807.42,5781.16,1973.74,UPI,Delivered,Standard Class,11,Returned,Yes,13
+ORD1641,13-12-2025,23-04-2025,CUST834,David Smith,Home Office,PROD1478,Desk,Furniture,East,Karnataka,Delhi,17,388.15,475.67,87.52,Cash,Cancelled,Standard Class,20,Returned,No,36
+ORD1642,03-08-2024,23-12-2024,CUST496,John Johnson,Consumer,PROD5365,Laptop,Furniture,South,Karnataka,Lucknow,3,19061.69,25609.74,6548.05,Debit Card,Cancelled,Standard Class,19,Returned,Yes,3
+ORD1643,02-06-2025,23-03-2024,CUST374,David Brown,Home Office,PROD4112,Desk,Technology,North,Karnataka,Amritsar,41,15889.96,17688.76,1798.8,Credit Card,Delivered,First Class,17,No Return,Yes,9
+ORD1644,01-12-2025,22-08-2024,CUST125,David Dunn,Corporate,PROD9027,Bookshelf,Furniture,West,UP,Lucknow,37,17554.43,27080.44,9526.01,Debit Card,Cancelled,First Class,10,No Return,No,17
+ORD1645,15-12-2024,26-08-2025,CUST766,John Smith,Home Office,PROD3229,Printer,Furniture,West,Karnataka,Bangalore,46,16420.48,19410.54,2990.06,Debit Card,Pending,Second Class,17,No Return,Yes,28
+ORD1646,07-05-2024,02-09-2025,CUST278,Amy Johnson,Consumer,PROD4376,Calculator,Office Supplies,West,Tamil Nadu,Chennai,12,6954.87,9158.65,2203.78,Debit Card,Cancelled,Standard Class,4,No Return,No,36
+ORD1647,04-08-2024,15-05-2024,CUST576,Chris Green,Home Office,PROD5673,Bookshelf,Furniture,North,UP,Delhi,24,11497.19,19873.23,8376.04,Credit Card,Cancelled,Standard Class,29,Returned,No,18
+ORD1648,01-11-2024,19-11-2025,CUST144,Amy Brown,Consumer,PROD4030,Printer,Technology,South,UP,Bangalore,28,5128.23,7100.6,1972.37,Credit Card,Cancelled,First Class,29,No Return,Yes,0
+ORD1649,24-08-2025,09-07-2025,CUST538,Monica Dunn,Home Office,PROD1533,Desk,Technology,West,Punjab,Delhi,24,877.42,1553.51,676.09,UPI,Delivered,First Class,9,Returned,No,29
+ORD1650,30-09-2025,05-11-2025,CUST716,Emma Lee,Home Office,PROD9201,Calculator,Office Supplies,East,Karnataka,Mumbai,23,11557.66,14384.83,2827.17,UPI,Pending,First Class,28,Returned,Yes,7
+ORD1651,08-08-2025,16-03-2024,CUST316,Amy Brown,Home Office,PROD2090,Bookshelf,Office Supplies,West,Maharashtra,Bangalore,34,19232.21,21640.06,2407.85,Net Banking,Cancelled,Same Day,28,Returned,Yes,3
+ORD1652,23-01-2024,18-12-2024,CUST622,Monica Brown,Consumer,PROD7736,Laptop,Furniture,East,Delhi,Chennai,44,16222.58,29116.98,12894.4,Net Banking,Cancelled,Same Day,2,Returned,No,14
+ORD1653,17-02-2024,25-08-2025,CUST477,Amy Johnson,Home Office,PROD5838,Desk,Office Supplies,North,Karnataka,Lucknow,7,15205.32,23902.67,8697.35,Credit Card,Cancelled,Standard Class,28,Returned,Yes,31
+ORD1654,05-03-2025,15-11-2024,CUST115,Chris Brown,Corporate,PROD8020,Pen Set,Technology,West,Delhi,Mumbai,18,18516.66,21554.06,3037.4,UPI,Cancelled,First Class,1,Returned,Yes,49
+ORD1655,21-11-2024,20-02-2025,CUST847,Sophia Johnson,Corporate,PROD6456,Desk,Furniture,North,Punjab,Mumbai,34,7241.43,10517.62,3276.19,Credit Card,Cancelled,Second Class,13,Returned,Yes,6
+ORD1656,14-02-2025,22-07-2024,CUST769,David Dunn,Home Office,PROD9185,Desk,Furniture,East,Karnataka,Delhi,28,14232.1,15742.92,1510.82,Credit Card,Cancelled,Standard Class,20,No Return,No,40
+ORD1657,02-05-2024,01-06-2024,CUST701,Chris Brown,Consumer,PROD4802,Bookshelf,Technology,East,Tamil Nadu,Chennai,5,17986.56,30721.92,12735.36,Cash,Delivered,Standard Class,28,Returned,Yes,44
+ORD1658,12-01-2024,02-07-2024,CUST414,John Dunn,Consumer,PROD7237,Desk,Office Supplies,West,Karnataka,Lucknow,11,2260.8,2889.02,628.22,UPI,Delivered,First Class,8,Returned,Yes,33
+ORD1659,14-03-2025,25-09-2024,CUST666,David Lee,Consumer,PROD8464,Bookshelf,Office Supplies,West,Delhi,Amritsar,1,10694.28,17723.75,7029.47,Debit Card,Delivered,Same Day,4,Returned,No,34
+ORD1660,12-04-2025,12-02-2024,CUST596,David Dunn,Consumer,PROD7988,Pen Set,Technology,East,Maharashtra,Mumbai,41,18695.35,26557.47,7862.12,Credit Card,Cancelled,Standard Class,12,Returned,No,27
+ORD1661,10-02-2025,29-10-2024,CUST100,Monica Smith,Corporate,PROD6985,Printer,Office Supplies,West,UP,Delhi,22,7554.26,12967.36,5413.1,Net Banking,Cancelled,Second Class,18,No Return,Yes,1
+ORD1662,20-10-2024,02-08-2024,CUST308,John Johnson,Home Office,PROD1296,Chair,Technology,South,Tamil Nadu,Mumbai,8,19377.54,33188.88,13811.34,Debit Card,Pending,Standard Class,8,Returned,Yes,8
+ORD1663,23-01-2025,06-11-2024,CUST993,John Dunn,Corporate,PROD1945,Printer,Technology,North,Punjab,Chennai,25,8410.4,9529.85,1119.45,Credit Card,Cancelled,Second Class,5,No Return,Yes,48
+ORD1664,28-05-2025,19-10-2025,CUST317,John Johnson,Consumer,PROD7148,Printer,Furniture,West,UP,Lucknow,31,13991.66,18276.19,4284.53,Debit Card,Pending,Standard Class,7,Returned,No,47
+ORD1665,20-06-2024,23-12-2025,CUST798,Chris Brown,Corporate,PROD7563,Desk,Furniture,West,Karnataka,Delhi,9,17576.71,31358.66,13781.95,UPI,Pending,First Class,8,Returned,Yes,6
+ORD1666,27-02-2024,13-04-2024,CUST641,David Johnson,Corporate,PROD2650,Calculator,Technology,West,Karnataka,Delhi,21,5961.36,7036.87,1075.51,UPI,Delivered,Same Day,17,No Return,Yes,15
+ORD1667,19-02-2024,25-12-2025,CUST333,Amy Lee,Consumer,PROD6602,Desk,Furniture,West,Punjab,Delhi,6,19145.29,30559.51,11414.22,Credit Card,Pending,First Class,12,Returned,Yes,11
+ORD1668,21-07-2025,26-07-2024,CUST930,Sophia Johnson,Consumer,PROD2522,Laptop,Technology,East,Delhi,Chennai,35,2788.27,4835.44,2047.17,UPI,Delivered,Same Day,14,No Return,No,39
+ORD1669,07-03-2025,08-03-2025,CUST710,Monica Johnson,Corporate,PROD1481,Calculator,Office Supplies,East,Punjab,Delhi,37,15786.23,18314.16,2527.93,Cash,Pending,Standard Class,21,No Return,No,29
+ORD1670,30-03-2024,07-04-2025,CUST772,John Green,Home Office,PROD7227,Laptop,Technology,North,Punjab,Bangalore,46,9519.76,11526.29,2006.53,Cash,Cancelled,Standard Class,21,Returned,No,25
+ORD1671,14-03-2025,25-04-2025,CUST871,David Johnson,Consumer,PROD9819,Calculator,Furniture,West,Punjab,Chennai,29,1287.61,2205.55,917.94,Credit Card,Cancelled,Same Day,25,Returned,No,20
+ORD1672,13-12-2025,22-02-2025,CUST275,Monica Smith,Home Office,PROD8577,Chair,Technology,North,UP,Amritsar,33,10419.73,14891.75,4472.02,Net Banking,Pending,Same Day,29,No Return,No,34
+ORD1673,27-01-2024,27-07-2024,CUST248,Sophia Smith,Home Office,PROD6972,Bookshelf,Technology,South,Delhi,Delhi,32,7563.81,10046.73,2482.92,Cash,Delivered,First Class,23,No Return,No,20
+ORD1674,16-05-2025,25-06-2024,CUST214,Stephen Johnson,Consumer,PROD2518,Chair,Furniture,East,Punjab,Bangalore,4,13365.14,22011.97,8646.83,UPI,Delivered,Same Day,20,No Return,Yes,0
+ORD1675,03-12-2025,09-11-2024,CUST713,Sophia Brown,Corporate,PROD4991,Calculator,Technology,South,Karnataka,Delhi,46,18112.6,25526.01,7413.41,Credit Card,Pending,First Class,9,Returned,No,12
+ORD1676,23-01-2024,30-08-2025,CUST649,Chris Lee,Corporate,PROD1453,Chair,Office Supplies,North,Maharashtra,Amritsar,10,11877.07,18348.22,6471.15,Debit Card,Delivered,Standard Class,5,Returned,Yes,21
+ORD1677,15-08-2024,21-08-2024,CUST716,Monica Brown,Home Office,PROD4925,Calculator,Office Supplies,South,UP,Bangalore,36,14767.15,25639.63,10872.48,UPI,Delivered,First Class,11,No Return,Yes,1
+ORD1678,08-06-2024,20-03-2024,CUST830,Chris Smith,Consumer,PROD2979,Calculator,Office Supplies,West,Maharashtra,Delhi,27,4431.56,6341.51,1909.95,Cash,Delivered,Standard Class,22,No Return,Yes,35
+ORD1679,02-02-2025,28-02-2025,CUST946,Stephen Smith,Consumer,PROD8100,Calculator,Technology,West,Punjab,Lucknow,44,15625.9,25320.08,9694.18,UPI,Cancelled,Second Class,14,No Return,No,0
+ORD1680,09-07-2024,26-03-2024,CUST834,Sophia Johnson,Home Office,PROD3828,Bookshelf,Furniture,West,Punjab,Mumbai,26,5138.34,7542.09,2403.75,Debit Card,Pending,Same Day,23,No Return,No,41
+ORD1681,22-09-2024,19-04-2024,CUST745,Emma Green,Consumer,PROD1429,Laptop,Office Supplies,East,Maharashtra,Mumbai,37,6775.59,11756.21,4980.62,UPI,Pending,First Class,27,No Return,No,37
+ORD1682,20-08-2024,27-03-2025,CUST581,Emma Dunn,Consumer,PROD3972,Printer,Technology,South,Delhi,Chennai,47,19453.53,31619.16,12165.63,Credit Card,Cancelled,First Class,8,No Return,Yes,33
+ORD1683,28-04-2024,07-01-2024,CUST346,Stephen Johnson,Consumer,PROD3579,Printer,Office Supplies,West,Tamil Nadu,Lucknow,19,6703.16,9774.65,3071.49,Net Banking,Delivered,Standard Class,7,Returned,Yes,14
+ORD1684,15-02-2025,02-06-2025,CUST388,Chris Lee,Corporate,PROD6248,Pen Set,Office Supplies,East,Karnataka,Delhi,38,715.79,826.54,110.75,Net Banking,Pending,Same Day,22,Returned,No,35
+ORD1685,30-12-2024,02-02-2025,CUST807,Emma Johnson,Home Office,PROD9001,Laptop,Furniture,North,Maharashtra,Bangalore,10,10191.23,11722.85,1531.62,Cash,Delivered,First Class,24,Returned,Yes,34
+ORD1686,01-12-2025,09-11-2024,CUST591,Amy Lee,Home Office,PROD4225,Chair,Office Supplies,North,Delhi,Amritsar,14,7574.42,9756.22,2181.8,Net Banking,Delivered,Same Day,2,Returned,Yes,28
+ORD1687,02-03-2025,24-04-2024,CUST960,Monica Dunn,Home Office,PROD1590,Desk,Office Supplies,East,Punjab,Bangalore,35,16936.54,23457.85,6521.31,Debit Card,Delivered,Second Class,1,No Return,Yes,38
+ORD1688,08-05-2024,20-12-2025,CUST151,Emma Smith,Corporate,PROD4599,Printer,Furniture,West,Punjab,Mumbai,44,14258.16,19285.84,5027.68,Net Banking,Delivered,Same Day,2,Returned,No,29
+ORD1689,06-01-2025,28-03-2024,CUST689,Sophia Lee,Home Office,PROD4304,Bookshelf,Technology,South,UP,Lucknow,49,19864.85,32278.23,12413.38,Net Banking,Delivered,Standard Class,11,Returned,No,15
+ORD1690,02-01-2025,23-12-2025,CUST856,David Green,Corporate,PROD9352,Laptop,Furniture,South,Tamil Nadu,Delhi,43,19260.58,33466.68,14206.1,UPI,Delivered,Second Class,12,Returned,Yes,27
+ORD1691,21-06-2024,31-03-2025,CUST564,Chris Dunn,Home Office,PROD8172,Calculator,Technology,East,Karnataka,Lucknow,40,1927.56,2339.23,411.67,Debit Card,Cancelled,Second Class,7,No Return,No,10
+ORD1692,23-02-2025,25-07-2024,CUST108,David Green,Consumer,PROD2819,Laptop,Office Supplies,East,Delhi,Mumbai,39,5306.8,7632.78,2325.98,UPI,Pending,Second Class,20,Returned,No,37
+ORD1693,18-12-2025,13-11-2025,CUST212,Monica Lee,Consumer,PROD3177,Desk,Office Supplies,North,Tamil Nadu,Amritsar,30,9984.49,13599.94,3615.45,Cash,Pending,Second Class,19,Returned,No,5
+ORD1694,11-10-2025,23-08-2024,CUST956,Monica Dunn,Consumer,PROD2076,Chair,Technology,East,Delhi,Chennai,32,3279.05,5237.57,1958.52,Debit Card,Cancelled,Standard Class,28,No Return,No,37
+ORD1695,14-09-2025,13-07-2025,CUST647,Emma Green,Consumer,PROD1445,Chair,Technology,South,Maharashtra,Lucknow,3,1147.67,1627.43,479.76,Credit Card,Delivered,Second Class,20,Returned,No,9
+ORD1696,16-11-2025,07-08-2025,CUST405,Sophia Brown,Corporate,PROD6282,Chair,Furniture,East,Tamil Nadu,Bangalore,32,15327.35,20740.31,5412.96,Debit Card,Pending,First Class,17,Returned,No,25
+ORD1697,22-07-2025,05-06-2024,CUST226,Monica Brown,Consumer,PROD2043,Chair,Furniture,East,Punjab,Bangalore,3,3127.39,3626.29,498.9,Cash,Pending,Standard Class,4,Returned,No,45
+ORD1698,01-01-2025,16-05-2024,CUST249,David Green,Home Office,PROD3047,Chair,Furniture,West,UP,Chennai,8,16590.79,29619.98,13029.19,Net Banking,Pending,Same Day,6,No Return,No,9
+ORD1699,29-06-2024,19-06-2025,CUST639,Emma Dunn,Corporate,PROD9084,Printer,Furniture,North,Delhi,Lucknow,35,15080.11,16853.46,1773.35,Debit Card,Pending,Same Day,0,No Return,No,7
+ORD1700,22-04-2025,29-01-2024,CUST827,Monica Lee,Corporate,PROD4878,Chair,Office Supplies,South,Tamil Nadu,Bangalore,11,3382.88,4886.14,1503.26,Credit Card,Pending,Same Day,23,No Return,No,28
+ORD1701,23-03-2024,14-10-2024,CUST504,Amy Dunn,Consumer,PROD3427,Laptop,Furniture,West,Tamil Nadu,Delhi,2,7219.91,8256.59,1036.68,Credit Card,Delivered,Second Class,6,Returned,No,14
+ORD1702,21-05-2024,23-05-2024,CUST169,Amy Brown,Consumer,PROD7528,Desk,Office Supplies,East,Delhi,Delhi,7,13427.5,16484.69,3057.19,Credit Card,Delivered,First Class,19,No Return,Yes,24
+ORD1703,30-05-2024,11-01-2025,CUST806,Chris Dunn,Corporate,PROD1564,Calculator,Furniture,South,Punjab,Chennai,23,5270.55,6123.35,852.8,Debit Card,Delivered,Same Day,14,No Return,No,22
+ORD1704,11-04-2025,13-09-2024,CUST818,Monica Lee,Consumer,PROD5562,Printer,Office Supplies,East,Karnataka,Amritsar,6,10254.26,11675.14,1420.88,UPI,Delivered,Same Day,13,No Return,Yes,11
+ORD1705,13-04-2024,22-02-2024,CUST149,Emma Green,Home Office,PROD6229,Chair,Technology,North,Karnataka,Delhi,25,6086.32,9261.72,3175.4,Credit Card,Delivered,Standard Class,2,Returned,Yes,11
+ORD1706,06-02-2025,05-10-2025,CUST658,Chris Brown,Consumer,PROD4661,Desk,Furniture,North,Karnataka,Bangalore,5,9862.37,16853.65,6991.28,Net Banking,Delivered,First Class,12,Returned,No,39
+ORD1707,24-01-2025,19-01-2024,CUST234,Monica Lee,Home Office,PROD7930,Calculator,Office Supplies,West,Tamil Nadu,Lucknow,17,4065.8,5523.56,1457.76,Debit Card,Delivered,Standard Class,11,No Return,Yes,40
+ORD1708,06-04-2025,18-06-2025,CUST191,David Brown,Consumer,PROD2903,Calculator,Furniture,West,Karnataka,Delhi,28,7478.55,8610.35,1131.8,Debit Card,Pending,Same Day,5,No Return,No,41
+ORD1709,18-02-2024,04-09-2025,CUST360,Stephen Brown,Corporate,PROD5358,Bookshelf,Technology,East,Karnataka,Amritsar,46,4818.17,6245.25,1427.08,Debit Card,Cancelled,Standard Class,28,Returned,No,10
+ORD1710,04-06-2024,02-04-2024,CUST707,Monica Johnson,Corporate,PROD2180,Bookshelf,Furniture,West,Maharashtra,Bangalore,29,12323.87,19117.13,6793.26,UPI,Delivered,Second Class,26,Returned,No,5
+ORD1711,14-03-2024,19-02-2024,CUST227,David Brown,Consumer,PROD5747,Chair,Technology,North,Maharashtra,Chennai,21,13236.76,19147.86,5911.1,Credit Card,Cancelled,Second Class,2,No Return,Yes,26
+ORD1712,26-03-2025,27-07-2024,CUST136,Amy Smith,Consumer,PROD8865,Calculator,Technology,East,Maharashtra,Amritsar,31,12233.69,15231.36,2997.67,UPI,Pending,Second Class,9,Returned,Yes,39
+ORD1713,10-02-2025,08-09-2025,CUST181,Monica Dunn,Consumer,PROD3798,Chair,Technology,West,Delhi,Chennai,11,6819.31,8438.05,1618.74,Debit Card,Pending,Standard Class,29,Returned,No,9
+ORD1714,06-09-2024,13-10-2024,CUST265,Chris Dunn,Home Office,PROD2420,Printer,Furniture,West,Tamil Nadu,Amritsar,17,11385.37,19989.36,8603.99,Net Banking,Delivered,Second Class,29,Returned,Yes,49
+ORD1715,05-04-2025,28-06-2025,CUST976,John Dunn,Home Office,PROD4589,Desk,Technology,South,Maharashtra,Mumbai,44,10893.89,14139.66,3245.77,UPI,Delivered,Second Class,15,No Return,Yes,39
+ORD1716,20-06-2024,24-08-2025,CUST670,Chris Johnson,Corporate,PROD6388,Chair,Office Supplies,West,Punjab,Delhi,22,6681.82,11537.49,4855.67,Debit Card,Pending,First Class,5,Returned,Yes,14
+ORD1717,24-10-2025,07-03-2025,CUST385,Emma Lee,Home Office,PROD6519,Bookshelf,Office Supplies,South,Punjab,Delhi,30,18576.15,29051.26,10475.11,Debit Card,Pending,Same Day,16,Returned,Yes,4
+ORD1718,18-03-2025,15-12-2024,CUST326,Amy Lee,Corporate,PROD6691,Bookshelf,Technology,East,UP,Delhi,18,16355.25,22891.07,6535.82,Debit Card,Delivered,Second Class,28,No Return,No,40
+ORD1719,17-12-2025,07-03-2024,CUST487,David Dunn,Consumer,PROD7325,Laptop,Office Supplies,West,Maharashtra,Mumbai,38,6122.99,9087.9,2964.91,UPI,Cancelled,Second Class,21,No Return,Yes,43
+ORD1720,22-08-2024,11-02-2025,CUST647,Stephen Johnson,Consumer,PROD4609,Printer,Technology,West,Delhi,Amritsar,9,4014.9,5660.13,1645.23,UPI,Cancelled,First Class,23,No Return,No,7
+ORD1721,28-06-2025,06-07-2024,CUST336,Emma Johnson,Corporate,PROD8295,Calculator,Furniture,North,UP,Mumbai,7,3235.9,5054.91,1819.01,Credit Card,Pending,Same Day,19,Returned,No,22
+ORD1722,14-09-2024,04-02-2025,CUST420,Amy Dunn,Corporate,PROD4401,Desk,Office Supplies,West,Punjab,Chennai,6,3617.37,5005.4,1388.03,Credit Card,Pending,First Class,13,Returned,No,24
+ORD1723,24-02-2024,15-05-2025,CUST606,Sophia Lee,Home Office,PROD3174,Calculator,Furniture,South,Delhi,Amritsar,43,3976.34,5461.27,1484.93,UPI,Cancelled,First Class,24,Returned,Yes,39
+ORD1724,15-09-2024,13-02-2025,CUST540,David Smith,Home Office,PROD4789,Laptop,Furniture,South,Tamil Nadu,Chennai,4,16698.77,25848.15,9149.38,Net Banking,Delivered,Second Class,8,Returned,No,20
+ORD1725,26-05-2024,16-09-2025,CUST970,Sophia Brown,Home Office,PROD5004,Calculator,Office Supplies,North,Tamil Nadu,Mumbai,23,18489.04,24291.64,5802.6,Cash,Pending,First Class,19,Returned,Yes,16
+ORD1726,26-02-2025,15-03-2025,CUST889,Stephen Smith,Corporate,PROD6367,Bookshelf,Office Supplies,North,UP,Lucknow,22,119.65,162.95,43.3,Cash,Pending,Second Class,27,No Return,Yes,45
+ORD1727,26-11-2024,31-10-2024,CUST556,David Lee,Corporate,PROD1266,Pen Set,Technology,South,Punjab,Amritsar,24,7727.8,13365.52,5637.72,Credit Card,Delivered,Second Class,15,Returned,Yes,35
+ORD1728,20-10-2025,28-09-2024,CUST154,John Green,Home Office,PROD2012,Bookshelf,Technology,South,Punjab,Chennai,6,3498.55,6107.05,2608.5,UPI,Delivered,Standard Class,25,No Return,Yes,6
+ORD1729,23-09-2025,26-12-2024,CUST392,Stephen Brown,Consumer,PROD2663,Printer,Furniture,East,Delhi,Chennai,40,17985.96,21385.21,3399.25,Cash,Cancelled,Second Class,11,No Return,Yes,4
+ORD1730,09-03-2025,16-08-2025,CUST307,Monica Smith,Home Office,PROD5844,Desk,Office Supplies,West,UP,Bangalore,1,11115.59,18061.84,6946.25,UPI,Delivered,Same Day,6,Returned,No,29
+ORD1731,20-02-2025,29-05-2025,CUST429,Chris Brown,Corporate,PROD4839,Calculator,Technology,East,Delhi,Mumbai,30,13247.72,20795.59,7547.87,Credit Card,Delivered,Standard Class,2,Returned,No,0
+ORD1732,06-09-2025,05-03-2025,CUST398,Emma Brown,Corporate,PROD4900,Laptop,Office Supplies,West,Punjab,Chennai,10,6147.27,7203.28,1056.01,Cash,Delivered,First Class,2,No Return,Yes,11
+ORD1733,29-04-2025,06-02-2025,CUST744,John Brown,Consumer,PROD2651,Calculator,Office Supplies,East,Delhi,Chennai,40,7171.61,8788.67,1617.06,Debit Card,Delivered,Same Day,12,No Return,No,23
+ORD1734,16-03-2024,18-01-2024,CUST245,Monica Green,Corporate,PROD2003,Desk,Furniture,South,Punjab,Bangalore,15,4657.45,7431.0,2773.55,Debit Card,Pending,First Class,19,No Return,No,34
+ORD1735,30-09-2025,24-12-2025,CUST611,John Dunn,Corporate,PROD4594,Laptop,Technology,East,Maharashtra,Amritsar,8,13149.94,14638.9,1488.96,Cash,Delivered,First Class,19,Returned,No,33
+ORD1736,07-04-2025,07-02-2024,CUST802,John Johnson,Consumer,PROD9192,Desk,Furniture,East,Karnataka,Lucknow,35,19465.45,26225.75,6760.3,Credit Card,Cancelled,First Class,24,No Return,No,29
+ORD1737,10-05-2025,03-09-2024,CUST609,Amy Johnson,Home Office,PROD4577,Calculator,Technology,West,Delhi,Mumbai,48,2382.61,2632.08,249.47,Debit Card,Pending,Same Day,27,No Return,No,22
+ORD1738,29-09-2025,28-09-2024,CUST867,Chris Lee,Home Office,PROD4256,Laptop,Technology,North,UP,Amritsar,32,16630.27,24411.86,7781.59,Credit Card,Pending,Second Class,9,No Return,Yes,9
+ORD1739,24-09-2024,08-06-2024,CUST443,Amy Johnson,Corporate,PROD6427,Chair,Technology,East,Maharashtra,Lucknow,4,19881.87,34358.8,14476.93,UPI,Cancelled,Same Day,25,No Return,Yes,44
+ORD1740,17-03-2024,20-01-2025,CUST854,Emma Smith,Corporate,PROD1229,Calculator,Office Supplies,East,Delhi,Mumbai,11,2078.67,2711.55,632.88,Cash,Cancelled,Second Class,16,No Return,No,49
+ORD1741,16-10-2024,14-06-2024,CUST367,Monica Dunn,Corporate,PROD9470,Calculator,Technology,North,Karnataka,Lucknow,27,15195.36,18799.74,3604.38,Cash,Pending,Standard Class,19,No Return,No,26
+ORD1742,13-03-2025,26-07-2024,CUST211,Monica Smith,Consumer,PROD1533,Chair,Office Supplies,South,Karnataka,Mumbai,25,8535.97,10513.69,1977.72,Cash,Delivered,Second Class,0,Returned,Yes,19
+ORD1743,02-01-2025,21-06-2024,CUST189,Amy Smith,Home Office,PROD6300,Chair,Technology,East,UP,Mumbai,29,9221.87,10185.28,963.41,Net Banking,Pending,First Class,4,No Return,No,34
+ORD1744,16-12-2024,29-08-2025,CUST489,Monica Johnson,Consumer,PROD1196,Bookshelf,Technology,West,Delhi,Bangalore,37,18641.2,22165.2,3524.0,Cash,Cancelled,Same Day,23,Returned,Yes,11
+ORD1745,11-04-2025,30-11-2024,CUST542,Monica Lee,Corporate,PROD8351,Calculator,Technology,North,Maharashtra,Amritsar,9,6358.21,8786.65,2428.44,Net Banking,Pending,First Class,19,Returned,Yes,2
+ORD1746,19-02-2025,20-07-2024,CUST407,Sophia Lee,Consumer,PROD6296,Laptop,Office Supplies,West,Tamil Nadu,Mumbai,19,7231.3,10445.24,3213.94,Cash,Delivered,First Class,2,Returned,No,28
+ORD1747,03-01-2025,14-08-2025,CUST517,Emma Brown,Corporate,PROD7143,Calculator,Furniture,South,Punjab,Amritsar,20,13300.41,23373.28,10072.87,Net Banking,Cancelled,Same Day,12,No Return,No,42
+ORD1748,03-11-2024,15-09-2024,CUST882,Stephen Dunn,Home Office,PROD4938,Bookshelf,Furniture,North,UP,Bangalore,40,14247.3,21005.07,6757.77,Credit Card,Cancelled,First Class,25,No Return,Yes,6
+ORD1749,25-05-2025,24-09-2024,CUST274,Chris Dunn,Consumer,PROD9249,Pen Set,Technology,West,Karnataka,Delhi,13,19649.45,21692.77,2043.32,Credit Card,Cancelled,Second Class,12,No Return,Yes,21
+ORD1750,19-10-2024,14-07-2024,CUST594,John Lee,Consumer,PROD8522,Calculator,Office Supplies,North,Karnataka,Mumbai,38,2498.94,4399.26,1900.32,Net Banking,Pending,Standard Class,25,Returned,No,18
+ORD1751,16-09-2024,29-11-2025,CUST221,John Smith,Home Office,PROD2342,Pen Set,Technology,East,Tamil Nadu,Amritsar,21,3809.77,6133.8,2324.03,Credit Card,Delivered,First Class,19,No Return,Yes,43
+ORD1752,12-10-2025,03-11-2025,CUST579,Amy Brown,Corporate,PROD4028,Pen Set,Technology,North,UP,Delhi,41,19988.85,34189.74,14200.89,Debit Card,Delivered,Second Class,23,Returned,No,2
+ORD1753,28-01-2025,21-11-2025,CUST701,Chris Johnson,Home Office,PROD6181,Calculator,Office Supplies,East,Punjab,Lucknow,7,16856.12,24679.76,7823.64,Credit Card,Pending,First Class,18,No Return,No,15
+ORD1754,01-03-2024,28-01-2024,CUST183,Amy Smith,Home Office,PROD9985,Desk,Furniture,East,Punjab,Lucknow,44,9285.88,13542.11,4256.23,Debit Card,Cancelled,Standard Class,16,Returned,Yes,16
+ORD1755,20-05-2024,01-03-2025,CUST146,Stephen Green,Consumer,PROD9653,Calculator,Office Supplies,South,Karnataka,Bangalore,20,16454.24,22888.1,6433.86,Cash,Pending,First Class,3,Returned,Yes,42
+ORD1756,10-06-2024,06-09-2024,CUST766,Emma Green,Corporate,PROD1663,Printer,Furniture,West,Maharashtra,Lucknow,20,15130.52,17589.41,2458.89,Cash,Pending,Standard Class,11,No Return,No,3
+ORD1757,19-10-2024,13-06-2025,CUST356,Sophia Smith,Home Office,PROD2375,Calculator,Office Supplies,West,Delhi,Chennai,42,13665.35,22986.89,9321.54,Debit Card,Pending,First Class,28,No Return,No,27
+ORD1758,30-05-2024,02-05-2025,CUST977,David Smith,Home Office,PROD1587,Chair,Technology,West,UP,Chennai,42,19947.08,35150.75,15203.67,Net Banking,Delivered,Second Class,28,Returned,No,39
+ORD1759,20-09-2025,16-08-2025,CUST331,Monica Green,Home Office,PROD1353,Desk,Furniture,West,Delhi,Amritsar,4,2283.99,3378.13,1094.14,Credit Card,Delivered,First Class,15,No Return,Yes,6
+ORD1760,28-01-2025,03-08-2024,CUST478,David Green,Consumer,PROD5029,Desk,Technology,East,UP,Lucknow,12,1970.56,2308.8,338.24,Net Banking,Cancelled,First Class,11,No Return,Yes,13
+ORD1761,24-08-2025,25-05-2024,CUST707,Chris Smith,Home Office,PROD2186,Printer,Technology,West,Tamil Nadu,Delhi,27,10797.9,15999.67,5201.77,Debit Card,Cancelled,First Class,15,Returned,No,19
+ORD1762,26-04-2025,10-01-2024,CUST754,John Smith,Home Office,PROD3877,Laptop,Office Supplies,South,Maharashtra,Mumbai,24,1270.43,1652.5,382.07,UPI,Cancelled,Same Day,10,Returned,No,49
+ORD1763,02-12-2024,18-05-2025,CUST943,Chris Green,Corporate,PROD9448,Bookshelf,Furniture,East,Maharashtra,Delhi,26,2974.1,3733.51,759.41,Credit Card,Delivered,Second Class,1,Returned,No,35
+ORD1764,25-10-2025,09-02-2024,CUST120,Chris Lee,Corporate,PROD1391,Desk,Furniture,East,Tamil Nadu,Mumbai,40,3284.07,5223.77,1939.7,Net Banking,Delivered,First Class,28,Returned,No,6
+ORD1765,03-04-2024,04-01-2024,CUST984,John Green,Consumer,PROD4265,Bookshelf,Office Supplies,North,Maharashtra,Lucknow,34,9698.88,16450.79,6751.91,Credit Card,Cancelled,Standard Class,19,Returned,Yes,20
+ORD1766,11-04-2024,12-12-2024,CUST114,Chris Johnson,Corporate,PROD9232,Pen Set,Office Supplies,North,Karnataka,Bangalore,17,3397.39,5882.59,2485.2,Net Banking,Cancelled,Second Class,16,No Return,Yes,5
+ORD1767,04-01-2024,19-12-2024,CUST949,Amy Smith,Home Office,PROD4068,Calculator,Technology,North,Karnataka,Lucknow,33,18834.23,32925.39,14091.16,Debit Card,Cancelled,Second Class,29,No Return,No,22
+ORD1768,16-10-2024,22-06-2024,CUST627,John Lee,Corporate,PROD2699,Pen Set,Technology,West,Tamil Nadu,Delhi,40,10214.69,15322.16,5107.47,Credit Card,Cancelled,Standard Class,22,No Return,No,33
+ORD1769,09-07-2024,04-02-2025,CUST294,John Dunn,Home Office,PROD7332,Pen Set,Office Supplies,North,UP,Chennai,20,19530.98,27407.63,7876.65,Net Banking,Delivered,Standard Class,27,No Return,Yes,5
+ORD1770,07-02-2024,23-06-2024,CUST634,Monica Smith,Consumer,PROD8921,Chair,Office Supplies,North,Karnataka,Mumbai,43,410.06,626.31,216.25,UPI,Pending,Second Class,24,No Return,Yes,31
+ORD1771,30-07-2025,02-11-2024,CUST806,Chris Green,Corporate,PROD2245,Calculator,Office Supplies,West,Tamil Nadu,Mumbai,18,2743.22,3042.67,299.45,Debit Card,Delivered,Standard Class,13,Returned,No,49
+ORD1772,26-06-2025,15-08-2025,CUST874,Sophia Johnson,Corporate,PROD8849,Calculator,Technology,South,UP,Amritsar,25,89.16,154.49,65.33,Credit Card,Delivered,Same Day,25,Returned,No,17
+ORD1773,07-04-2025,27-12-2024,CUST216,Monica Brown,Home Office,PROD5590,Desk,Office Supplies,North,UP,Delhi,37,4548.53,5281.24,732.71,Debit Card,Pending,Standard Class,13,No Return,No,16
+ORD1774,11-11-2024,15-10-2025,CUST612,Sophia Brown,Home Office,PROD3853,Printer,Furniture,North,Tamil Nadu,Chennai,45,10686.89,12607.77,1920.88,Net Banking,Pending,Second Class,17,No Return,No,21
+ORD1775,06-09-2025,27-09-2024,CUST687,Chris Brown,Home Office,PROD2362,Bookshelf,Office Supplies,South,Delhi,Amritsar,29,3297.99,5426.41,2128.42,UPI,Pending,Second Class,23,No Return,Yes,10
+ORD1776,26-10-2024,30-07-2025,CUST194,Amy Smith,Consumer,PROD3729,Printer,Furniture,West,Delhi,Chennai,23,18850.27,25338.43,6488.16,Debit Card,Cancelled,First Class,17,No Return,No,2
+ORD1777,11-01-2024,10-08-2025,CUST210,Chris Green,Home Office,PROD7224,Chair,Furniture,North,Delhi,Lucknow,27,16527.18,19451.07,2923.89,Cash,Pending,Same Day,13,No Return,Yes,13
+ORD1778,19-08-2024,11-08-2024,CUST164,Amy Johnson,Corporate,PROD8495,Calculator,Furniture,East,UP,Delhi,36,488.88,606.74,117.86,Cash,Pending,Standard Class,1,Returned,No,17
+ORD1779,10-08-2024,10-10-2025,CUST259,David Brown,Corporate,PROD1592,Chair,Technology,West,Karnataka,Amritsar,29,15841.01,26974.2,11133.19,Cash,Delivered,First Class,9,No Return,No,38
+ORD1780,01-11-2025,04-04-2025,CUST193,Stephen Johnson,Corporate,PROD7515,Chair,Office Supplies,South,Karnataka,Bangalore,29,8096.73,9421.74,1325.01,Net Banking,Cancelled,Same Day,15,Returned,Yes,46
+ORD1781,05-09-2024,22-03-2025,CUST859,Stephen Johnson,Corporate,PROD9147,Bookshelf,Office Supplies,North,Tamil Nadu,Chennai,46,2651.48,4433.25,1781.77,Net Banking,Pending,Standard Class,4,Returned,Yes,4
+ORD1782,05-05-2025,22-08-2025,CUST966,Chris Johnson,Corporate,PROD5199,Chair,Office Supplies,East,UP,Amritsar,40,14372.62,19276.88,4904.26,Debit Card,Pending,Second Class,13,Returned,No,1
+ORD1783,18-07-2025,04-05-2024,CUST261,Amy Johnson,Home Office,PROD7828,Calculator,Technology,West,Maharashtra,Mumbai,29,17394.33,27128.12,9733.79,Net Banking,Delivered,First Class,25,No Return,Yes,16
+ORD1784,24-11-2025,11-04-2025,CUST328,Chris Smith,Home Office,PROD4190,Laptop,Office Supplies,West,Tamil Nadu,Delhi,25,18721.25,25994.33,7273.08,Cash,Delivered,First Class,20,Returned,No,10
+ORD1785,29-06-2025,27-01-2024,CUST752,Chris Green,Consumer,PROD5804,Bookshelf,Technology,West,UP,Amritsar,38,19362.05,33737.04,14374.99,UPI,Pending,First Class,11,No Return,Yes,34
+ORD1786,01-12-2025,01-06-2024,CUST802,Emma Green,Consumer,PROD7311,Chair,Technology,North,UP,Mumbai,44,10743.01,17047.05,6304.04,Cash,Cancelled,First Class,23,Returned,Yes,21
+ORD1787,27-07-2024,20-09-2024,CUST473,Sophia Green,Corporate,PROD4079,Desk,Technology,South,UP,Lucknow,6,17390.33,23488.98,6098.65,Net Banking,Pending,Standard Class,16,Returned,Yes,34
+ORD1788,23-11-2025,09-05-2024,CUST681,Amy Smith,Home Office,PROD5901,Printer,Office Supplies,South,Tamil Nadu,Delhi,2,16622.51,19008.59,2386.08,Debit Card,Cancelled,Second Class,1,Returned,Yes,35
+ORD1789,06-12-2025,07-10-2025,CUST190,Stephen Johnson,Home Office,PROD6724,Calculator,Technology,South,Punjab,Amritsar,26,278.15,465.25,187.1,Net Banking,Pending,Standard Class,4,Returned,Yes,36
+ORD1790,21-05-2025,05-03-2024,CUST381,John Green,Home Office,PROD7551,Calculator,Technology,North,Delhi,Lucknow,40,15176.07,20765.46,5589.39,Cash,Delivered,First Class,26,No Return,No,17
+ORD1791,31-05-2025,24-03-2024,CUST690,Monica Brown,Home Office,PROD6497,Laptop,Office Supplies,East,Punjab,Lucknow,5,13338.53,18476.58,5138.05,Credit Card,Pending,First Class,12,Returned,Yes,31
+ORD1792,22-08-2025,14-05-2024,CUST303,Chris Smith,Consumer,PROD7835,Laptop,Furniture,West,UP,Chennai,30,18897.75,33027.33,14129.58,Net Banking,Cancelled,Same Day,12,No Return,No,12
+ORD1793,21-03-2025,01-03-2024,CUST610,Monica Lee,Consumer,PROD4179,Pen Set,Office Supplies,East,Punjab,Delhi,23,6595.13,11273.1,4677.97,Cash,Cancelled,First Class,25,Returned,No,5
+ORD1794,30-01-2025,21-10-2024,CUST203,Sophia Lee,Corporate,PROD2765,Desk,Office Supplies,East,Punjab,Bangalore,40,15410.06,17520.22,2110.16,UPI,Delivered,Second Class,23,No Return,No,21
+ORD1795,21-06-2025,20-07-2025,CUST375,David Brown,Consumer,PROD1614,Chair,Furniture,North,Delhi,Chennai,2,5806.28,8087.25,2280.97,Credit Card,Delivered,Second Class,28,Returned,No,14
+ORD1796,19-09-2024,30-07-2025,CUST364,Amy Dunn,Corporate,PROD2529,Chair,Furniture,South,Punjab,Mumbai,28,11435.63,14014.72,2579.09,UPI,Delivered,Same Day,29,Returned,Yes,36
+ORD1797,30-07-2025,10-05-2024,CUST565,Emma Brown,Corporate,PROD9596,Laptop,Furniture,West,Tamil Nadu,Lucknow,26,2530.33,3623.47,1093.14,Credit Card,Cancelled,Same Day,1,No Return,Yes,14
+ORD1798,07-11-2024,13-06-2025,CUST649,Monica Green,Corporate,PROD9566,Desk,Technology,West,Maharashtra,Chennai,17,7039.74,10899.35,3859.61,Cash,Pending,Standard Class,10,Returned,Yes,20
+ORD1799,02-08-2025,27-05-2024,CUST397,Amy Johnson,Consumer,PROD4462,Laptop,Technology,North,Punjab,Lucknow,28,5303.83,5880.77,576.94,Net Banking,Pending,Second Class,28,No Return,Yes,31
+ORD1800,14-10-2025,08-02-2025,CUST829,David Dunn,Consumer,PROD4994,Desk,Technology,North,Karnataka,Delhi,3,5097.6,8432.43,3334.83,Cash,Cancelled,Same Day,26,Returned,No,2
+ORD1801,17-09-2024,04-06-2025,CUST317,Sophia Brown,Home Office,PROD5447,Desk,Furniture,North,Delhi,Delhi,43,5992.12,10449.67,4457.55,Cash,Cancelled,Standard Class,12,No Return,No,0
+ORD1802,23-12-2025,09-09-2024,CUST860,Emma Dunn,Corporate,PROD7739,Calculator,Office Supplies,South,Punjab,Delhi,27,8405.49,13030.75,4625.26,UPI,Pending,First Class,15,No Return,No,26
+ORD1803,31-08-2024,01-01-2025,CUST719,John Green,Corporate,PROD8198,Pen Set,Furniture,South,Tamil Nadu,Delhi,10,299.69,507.52,207.83,Debit Card,Delivered,Second Class,9,No Return,Yes,11
+ORD1804,29-12-2025,03-05-2025,CUST192,Stephen Dunn,Consumer,PROD8831,Pen Set,Technology,South,Tamil Nadu,Bangalore,13,7216.07,9610.1,2394.03,Debit Card,Delivered,Same Day,15,Returned,No,49
+ORD1805,22-05-2024,28-06-2024,CUST645,Monica Johnson,Consumer,PROD7287,Calculator,Technology,East,Delhi,Lucknow,18,12206.68,16997.31,4790.63,Debit Card,Cancelled,Second Class,28,No Return,Yes,10
+ORD1806,01-04-2025,01-03-2024,CUST672,Monica Lee,Corporate,PROD2545,Printer,Furniture,North,Punjab,Bangalore,40,5203.27,8416.11,3212.84,Cash,Cancelled,Second Class,22,No Return,Yes,7
+ORD1807,14-02-2024,07-06-2024,CUST624,Monica Johnson,Consumer,PROD1262,Desk,Technology,East,UP,Mumbai,2,11503.31,13662.62,2159.31,UPI,Cancelled,First Class,3,Returned,Yes,47
+ORD1808,23-02-2025,26-06-2025,CUST177,David Johnson,Home Office,PROD6172,Printer,Furniture,North,UP,Mumbai,34,13655.65,21657.71,8002.06,Net Banking,Delivered,First Class,4,No Return,No,23
+ORD1809,02-02-2025,25-12-2025,CUST604,Emma Smith,Home Office,PROD1970,Laptop,Furniture,South,Maharashtra,Delhi,17,10634.46,18923.01,8288.55,UPI,Cancelled,Same Day,21,Returned,Yes,35
+ORD1810,21-11-2024,28-10-2025,CUST176,Emma Johnson,Home Office,PROD1407,Calculator,Office Supplies,West,Tamil Nadu,Chennai,34,5963.97,8477.49,2513.52,UPI,Cancelled,Same Day,17,Returned,Yes,19
+ORD1811,02-05-2024,20-08-2025,CUST807,Sophia Dunn,Consumer,PROD8420,Desk,Furniture,South,Tamil Nadu,Chennai,48,11038.3,13546.38,2508.08,UPI,Cancelled,Same Day,29,Returned,No,44
+ORD1812,28-02-2024,01-03-2024,CUST788,Stephen Dunn,Consumer,PROD2802,Bookshelf,Office Supplies,East,Tamil Nadu,Bangalore,2,12982.71,19967.14,6984.43,Cash,Pending,Second Class,5,Returned,No,37
+ORD1813,16-08-2024,20-02-2025,CUST910,Monica Smith,Corporate,PROD6634,Calculator,Technology,East,Punjab,Lucknow,37,12407.88,20775.97,8368.09,Net Banking,Cancelled,Second Class,23,No Return,Yes,12
+ORD1814,02-03-2025,25-10-2024,CUST345,Sophia Johnson,Consumer,PROD9471,Pen Set,Technology,East,Delhi,Mumbai,18,19943.74,26895.73,6951.99,UPI,Pending,Same Day,25,Returned,Yes,32
+ORD1815,01-02-2025,04-08-2024,CUST749,David Smith,Corporate,PROD6395,Printer,Furniture,South,Maharashtra,Bangalore,49,1495.06,2648.61,1153.55,Debit Card,Delivered,Second Class,21,No Return,No,49
+ORD1816,28-12-2024,12-05-2024,CUST448,Sophia Smith,Corporate,PROD6007,Bookshelf,Technology,South,Maharashtra,Chennai,48,12638.01,19147.58,6509.57,Net Banking,Cancelled,Standard Class,16,Returned,No,42
+ORD1817,08-02-2025,18-03-2024,CUST701,David Green,Corporate,PROD1718,Laptop,Furniture,South,Maharashtra,Bangalore,2,6439.24,7271.75,832.51,UPI,Delivered,Second Class,3,No Return,No,43
+ORD1818,12-06-2024,16-02-2025,CUST674,Stephen Johnson,Corporate,PROD8867,Calculator,Furniture,South,Maharashtra,Chennai,30,9289.86,15158.52,5868.66,Credit Card,Cancelled,Standard Class,20,No Return,No,35
+ORD1819,11-02-2024,21-12-2024,CUST948,David Green,Home Office,PROD2116,Bookshelf,Furniture,North,Punjab,Mumbai,23,1536.42,1874.63,338.21,Debit Card,Delivered,First Class,0,Returned,Yes,15
+ORD1820,29-06-2024,02-02-2025,CUST580,Monica Brown,Home Office,PROD3707,Chair,Technology,North,Karnataka,Bangalore,38,13018.42,21627.06,8608.64,Credit Card,Delivered,Standard Class,4,No Return,No,29
+ORD1821,06-01-2024,10-11-2024,CUST367,David Lee,Corporate,PROD8809,Calculator,Office Supplies,South,Delhi,Lucknow,46,19245.12,23661.55,4416.43,Cash,Pending,Standard Class,21,No Return,No,45
+ORD1822,24-11-2024,08-06-2024,CUST386,Chris Green,Home Office,PROD5708,Chair,Office Supplies,West,Punjab,Bangalore,7,9104.93,11605.95,2501.02,Cash,Cancelled,Second Class,16,Returned,No,35
+ORD1823,14-12-2024,01-02-2024,CUST899,David Johnson,Home Office,PROD8912,Chair,Furniture,West,Tamil Nadu,Lucknow,38,10445.18,17814.0,7368.82,Net Banking,Pending,Standard Class,10,No Return,No,48
+ORD1824,03-12-2025,14-01-2025,CUST409,Sophia Brown,Consumer,PROD6091,Desk,Furniture,East,Tamil Nadu,Chennai,15,8476.58,11730.84,3254.26,UPI,Pending,First Class,23,No Return,No,2
+ORD1825,23-07-2025,30-06-2024,CUST719,Stephen Johnson,Consumer,PROD1637,Calculator,Technology,North,UP,Mumbai,22,15800.77,20078.18,4277.41,Cash,Pending,First Class,29,Returned,Yes,46
+ORD1826,19-12-2025,25-04-2025,CUST847,Monica Smith,Consumer,PROD5718,Printer,Furniture,South,UP,Chennai,45,10263.95,13692.48,3428.53,Cash,Pending,Second Class,15,No Return,Yes,47
+ORD1827,19-05-2024,24-09-2025,CUST651,John Green,Corporate,PROD2023,Calculator,Furniture,East,Punjab,Mumbai,16,11952.13,18659.18,6707.05,UPI,Pending,Standard Class,23,No Return,No,12
+ORD1828,04-07-2024,02-09-2024,CUST591,Chris Dunn,Corporate,PROD3750,Calculator,Technology,South,Karnataka,Mumbai,30,12369.3,20299.07,7929.77,Debit Card,Cancelled,Second Class,13,No Return,No,27
+ORD1829,05-10-2025,10-05-2025,CUST833,Emma Green,Corporate,PROD8859,Bookshelf,Technology,North,Tamil Nadu,Lucknow,9,12579.68,15254.57,2674.89,Net Banking,Pending,Standard Class,16,No Return,Yes,21
+ORD1830,11-08-2024,18-02-2024,CUST797,Monica Smith,Consumer,PROD6053,Desk,Office Supplies,West,Punjab,Amritsar,45,11279.53,14712.62,3433.09,Debit Card,Delivered,Standard Class,9,No Return,Yes,47
+ORD1831,07-07-2024,03-09-2025,CUST325,Emma Smith,Consumer,PROD2610,Chair,Technology,East,Delhi,Lucknow,10,7778.43,11558.28,3779.85,Net Banking,Pending,First Class,24,No Return,No,14
+ORD1832,29-06-2024,27-09-2024,CUST794,Stephen Brown,Consumer,PROD7833,Laptop,Technology,West,Maharashtra,Lucknow,22,15465.8,26399.23,10933.43,UPI,Cancelled,First Class,24,Returned,Yes,34
+ORD1833,15-10-2024,27-04-2024,CUST803,Amy Johnson,Home Office,PROD7885,Desk,Office Supplies,East,Punjab,Chennai,24,19697.78,27175.31,7477.53,Debit Card,Delivered,Same Day,7,Returned,No,35
+ORD1834,19-05-2024,05-05-2025,CUST654,Sophia Dunn,Home Office,PROD2732,Bookshelf,Furniture,North,Maharashtra,Chennai,35,18011.81,26161.77,8149.96,Debit Card,Delivered,First Class,22,Returned,Yes,5
+ORD1835,09-12-2024,10-10-2025,CUST657,John Smith,Home Office,PROD4617,Laptop,Office Supplies,East,Punjab,Delhi,25,16103.79,20772.08,4668.29,Cash,Cancelled,Standard Class,13,Returned,Yes,8
+ORD1836,07-03-2025,13-10-2025,CUST112,David Dunn,Home Office,PROD8787,Desk,Furniture,South,Tamil Nadu,Amritsar,17,19570.16,23501.34,3931.18,Cash,Delivered,Second Class,14,No Return,No,39
+ORD1837,22-01-2024,20-07-2024,CUST670,David Smith,Consumer,PROD1457,Desk,Furniture,North,Delhi,Lucknow,31,19705.87,27074.79,7368.92,UPI,Delivered,Second Class,1,No Return,Yes,20
+ORD1838,03-01-2024,06-11-2025,CUST145,Stephen Smith,Corporate,PROD5252,Pen Set,Office Supplies,West,Maharashtra,Lucknow,13,19323.85,21822.8,2498.95,Net Banking,Cancelled,Same Day,6,Returned,No,40
+ORD1839,14-11-2024,27-02-2024,CUST986,Stephen Green,Consumer,PROD4092,Pen Set,Furniture,East,Karnataka,Amritsar,13,19092.11,21436.49,2344.38,Credit Card,Pending,First Class,14,Returned,No,4
+ORD1840,16-12-2025,11-01-2024,CUST370,David Lee,Corporate,PROD5382,Chair,Furniture,West,Maharashtra,Mumbai,41,4319.93,5892.65,1572.72,Net Banking,Delivered,Standard Class,13,Returned,Yes,43
+ORD1841,30-03-2025,30-03-2025,CUST982,Amy Johnson,Home Office,PROD4794,Calculator,Technology,East,Karnataka,Mumbai,25,1759.98,2730.64,970.66,Credit Card,Cancelled,Same Day,21,No Return,Yes,1
+ORD1842,26-01-2024,25-11-2025,CUST138,Amy Brown,Home Office,PROD2728,Desk,Office Supplies,South,Delhi,Mumbai,20,7607.81,11081.32,3473.51,Credit Card,Cancelled,Standard Class,26,Returned,Yes,4
+ORD1843,23-01-2025,30-04-2025,CUST949,David Johnson,Home Office,PROD1526,Pen Set,Furniture,South,Karnataka,Delhi,16,14309.01,25261.01,10952.0,Debit Card,Pending,First Class,15,Returned,No,49
+ORD1844,19-10-2024,02-08-2025,CUST327,Stephen Green,Corporate,PROD6419,Pen Set,Technology,East,Tamil Nadu,Amritsar,7,18571.65,31601.21,13029.56,Credit Card,Cancelled,Second Class,14,No Return,No,38
+ORD1845,04-02-2024,21-12-2025,CUST745,David Brown,Consumer,PROD4846,Printer,Furniture,South,Karnataka,Lucknow,13,1329.89,1922.54,592.65,Credit Card,Cancelled,Standard Class,29,Returned,No,6
+ORD1846,30-11-2025,08-11-2024,CUST386,John Dunn,Corporate,PROD5127,Laptop,Office Supplies,North,UP,Delhi,22,11004.03,16199.88,5195.85,Credit Card,Delivered,Second Class,13,No Return,Yes,43
+ORD1847,13-01-2025,12-12-2025,CUST157,Amy Smith,Consumer,PROD8458,Printer,Furniture,East,Delhi,Lucknow,34,7759.76,10767.5,3007.74,Credit Card,Pending,Standard Class,0,No Return,Yes,28
+ORD1848,31-05-2025,24-03-2025,CUST833,Emma Dunn,Corporate,PROD9953,Laptop,Technology,West,Karnataka,Bangalore,18,13275.55,16641.53,3365.98,UPI,Pending,Second Class,20,Returned,Yes,37
+ORD1849,16-07-2025,08-07-2025,CUST282,Sophia Brown,Consumer,PROD4861,Desk,Furniture,South,Karnataka,Bangalore,13,1523.54,2596.19,1072.65,Cash,Delivered,Same Day,1,Returned,Yes,16
+ORD1850,30-10-2024,16-04-2024,CUST880,Emma Brown,Home Office,PROD9079,Desk,Furniture,West,UP,Chennai,23,1380.01,1819.62,439.61,Debit Card,Cancelled,First Class,21,Returned,No,3
+ORD1851,16-12-2024,06-04-2024,CUST512,John Brown,Home Office,PROD3057,Printer,Furniture,East,Maharashtra,Chennai,49,8385.49,11373.5,2988.01,Net Banking,Pending,First Class,18,No Return,Yes,36
+ORD1852,23-10-2025,21-03-2025,CUST688,Chris Brown,Consumer,PROD9223,Chair,Furniture,South,Maharashtra,Mumbai,19,14805.77,19242.64,4436.87,Cash,Delivered,Standard Class,8,Returned,Yes,41
+ORD1853,16-06-2025,18-01-2024,CUST343,John Dunn,Corporate,PROD6396,Bookshelf,Technology,East,Delhi,Mumbai,35,7240.02,8316.75,1076.73,Debit Card,Delivered,Standard Class,10,No Return,No,47
+ORD1854,10-02-2024,18-10-2025,CUST270,Monica Johnson,Consumer,PROD7082,Desk,Office Supplies,North,Karnataka,Delhi,12,9653.88,12841.43,3187.55,Net Banking,Delivered,Same Day,24,No Return,No,32
+ORD1855,28-10-2025,21-03-2024,CUST719,Chris Green,Home Office,PROD6240,Desk,Furniture,East,Maharashtra,Bangalore,24,12642.69,15941.28,3298.59,UPI,Pending,Second Class,25,No Return,No,17
+ORD1856,08-11-2024,24-09-2025,CUST292,David Brown,Consumer,PROD1306,Desk,Technology,West,Punjab,Amritsar,36,10165.05,12954.27,2789.22,Cash,Delivered,Second Class,28,No Return,Yes,3
+ORD1857,26-02-2025,27-05-2025,CUST593,Chris Brown,Corporate,PROD8261,Laptop,Technology,North,Karnataka,Mumbai,31,2798.53,4928.48,2129.95,Cash,Delivered,Standard Class,8,No Return,No,33
+ORD1858,24-07-2024,11-01-2025,CUST731,Chris Dunn,Home Office,PROD2749,Desk,Technology,North,Maharashtra,Delhi,29,6575.37,7569.45,994.08,Credit Card,Delivered,Same Day,28,No Return,No,31
+ORD1859,16-08-2024,10-01-2025,CUST760,Emma Dunn,Consumer,PROD2091,Printer,Technology,North,Karnataka,Mumbai,41,5859.97,9974.24,4114.27,Cash,Delivered,Standard Class,4,Returned,No,39
+ORD1860,23-11-2025,24-02-2025,CUST844,David Lee,Home Office,PROD5502,Printer,Furniture,West,Karnataka,Lucknow,26,16056.59,22350.53,6293.94,Debit Card,Delivered,Same Day,23,Returned,No,10
+ORD1861,31-03-2024,13-04-2024,CUST418,Monica Green,Corporate,PROD1134,Bookshelf,Technology,South,Karnataka,Bangalore,26,2986.37,3691.47,705.1,UPI,Pending,Standard Class,26,Returned,No,41
+ORD1862,20-01-2025,29-01-2024,CUST711,David Johnson,Home Office,PROD2531,Laptop,Office Supplies,West,Karnataka,Mumbai,48,9061.09,13203.36,4142.27,Debit Card,Cancelled,Same Day,2,Returned,Yes,20
+ORD1863,04-01-2025,26-06-2024,CUST989,Amy Green,Corporate,PROD8123,Pen Set,Furniture,South,Karnataka,Chennai,15,12774.7,15972.56,3197.86,Net Banking,Cancelled,Standard Class,5,No Return,Yes,34
+ORD1864,24-12-2024,16-03-2024,CUST557,Sophia Brown,Home Office,PROD7699,Bookshelf,Office Supplies,East,Delhi,Bangalore,31,16376.34,25828.18,9451.84,Debit Card,Pending,Standard Class,15,No Return,Yes,11
+ORD1865,28-11-2024,22-01-2025,CUST616,Chris Green,Corporate,PROD7637,Chair,Furniture,North,Tamil Nadu,Mumbai,1,19364.18,30559.03,11194.85,Cash,Cancelled,Standard Class,0,No Return,Yes,41
+ORD1866,06-04-2024,22-11-2024,CUST492,John Smith,Consumer,PROD9032,Bookshelf,Technology,North,Delhi,Chennai,2,15821.1,22340.22,6519.12,Cash,Pending,First Class,2,Returned,No,21
+ORD1867,06-06-2024,04-09-2025,CUST182,Stephen Green,Consumer,PROD1839,Printer,Technology,North,Tamil Nadu,Bangalore,27,12705.81,16450.17,3744.36,Debit Card,Cancelled,Same Day,20,No Return,No,46
+ORD1868,16-10-2024,24-01-2025,CUST687,Sophia Green,Corporate,PROD4047,Calculator,Furniture,South,Punjab,Delhi,21,2445.15,3252.37,807.22,Debit Card,Pending,Standard Class,21,Returned,Yes,37
+ORD1869,20-09-2025,01-03-2024,CUST558,David Johnson,Consumer,PROD5780,Bookshelf,Office Supplies,North,Karnataka,Delhi,44,5302.75,7780.17,2477.42,Cash,Pending,Same Day,8,No Return,Yes,6
+ORD1870,03-09-2025,25-03-2025,CUST338,Emma Brown,Home Office,PROD4695,Laptop,Technology,South,Delhi,Mumbai,32,18357.13,29426.42,11069.29,UPI,Cancelled,Same Day,23,No Return,Yes,1
+ORD1871,19-08-2024,04-10-2025,CUST997,Chris Johnson,Home Office,PROD6661,Printer,Technology,East,UP,Delhi,22,3936.82,4557.75,620.93,Net Banking,Cancelled,Second Class,25,Returned,No,3
+ORD1872,17-05-2024,26-12-2024,CUST816,Chris Dunn,Home Office,PROD3788,Chair,Office Supplies,North,Punjab,Chennai,1,7074.95,9353.7,2278.75,Net Banking,Pending,Same Day,4,No Return,No,23
+ORD1873,16-05-2024,14-08-2024,CUST691,Stephen Johnson,Corporate,PROD1351,Calculator,Office Supplies,South,Maharashtra,Chennai,37,9124.88,14188.8,5063.92,Debit Card,Cancelled,Same Day,14,Returned,No,47
+ORD1874,11-01-2025,03-12-2024,CUST386,Chris Dunn,Home Office,PROD7206,Desk,Office Supplies,East,UP,Chennai,35,15007.36,24103.25,9095.89,Credit Card,Pending,Second Class,6,No Return,No,43
+ORD1875,13-11-2025,08-05-2025,CUST219,David Smith,Consumer,PROD8889,Calculator,Technology,South,Maharashtra,Chennai,16,17450.82,27637.28,10186.46,Cash,Cancelled,Same Day,5,Returned,Yes,40
+ORD1876,16-09-2024,17-07-2024,CUST366,David Green,Consumer,PROD1638,Bookshelf,Technology,East,Punjab,Chennai,8,1562.63,2803.91,1241.28,UPI,Delivered,Second Class,10,Returned,Yes,42
+ORD1877,21-09-2024,15-06-2025,CUST653,John Brown,Corporate,PROD4257,Calculator,Furniture,North,UP,Lucknow,26,8852.09,11439.8,2587.71,Debit Card,Pending,First Class,17,Returned,No,32
+ORD1878,02-11-2024,01-07-2025,CUST151,David Lee,Home Office,PROD3015,Calculator,Furniture,South,Karnataka,Amritsar,18,6066.14,9247.64,3181.5,UPI,Delivered,Same Day,24,No Return,No,35
+ORD1879,12-03-2025,11-05-2024,CUST598,Sophia Johnson,Corporate,PROD5550,Chair,Office Supplies,East,Tamil Nadu,Mumbai,17,18652.74,29435.77,10783.03,Debit Card,Cancelled,Second Class,27,Returned,No,17
+ORD1880,01-09-2025,01-09-2025,CUST308,Chris Lee,Corporate,PROD4226,Desk,Office Supplies,North,Punjab,Delhi,31,8296.02,12757.83,4461.81,Net Banking,Cancelled,Standard Class,15,Returned,Yes,5
+ORD1881,04-01-2024,14-06-2025,CUST639,Sophia Green,Consumer,PROD2682,Printer,Technology,North,UP,Mumbai,24,14330.74,25788.74,11458.0,Cash,Pending,Second Class,3,Returned,Yes,9
+ORD1882,06-04-2025,09-04-2024,CUST693,Emma Green,Corporate,PROD4962,Calculator,Technology,North,Tamil Nadu,Delhi,1,7195.16,12305.18,5110.02,UPI,Cancelled,Standard Class,29,No Return,Yes,29
+ORD1883,18-12-2024,09-06-2024,CUST154,John Brown,Home Office,PROD3580,Chair,Furniture,West,Delhi,Bangalore,20,1557.12,2197.07,639.95,Net Banking,Delivered,Standard Class,21,No Return,No,39
+ORD1884,22-05-2024,27-03-2025,CUST526,John Green,Home Office,PROD6596,Calculator,Furniture,West,UP,Lucknow,13,9229.64,14917.29,5687.65,Cash,Pending,Second Class,27,No Return,Yes,24
+ORD1885,11-01-2025,04-04-2024,CUST156,Stephen Smith,Consumer,PROD8856,Printer,Technology,South,Karnataka,Bangalore,39,17063.09,28234.26,11171.17,Debit Card,Delivered,Standard Class,12,No Return,No,22
+ORD1886,22-05-2025,16-01-2024,CUST590,John Brown,Home Office,PROD4832,Pen Set,Furniture,West,UP,Delhi,15,17212.92,30760.59,13547.67,Net Banking,Delivered,First Class,21,Returned,Yes,47
+ORD1887,06-10-2025,19-01-2024,CUST459,Chris Brown,Corporate,PROD3581,Bookshelf,Office Supplies,East,Punjab,Mumbai,18,7028.34,9103.34,2075.0,Cash,Cancelled,Second Class,21,No Return,Yes,39
+ORD1888,28-06-2024,25-08-2025,CUST830,Monica Green,Home Office,PROD7413,Chair,Technology,North,Tamil Nadu,Lucknow,32,13454.56,21916.75,8462.19,Net Banking,Delivered,First Class,4,No Return,No,19
+ORD1889,27-08-2025,17-02-2024,CUST407,Sophia Dunn,Home Office,PROD6399,Printer,Office Supplies,East,Delhi,Delhi,16,9623.4,16320.03,6696.63,UPI,Cancelled,Same Day,20,Returned,Yes,35
+ORD1890,16-10-2024,11-09-2025,CUST842,Monica Lee,Consumer,PROD4018,Pen Set,Technology,West,Delhi,Delhi,6,3822.73,6380.47,2557.74,Credit Card,Pending,Second Class,24,No Return,Yes,23
+ORD1891,28-04-2024,18-10-2025,CUST959,Stephen Dunn,Consumer,PROD6317,Chair,Office Supplies,South,Maharashtra,Mumbai,49,15268.36,22317.35,7048.99,UPI,Pending,Same Day,6,Returned,No,49
+ORD1892,22-02-2025,08-09-2025,CUST489,Stephen Dunn,Corporate,PROD2399,Calculator,Technology,North,Tamil Nadu,Bangalore,44,18316.73,23649.85,5333.12,Credit Card,Cancelled,First Class,18,No Return,No,41
+ORD1893,06-09-2025,16-05-2025,CUST703,Amy Smith,Corporate,PROD2707,Chair,Office Supplies,West,Punjab,Bangalore,14,18251.2,30741.45,12490.25,Net Banking,Pending,Second Class,6,Returned,No,7
+ORD1894,10-03-2025,16-12-2025,CUST720,Chris Johnson,Consumer,PROD2789,Laptop,Technology,West,Tamil Nadu,Amritsar,45,800.01,979.86,179.85,Debit Card,Cancelled,Second Class,5,No Return,Yes,35
+ORD1895,22-06-2024,27-01-2024,CUST740,David Lee,Home Office,PROD8859,Calculator,Technology,East,Maharashtra,Delhi,41,130.18,182.2,52.02,Debit Card,Delivered,Same Day,11,No Return,No,39
+ORD1896,29-08-2025,15-08-2025,CUST767,Amy Green,Home Office,PROD4524,Pen Set,Office Supplies,West,Delhi,Delhi,17,5272.92,8503.28,3230.36,Credit Card,Cancelled,First Class,22,Returned,No,18
+ORD1897,13-03-2025,05-08-2024,CUST994,Chris Lee,Corporate,PROD4969,Pen Set,Technology,South,Maharashtra,Lucknow,40,4315.14,5143.6,828.46,UPI,Pending,Same Day,23,No Return,No,46
+ORD1898,15-01-2025,07-06-2024,CUST957,John Green,Home Office,PROD2854,Printer,Furniture,West,Maharashtra,Amritsar,7,11155.07,18592.67,7437.6,UPI,Cancelled,Same Day,23,No Return,No,32
+ORD1899,24-04-2024,22-07-2024,CUST795,Sophia Brown,Consumer,PROD1910,Laptop,Furniture,North,Punjab,Chennai,10,8202.75,12591.85,4389.1,Net Banking,Delivered,Standard Class,15,No Return,No,10
+ORD1900,13-11-2025,06-07-2024,CUST534,Chris Johnson,Corporate,PROD6786,Printer,Furniture,West,Karnataka,Lucknow,46,17848.7,28878.89,11030.19,Debit Card,Cancelled,Second Class,10,Returned,Yes,15
+ORD1901,23-12-2024,30-03-2024,CUST430,Emma Smith,Corporate,PROD7817,Bookshelf,Office Supplies,West,Punjab,Lucknow,18,11264.1,17768.02,6503.92,Cash,Pending,Standard Class,7,Returned,No,12
+ORD1902,03-10-2024,28-03-2024,CUST133,Stephen Dunn,Home Office,PROD6285,Desk,Office Supplies,East,UP,Mumbai,26,8345.98,12908.67,4562.69,Net Banking,Pending,Same Day,5,Returned,Yes,25
+ORD1903,03-01-2024,12-11-2025,CUST620,Monica Smith,Consumer,PROD8767,Chair,Technology,South,Tamil Nadu,Bangalore,41,1984.11,3252.8,1268.69,Cash,Pending,Second Class,24,No Return,Yes,1
+ORD1904,01-04-2025,05-08-2025,CUST792,Monica Dunn,Home Office,PROD5766,Bookshelf,Technology,South,Punjab,Amritsar,8,12057.55,17925.71,5868.16,UPI,Pending,Same Day,7,Returned,No,40
+ORD1905,15-10-2024,13-10-2024,CUST597,David Brown,Consumer,PROD1125,Chair,Office Supplies,West,Punjab,Amritsar,49,196.12,322.12,126.0,Credit Card,Delivered,Standard Class,21,No Return,Yes,42
+ORD1906,01-07-2025,01-05-2024,CUST332,John Brown,Corporate,PROD4610,Pen Set,Office Supplies,North,Maharashtra,Bangalore,8,4160.76,6445.6,2284.84,Credit Card,Cancelled,Same Day,16,No Return,No,39
+ORD1907,21-04-2025,27-05-2025,CUST332,John Lee,Consumer,PROD5728,Printer,Office Supplies,South,Tamil Nadu,Mumbai,46,9757.68,15683.53,5925.85,Net Banking,Pending,Second Class,6,No Return,Yes,28
+ORD1908,20-10-2024,12-05-2024,CUST843,Monica Lee,Corporate,PROD8680,Desk,Office Supplies,West,Punjab,Amritsar,9,7716.42,13829.55,6113.13,UPI,Delivered,First Class,8,Returned,No,31
+ORD1909,04-06-2024,25-05-2024,CUST345,Stephen Smith,Corporate,PROD6828,Desk,Technology,West,Delhi,Mumbai,31,15611.33,22939.26,7327.93,UPI,Cancelled,Same Day,10,No Return,No,9
+ORD1910,08-01-2024,14-11-2024,CUST883,John Johnson,Consumer,PROD3663,Bookshelf,Technology,East,Delhi,Delhi,32,13123.69,19736.78,6613.09,UPI,Pending,Standard Class,23,Returned,No,35
+ORD1911,08-08-2024,11-02-2025,CUST698,Chris Johnson,Corporate,PROD9014,Desk,Technology,East,Karnataka,Amritsar,11,17391.27,26235.69,8844.42,Cash,Cancelled,Same Day,16,Returned,Yes,7
+ORD1912,18-02-2025,08-05-2025,CUST653,David Dunn,Home Office,PROD8149,Calculator,Office Supplies,North,Karnataka,Amritsar,6,16325.07,22139.12,5814.05,Credit Card,Delivered,Second Class,4,Returned,Yes,15
+ORD1913,14-03-2025,07-10-2025,CUST282,Emma Smith,Corporate,PROD4609,Calculator,Furniture,North,Tamil Nadu,Amritsar,14,9756.04,12362.31,2606.27,Credit Card,Pending,Standard Class,19,No Return,No,14
+ORD1914,08-08-2024,03-07-2025,CUST100,David Brown,Home Office,PROD9239,Laptop,Furniture,East,Karnataka,Mumbai,13,12293.56,21236.95,8943.39,Debit Card,Delivered,First Class,18,No Return,No,1
+ORD1915,10-11-2024,08-02-2025,CUST703,Sophia Johnson,Consumer,PROD2210,Printer,Office Supplies,South,Delhi,Bangalore,31,10538.84,17910.62,7371.78,Net Banking,Pending,Second Class,16,Returned,No,32
+ORD1916,24-06-2024,17-07-2025,CUST633,Monica Lee,Home Office,PROD8637,Desk,Technology,North,Tamil Nadu,Chennai,21,17265.79,25959.41,8693.62,Net Banking,Delivered,Second Class,23,Returned,Yes,20
+ORD1917,16-02-2025,02-11-2025,CUST296,David Smith,Consumer,PROD4077,Bookshelf,Furniture,North,Punjab,Lucknow,48,299.97,360.17,60.2,Debit Card,Cancelled,Same Day,25,No Return,Yes,47
+ORD1918,06-02-2024,14-08-2025,CUST809,John Lee,Corporate,PROD8367,Chair,Technology,West,Tamil Nadu,Amritsar,31,14495.75,22617.13,8121.38,Cash,Delivered,Standard Class,15,No Return,No,3
+ORD1919,16-04-2024,02-11-2025,CUST430,Chris Lee,Corporate,PROD9702,Laptop,Office Supplies,East,UP,Lucknow,41,3767.78,5540.1,1772.32,UPI,Cancelled,Standard Class,21,No Return,No,38
+ORD1920,17-08-2024,03-10-2024,CUST594,Emma Johnson,Corporate,PROD1514,Bookshelf,Furniture,East,Maharashtra,Amritsar,46,11896.08,19885.8,7989.72,Net Banking,Pending,First Class,21,Returned,Yes,46
+ORD1921,09-08-2025,30-09-2025,CUST165,Stephen Johnson,Home Office,PROD6623,Printer,Furniture,North,UP,Chennai,3,13479.25,20674.48,7195.23,Cash,Cancelled,Standard Class,17,Returned,Yes,41
+ORD1922,18-12-2025,30-08-2024,CUST394,Monica Green,Home Office,PROD7233,Chair,Furniture,East,Punjab,Mumbai,29,11523.53,18021.48,6497.95,Debit Card,Cancelled,Standard Class,21,No Return,Yes,23
+ORD1923,05-08-2025,16-10-2025,CUST276,Emma Green,Corporate,PROD4811,Pen Set,Technology,North,Delhi,Chennai,30,10009.52,14608.49,4598.97,UPI,Delivered,Same Day,15,No Return,No,12
+ORD1924,27-07-2024,22-10-2024,CUST803,Sophia Dunn,Corporate,PROD3015,Pen Set,Furniture,West,Tamil Nadu,Delhi,1,4280.15,7251.54,2971.39,Cash,Cancelled,First Class,21,No Return,Yes,11
+ORD1925,10-06-2025,18-02-2024,CUST782,Monica Lee,Consumer,PROD6229,Bookshelf,Furniture,North,Maharashtra,Bangalore,31,7492.14,8863.64,1371.5,Debit Card,Delivered,Same Day,28,Returned,Yes,39
+ORD1926,30-11-2025,24-02-2024,CUST104,Emma Lee,Corporate,PROD1297,Laptop,Furniture,North,Punjab,Lucknow,7,5939.3,10442.13,4502.83,Net Banking,Delivered,First Class,16,Returned,No,22
+ORD1927,22-02-2025,22-05-2024,CUST757,David Johnson,Home Office,PROD6305,Desk,Technology,East,Tamil Nadu,Mumbai,35,14768.51,25628.52,10860.01,UPI,Cancelled,Standard Class,28,Returned,No,19
+ORD1928,09-05-2025,13-08-2025,CUST226,Stephen Green,Consumer,PROD4256,Calculator,Furniture,North,UP,Mumbai,3,6037.14,9776.56,3739.42,Debit Card,Cancelled,First Class,11,No Return,No,40
+ORD1929,01-02-2024,15-12-2024,CUST458,Sophia Johnson,Corporate,PROD7004,Chair,Office Supplies,East,UP,Amritsar,30,9369.51,14310.99,4941.48,Debit Card,Pending,First Class,18,No Return,No,1
+ORD1930,19-07-2024,04-09-2025,CUST469,Sophia Dunn,Consumer,PROD1325,Printer,Technology,West,UP,Amritsar,7,5067.83,6739.27,1671.44,Cash,Cancelled,Same Day,22,No Return,Yes,2
+ORD1931,27-12-2025,21-04-2024,CUST828,Stephen Lee,Corporate,PROD3270,Calculator,Office Supplies,South,Tamil Nadu,Lucknow,45,2353.24,3726.34,1373.1,Credit Card,Cancelled,First Class,29,No Return,No,25
+ORD1932,31-03-2024,24-08-2024,CUST125,Sophia Lee,Corporate,PROD6925,Desk,Office Supplies,West,Delhi,Delhi,30,10021.53,16670.16,6648.63,Cash,Pending,First Class,7,Returned,No,32
+ORD1933,04-10-2024,09-06-2025,CUST553,Sophia Johnson,Home Office,PROD1760,Printer,Office Supplies,North,Maharashtra,Bangalore,27,7484.07,9703.79,2219.72,Credit Card,Cancelled,Same Day,15,No Return,No,10
+ORD1934,01-04-2025,16-09-2025,CUST796,John Lee,Home Office,PROD3953,Chair,Office Supplies,East,Maharashtra,Chennai,7,17350.79,19485.12,2134.33,Credit Card,Pending,First Class,21,No Return,Yes,11
+ORD1935,17-11-2024,18-04-2024,CUST532,John Smith,Consumer,PROD5068,Pen Set,Technology,West,Karnataka,Mumbai,8,16501.66,18202.95,1701.29,UPI,Pending,Standard Class,15,Returned,No,14
+ORD1936,18-05-2025,05-06-2024,CUST532,John Green,Consumer,PROD3549,Chair,Office Supplies,North,Tamil Nadu,Amritsar,5,2448.77,3640.63,1191.86,Net Banking,Cancelled,Second Class,0,No Return,Yes,0
+ORD1937,20-06-2024,02-03-2025,CUST486,John Lee,Consumer,PROD5105,Printer,Technology,East,Punjab,Delhi,49,16671.27,26442.29,9771.02,Debit Card,Pending,Standard Class,27,No Return,Yes,36
+ORD1938,07-04-2024,20-01-2024,CUST511,Stephen Lee,Consumer,PROD5430,Chair,Technology,South,UP,Mumbai,13,7214.37,9738.23,2523.86,Credit Card,Cancelled,First Class,7,No Return,No,28
+ORD1939,03-10-2025,27-03-2024,CUST869,John Johnson,Corporate,PROD9245,Bookshelf,Office Supplies,East,Maharashtra,Chennai,20,14906.1,16727.17,1821.07,UPI,Pending,Standard Class,17,Returned,Yes,11
+ORD1940,22-02-2024,30-11-2025,CUST594,David Green,Corporate,PROD7009,Pen Set,Furniture,West,Karnataka,Lucknow,13,8954.36,13986.8,5032.44,Debit Card,Pending,First Class,2,Returned,No,3
+ORD1941,09-08-2025,16-10-2024,CUST742,John Green,Consumer,PROD6461,Laptop,Furniture,West,Karnataka,Lucknow,15,5007.09,6305.58,1298.49,Cash,Pending,First Class,21,No Return,No,44
+ORD1942,22-04-2025,28-07-2024,CUST602,Stephen Lee,Consumer,PROD4129,Desk,Office Supplies,East,Maharashtra,Delhi,37,1530.8,2302.03,771.23,Net Banking,Cancelled,Second Class,2,Returned,No,36
+ORD1943,20-09-2024,02-05-2025,CUST712,Stephen Dunn,Consumer,PROD4208,Calculator,Furniture,West,Delhi,Lucknow,6,10681.58,12050.47,1368.89,UPI,Delivered,Standard Class,19,Returned,Yes,6
+ORD1944,08-05-2024,29-12-2025,CUST294,Sophia Lee,Home Office,PROD2891,Desk,Office Supplies,East,UP,Amritsar,4,7578.59,8720.35,1141.76,UPI,Pending,Same Day,3,Returned,Yes,11
+ORD1945,23-06-2025,12-02-2025,CUST382,Sophia Green,Corporate,PROD6686,Laptop,Office Supplies,North,Karnataka,Lucknow,14,5287.81,8104.57,2816.76,UPI,Delivered,Standard Class,6,No Return,Yes,17
+ORD1946,03-04-2024,04-04-2024,CUST959,Monica Johnson,Consumer,PROD4605,Printer,Furniture,East,Tamil Nadu,Mumbai,38,9658.02,16247.19,6589.17,UPI,Delivered,Second Class,22,No Return,No,16
+ORD1947,25-03-2024,14-07-2025,CUST323,Stephen Dunn,Consumer,PROD2108,Printer,Technology,East,Maharashtra,Bangalore,17,17154.12,30676.69,13522.57,Credit Card,Pending,Second Class,25,No Return,No,5
+ORD1948,16-08-2025,02-06-2025,CUST492,John Johnson,Corporate,PROD5783,Laptop,Office Supplies,East,Punjab,Bangalore,48,17802.59,25271.34,7468.75,UPI,Cancelled,Same Day,18,No Return,No,29
+ORD1949,07-04-2024,25-05-2024,CUST900,John Smith,Corporate,PROD5125,Printer,Technology,West,Tamil Nadu,Bangalore,26,15041.54,21337.14,6295.6,Net Banking,Cancelled,Same Day,29,No Return,Yes,12
+ORD1950,05-04-2025,14-07-2024,CUST786,Sophia Green,Consumer,PROD9416,Printer,Office Supplies,North,Punjab,Bangalore,20,19749.55,26076.78,6327.23,Cash,Cancelled,First Class,0,Returned,No,47
+ORD1951,14-02-2024,11-09-2025,CUST312,Amy Dunn,Consumer,PROD7098,Desk,Technology,West,Punjab,Delhi,34,16917.6,20318.19,3400.59,Net Banking,Cancelled,Standard Class,21,Returned,Yes,37
+ORD1952,24-05-2024,03-04-2024,CUST827,Amy Johnson,Consumer,PROD6434,Calculator,Furniture,East,UP,Amritsar,19,8378.16,14206.51,5828.35,Credit Card,Delivered,Second Class,9,Returned,Yes,9
+ORD1953,21-11-2025,14-09-2024,CUST383,David Johnson,Corporate,PROD4200,Desk,Technology,West,Punjab,Chennai,45,7414.59,12043.37,4628.78,UPI,Pending,Second Class,1,Returned,No,26
+ORD1954,02-04-2024,10-04-2025,CUST649,Chris Lee,Home Office,PROD5141,Chair,Office Supplies,South,Karnataka,Bangalore,43,11630.26,20767.93,9137.67,Net Banking,Delivered,Same Day,25,No Return,No,24
+ORD1955,16-06-2024,10-06-2025,CUST392,Emma Lee,Corporate,PROD1354,Laptop,Technology,North,UP,Lucknow,9,8897.69,12840.65,3942.96,UPI,Cancelled,First Class,23,Returned,Yes,21
+ORD1956,06-09-2024,14-05-2025,CUST285,Chris Johnson,Corporate,PROD6369,Desk,Furniture,East,Maharashtra,Delhi,45,12652.24,14304.84,1652.6,UPI,Pending,First Class,2,Returned,No,7
+ORD1957,10-03-2025,26-02-2024,CUST221,Emma Brown,Corporate,PROD2348,Calculator,Office Supplies,West,UP,Mumbai,22,1029.48,1143.97,114.49,Debit Card,Delivered,Second Class,7,No Return,No,47
+ORD1958,13-04-2024,16-09-2025,CUST206,Chris Smith,Corporate,PROD5639,Calculator,Technology,West,Tamil Nadu,Chennai,1,522.98,776.83,253.85,Cash,Delivered,Same Day,25,Returned,No,20
+ORD1959,03-04-2024,21-08-2024,CUST358,David Smith,Home Office,PROD1008,Chair,Technology,East,Delhi,Bangalore,15,15983.62,22521.34,6537.72,UPI,Cancelled,Same Day,21,Returned,Yes,24
+ORD1960,20-05-2024,11-04-2024,CUST440,Amy Smith,Corporate,PROD1657,Laptop,Technology,East,Maharashtra,Lucknow,40,19522.23,22710.84,3188.61,UPI,Pending,Second Class,1,No Return,Yes,13
+ORD1961,09-12-2025,30-06-2024,CUST508,John Lee,Home Office,PROD3365,Calculator,Office Supplies,South,Punjab,Delhi,5,17661.06,31461.16,13800.1,Credit Card,Delivered,First Class,5,No Return,Yes,35
+ORD1962,10-01-2024,06-09-2024,CUST784,John Dunn,Home Office,PROD9816,Calculator,Technology,West,Karnataka,Bangalore,10,484.47,593.24,108.77,Credit Card,Cancelled,First Class,15,Returned,No,7
+ORD1963,26-06-2024,08-07-2024,CUST795,Monica Dunn,Consumer,PROD1574,Pen Set,Office Supplies,East,UP,Lucknow,12,392.17,511.9,119.73,UPI,Cancelled,Second Class,2,No Return,Yes,7
+ORD1964,26-12-2025,02-03-2025,CUST242,David Dunn,Consumer,PROD8705,Calculator,Furniture,East,Karnataka,Lucknow,28,12408.13,14407.65,1999.52,UPI,Pending,Same Day,13,Returned,Yes,7
+ORD1965,14-02-2024,09-04-2024,CUST161,David Green,Home Office,PROD4431,Pen Set,Furniture,West,Tamil Nadu,Delhi,37,10590.32,15707.03,5116.71,Cash,Delivered,First Class,18,Returned,Yes,16
+ORD1966,22-05-2024,01-09-2024,CUST316,Chris Brown,Consumer,PROD3169,Calculator,Technology,North,Maharashtra,Chennai,9,15013.12,21920.51,6907.39,Credit Card,Delivered,Second Class,23,Returned,Yes,48
+ORD1967,02-07-2024,25-12-2025,CUST595,Amy Brown,Home Office,PROD1850,Pen Set,Furniture,West,Delhi,Bangalore,38,18111.5,22148.0,4036.5,Debit Card,Cancelled,Same Day,3,Returned,Yes,10
+ORD1968,09-10-2024,27-05-2025,CUST783,Chris Smith,Consumer,PROD9332,Pen Set,Office Supplies,South,Maharashtra,Delhi,10,5547.19,6506.65,959.46,Credit Card,Pending,Second Class,3,Returned,Yes,16
+ORD1969,19-06-2025,27-08-2024,CUST472,Sophia Lee,Consumer,PROD8917,Desk,Furniture,North,Maharashtra,Bangalore,23,6616.54,8602.47,1985.93,Credit Card,Pending,Standard Class,18,No Return,Yes,35
+ORD1970,03-11-2024,09-04-2025,CUST519,Stephen Johnson,Consumer,PROD2745,Bookshelf,Furniture,West,UP,Amritsar,4,10125.68,17278.86,7153.18,Credit Card,Delivered,Standard Class,12,No Return,No,44
+ORD1971,02-02-2024,31-07-2025,CUST895,Stephen Smith,Consumer,PROD7370,Laptop,Office Supplies,South,UP,Delhi,7,18945.03,31153.83,12208.8,UPI,Delivered,First Class,21,No Return,Yes,7
+ORD1972,09-05-2025,19-06-2024,CUST518,Stephen Green,Consumer,PROD2204,Pen Set,Furniture,South,UP,Delhi,6,2144.38,2426.24,281.86,UPI,Delivered,Standard Class,2,No Return,Yes,3
+ORD1973,24-07-2024,02-03-2025,CUST969,Chris Brown,Consumer,PROD5751,Calculator,Office Supplies,South,UP,Mumbai,43,16891.86,26215.14,9323.28,Cash,Pending,Second Class,13,No Return,Yes,46
+ORD1974,25-07-2024,30-01-2025,CUST748,Sophia Smith,Corporate,PROD7412,Bookshelf,Office Supplies,East,Maharashtra,Bangalore,28,1510.53,2139.26,628.73,Debit Card,Delivered,Same Day,14,Returned,Yes,3
+ORD1975,22-10-2024,17-01-2025,CUST136,Chris Green,Corporate,PROD7989,Laptop,Office Supplies,West,UP,Mumbai,45,9307.3,11127.2,1819.9,Credit Card,Cancelled,Second Class,9,No Return,Yes,27
+ORD1976,07-07-2025,22-11-2024,CUST722,Monica Johnson,Corporate,PROD7067,Laptop,Furniture,West,Karnataka,Amritsar,9,16455.27,28281.95,11826.68,Credit Card,Cancelled,Same Day,5,Returned,Yes,17
+ORD1977,08-03-2025,27-11-2024,CUST949,Emma Lee,Home Office,PROD7759,Desk,Technology,South,Punjab,Chennai,3,11485.02,18933.89,7448.87,Debit Card,Cancelled,Same Day,13,Returned,No,8
+ORD1978,29-06-2025,03-11-2024,CUST464,David Smith,Consumer,PROD8789,Laptop,Furniture,West,Delhi,Mumbai,42,4355.88,5032.07,676.19,Cash,Delivered,First Class,9,Returned,No,40
+ORD1979,27-01-2025,09-06-2024,CUST368,Amy Lee,Consumer,PROD6367,Pen Set,Office Supplies,East,Punjab,Delhi,20,880.74,1418.41,537.67,Net Banking,Pending,First Class,24,Returned,No,37
+ORD1980,03-06-2024,27-08-2024,CUST308,David Johnson,Consumer,PROD1144,Desk,Technology,South,Delhi,Bangalore,30,8115.5,8968.49,852.99,UPI,Cancelled,Standard Class,7,Returned,Yes,18
+ORD1981,09-01-2024,02-11-2025,CUST452,John Smith,Consumer,PROD8452,Desk,Technology,North,Tamil Nadu,Lucknow,49,8695.14,11562.68,2867.54,Credit Card,Pending,Standard Class,6,Returned,Yes,25
+ORD1982,28-02-2025,02-09-2024,CUST173,Monica Brown,Home Office,PROD5191,Laptop,Technology,East,UP,Mumbai,33,15719.33,23779.9,8060.57,Cash,Delivered,First Class,15,No Return,No,36
+ORD1983,21-12-2025,16-12-2024,CUST487,David Brown,Consumer,PROD2592,Pen Set,Furniture,North,Delhi,Bangalore,10,16096.26,21594.24,5497.98,Net Banking,Pending,Same Day,19,No Return,No,16
+ORD1984,17-07-2024,06-02-2024,CUST561,Stephen Brown,Home Office,PROD7912,Printer,Office Supplies,West,Karnataka,Lucknow,34,3558.85,6020.35,2461.5,Credit Card,Pending,First Class,25,No Return,No,25
+ORD1985,17-12-2024,24-07-2024,CUST550,Stephen Johnson,Corporate,PROD1868,Printer,Technology,South,UP,Chennai,32,3534.15,6060.05,2525.9,Net Banking,Cancelled,First Class,8,No Return,Yes,41
+ORD1986,07-11-2025,17-10-2024,CUST632,Stephen Green,Corporate,PROD1153,Printer,Technology,East,Karnataka,Delhi,46,2082.19,2792.3,710.11,UPI,Delivered,Standard Class,9,No Return,No,19
+ORD1987,03-09-2024,09-09-2025,CUST893,David Johnson,Corporate,PROD8300,Bookshelf,Office Supplies,East,UP,Chennai,7,13213.37,23399.71,10186.34,Credit Card,Pending,First Class,7,No Return,Yes,18
+ORD1988,08-01-2025,21-05-2025,CUST841,Monica Lee,Corporate,PROD7281,Chair,Office Supplies,North,Tamil Nadu,Mumbai,9,7286.4,8526.34,1239.94,Net Banking,Cancelled,Standard Class,0,Returned,Yes,22
+ORD1989,17-02-2024,24-04-2025,CUST972,David Lee,Corporate,PROD9301,Calculator,Technology,East,Karnataka,Delhi,18,13872.59,24314.46,10441.87,Credit Card,Pending,Second Class,16,Returned,Yes,34
+ORD1990,02-07-2025,06-07-2025,CUST915,Sophia Brown,Home Office,PROD3993,Chair,Office Supplies,South,Delhi,Bangalore,36,1450.29,2349.86,899.57,UPI,Cancelled,First Class,27,Returned,Yes,13
+ORD1991,19-12-2024,20-07-2025,CUST262,Stephen Brown,Home Office,PROD3239,Pen Set,Office Supplies,East,Delhi,Bangalore,47,18964.6,33874.33,14909.73,UPI,Cancelled,Second Class,22,No Return,No,42
+ORD1992,21-03-2025,21-03-2025,CUST648,Monica Brown,Home Office,PROD9306,Desk,Office Supplies,North,Karnataka,Chennai,43,17878.31,30379.1,12500.79,Cash,Cancelled,First Class,12,No Return,No,13
+ORD1993,26-06-2025,26-12-2025,CUST878,Monica Lee,Home Office,PROD2122,Pen Set,Technology,West,Tamil Nadu,Mumbai,48,5651.69,7527.62,1875.93,Debit Card,Pending,Same Day,5,Returned,Yes,33
+ORD1994,16-03-2024,26-10-2024,CUST309,Emma Green,Consumer,PROD5626,Printer,Furniture,West,Maharashtra,Delhi,33,8695.89,14101.62,5405.73,Cash,Delivered,Standard Class,10,No Return,No,4
+ORD1995,11-08-2025,04-05-2025,CUST439,Stephen Dunn,Corporate,PROD4404,Pen Set,Furniture,South,Karnataka,Lucknow,22,7212.18,9964.88,2752.7,Net Banking,Cancelled,Standard Class,26,Returned,Yes,4
+ORD1996,10-04-2025,25-03-2024,CUST307,David Dunn,Home Office,PROD7157,Desk,Furniture,North,Karnataka,Amritsar,14,5496.58,6333.18,836.6,Cash,Pending,Standard Class,16,Returned,Yes,18
+ORD1997,26-09-2024,26-01-2025,CUST563,Chris Dunn,Consumer,PROD4372,Bookshelf,Furniture,West,Maharashtra,Mumbai,23,3304.35,5550.47,2246.12,Net Banking,Cancelled,First Class,24,Returned,Yes,32
+ORD1998,16-06-2025,17-10-2024,CUST591,Amy Johnson,Home Office,PROD6605,Printer,Furniture,North,Maharashtra,Amritsar,11,5144.37,6017.57,873.2,Debit Card,Pending,Same Day,12,No Return,Yes,42
+ORD1999,03-12-2024,21-06-2024,CUST327,David Lee,Home Office,PROD5307,Desk,Furniture,West,UP,Mumbai,33,15574.48,21955.22,6380.74,Debit Card,Pending,First Class,10,Returned,No,23
